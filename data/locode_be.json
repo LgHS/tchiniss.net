@@ -1,0 +1,7370 @@
+[
+  {
+    "LOCODE": "ALB",
+    "NAME": "Aalbeke"
+  },
+  {
+    "LOCODE": "AAB",
+    "NAME": "Aalst"
+  },
+  {
+    "LOCODE": "AAL",
+    "NAME": "Aalter"
+  },
+  {
+    "LOCODE": "AAS",
+    "NAME": "Aarschot"
+  },
+  {
+    "LOCODE": "ARS",
+    "NAME": "Aarsele"
+  },
+  {
+    "LOCODE": "ART",
+    "NAME": "Aartrijke"
+  },
+  {
+    "LOCODE": "AAR",
+    "NAME": "Aartselaar"
+  },
+  {
+    "LOCODE": "AHL",
+    "NAME": "Achel"
+  },
+  {
+    "LOCODE": "ACE",
+    "NAME": "Achet"
+  },
+  {
+    "LOCODE": "ACH",
+    "NAME": "Achouffe"
+  },
+  {
+    "LOCODE": "AGE",
+    "NAME": "Adegem"
+  },
+  {
+    "LOCODE": "ADK",
+    "NAME": "Adinkerke"
+  },
+  {
+    "LOCODE": "AFF",
+    "NAME": "Affligem"
+  },
+  {
+    "LOCODE": "AFN",
+    "NAME": "Afsnee"
+  },
+  {
+    "LOCODE": "AGI",
+    "NAME": "Agimont"
+  },
+  {
+    "LOCODE": "APE",
+    "NAME": "Aiseau-Presles"
+  },
+  {
+    "LOCODE": "ABK",
+    "NAME": "Albertkanaal ports"
+  },
+  {
+    "LOCODE": "AKN",
+    "NAME": "Alken"
+  },
+  {
+    "LOCODE": "AEL",
+    "NAME": "Alleur"
+  },
+  {
+    "LOCODE": "ASB",
+    "NAME": "Alsemberg"
+  },
+  {
+    "LOCODE": "AVR",
+    "NAME": "Alveringem"
+  },
+  {
+    "LOCODE": "AMY",
+    "NAME": "Amay"
+  },
+  {
+    "LOCODE": "AME",
+    "NAME": "Amblève"
+  },
+  {
+    "LOCODE": "ABY",
+    "NAME": "Ambly"
+  },
+  {
+    "LOCODE": "AML",
+    "NAME": "Amel"
+  },
+  {
+    "LOCODE": "AOG",
+    "NAME": "Amougies"
+  },
+  {
+    "LOCODE": "APS",
+    "NAME": "Ampsin"
+  },
+  {
+    "LOCODE": "AND",
+    "NAME": "Andenne"
+  },
+  {
+    "LOCODE": "ANL",
+    "NAME": "Anderlecht/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "ADU",
+    "NAME": "Anderlues"
+  },
+  {
+    "LOCODE": "ANY",
+    "NAME": "Andoy"
+  },
+  {
+    "LOCODE": "AMO",
+    "NAME": "Andrimont"
+  },
+  {
+    "LOCODE": "ANB",
+    "NAME": "Angleur"
+  },
+  {
+    "LOCODE": "ANG",
+    "NAME": "Angreau"
+  },
+  {
+    "LOCODE": "ANH",
+    "NAME": "Anhée"
+  },
+  {
+    "LOCODE": "ALI",
+    "NAME": "Anlier"
+  },
+  {
+    "LOCODE": "AVE",
+    "NAME": "Annevoie"
+  },
+  {
+    "LOCODE": "ANS",
+    "NAME": "Ans"
+  },
+  {
+    "LOCODE": "ASR",
+    "NAME": "Anseremme"
+  },
+  {
+    "LOCODE": "AHE",
+    "NAME": "Antheit"
+  },
+  {
+    "LOCODE": "AIS",
+    "NAME": "Anthisnes"
+  },
+  {
+    "LOCODE": "ATO",
+    "NAME": "Antoing"
+  },
+  {
+    "LOCODE": "ANT",
+    "NAME": "Antwerp Churchill Terminal"
+  },
+  {
+    "LOCODE": "ANR",
+    "NAME": "Antwerpen"
+  },
+  {
+    "LOCODE": "AVG",
+    "NAME": "Anvaing"
+  },
+  {
+    "LOCODE": "AZM",
+    "NAME": "Anzegem"
+  },
+  {
+    "LOCODE": "APL",
+    "NAME": "Appels"
+  },
+  {
+    "LOCODE": "APT",
+    "NAME": "Appelterre-Eichem"
+  },
+  {
+    "LOCODE": "ABE",
+    "NAME": "Arbre"
+  },
+  {
+    "LOCODE": "ACS",
+    "NAME": "Archennes"
+  },
+  {
+    "LOCODE": "ADO",
+    "NAME": "Ardooie"
+  },
+  {
+    "LOCODE": "AEJ",
+    "NAME": "Arendonk"
+  },
+  {
+    "LOCODE": "AGT",
+    "NAME": "Argenteau"
+  },
+  {
+    "LOCODE": "ARL",
+    "NAME": "Arlon"
+  },
+  {
+    "LOCODE": "AQE",
+    "NAME": "Arquennes"
+  },
+  {
+    "LOCODE": "ASS",
+    "NAME": "As"
+  },
+  {
+    "LOCODE": "ASE",
+    "NAME": "Aspelare"
+  },
+  {
+    "LOCODE": "ASP",
+    "NAME": "Asper"
+  },
+  {
+    "LOCODE": "AES",
+    "NAME": "Asse"
+  },
+  {
+    "LOCODE": "ABR",
+    "NAME": "Assebroek"
+  },
+  {
+    "LOCODE": "ANE",
+    "NAME": "Assenede"
+  },
+  {
+    "LOCODE": "ASN",
+    "NAME": "Assesse"
+  },
+  {
+    "LOCODE": "AST",
+    "NAME": "Astene"
+  },
+  {
+    "LOCODE": "ATH",
+    "NAME": "Ath"
+  },
+  {
+    "LOCODE": "7PD",
+    "NAME": "Athis"
+  },
+  {
+    "LOCODE": "AAT",
+    "NAME": "Athus"
+  },
+  {
+    "LOCODE": "AHO",
+    "NAME": "Attenhoven"
+  },
+  {
+    "LOCODE": "ARO",
+    "NAME": "Attenrode"
+  },
+  {
+    "LOCODE": "ATE",
+    "NAME": "Attert"
+  },
+  {
+    "LOCODE": "ARE",
+    "NAME": "Attre"
+  },
+  {
+    "LOCODE": "AUG",
+    "NAME": "Aubange"
+  },
+  {
+    "LOCODE": "AUB",
+    "NAME": "Aubechies"
+  },
+  {
+    "LOCODE": "AUL",
+    "NAME": "Aubel"
+  },
+  {
+    "LOCODE": "AUY",
+    "NAME": "Auby"
+  },
+  {
+    "LOCODE": "ODE",
+    "NAME": "Auderghem (Oudergem)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "ADI",
+    "NAME": "Audregnies"
+  },
+  {
+    "LOCODE": "AVS",
+    "NAME": "Auvelais"
+  },
+  {
+    "LOCODE": "AVL",
+    "NAME": "Avelgem"
+  },
+  {
+    "LOCODE": "ABO",
+    "NAME": "Averbode"
+  },
+  {
+    "LOCODE": "AWS",
+    "NAME": "Awans"
+  },
+  {
+    "LOCODE": "W5R",
+    "NAME": "Awirs"
+  },
+  {
+    "LOCODE": "AYW",
+    "NAME": "Aywaille"
+  },
+  {
+    "LOCODE": "BAL",
+    "NAME": "Baal"
+  },
+  {
+    "LOCODE": "BDE",
+    "NAME": "Baardegem"
+  },
+  {
+    "LOCODE": "BHO",
+    "NAME": "Baarle-Hertog"
+  },
+  {
+    "LOCODE": "BSR",
+    "NAME": "Baasrode"
+  },
+  {
+    "LOCODE": "BLN",
+    "NAME": "Baelen"
+  },
+  {
+    "LOCODE": "BAX",
+    "NAME": "Baileux"
+  },
+  {
+    "LOCODE": "BAI",
+    "NAME": "Baillonville"
+  },
+  {
+    "LOCODE": "BYT",
+    "NAME": "Baisy-Thy"
+  },
+  {
+    "LOCODE": "BLE",
+    "NAME": "Balen"
+  },
+  {
+    "LOCODE": "BGK",
+    "NAME": "Balgerhoek"
+  },
+  {
+    "LOCODE": "BND",
+    "NAME": "Bande"
+  },
+  {
+    "LOCODE": "BNN",
+    "NAME": "Banneux"
+  },
+  {
+    "LOCODE": "BCN",
+    "NAME": "Barchon"
+  },
+  {
+    "LOCODE": "BRV",
+    "NAME": "Baronville"
+  },
+  {
+    "LOCODE": "BAY",
+    "NAME": "Barry"
+  },
+  {
+    "LOCODE": "BES",
+    "NAME": "Basècles"
+  },
+  {
+    "LOCODE": "BOA",
+    "NAME": "Bas-Oha"
+  },
+  {
+    "LOCODE": "BBX",
+    "NAME": "Basse-Bodeux"
+  },
+  {
+    "LOCODE": "BTS",
+    "NAME": "Bassenge (Bitsingen)"
+  },
+  {
+    "LOCODE": "BSV",
+    "NAME": "Bassevelde"
+  },
+  {
+    "LOCODE": "BSY",
+    "NAME": "Bassilly"
+  },
+  {
+    "LOCODE": "BSG",
+    "NAME": "Bastogne"
+  },
+  {
+    "LOCODE": "BWA",
+    "NAME": "Bas-Warneton"
+  },
+  {
+    "LOCODE": "BAT",
+    "NAME": "Battel"
+  },
+  {
+    "LOCODE": "BTC",
+    "NAME": "Battice"
+  },
+  {
+    "LOCODE": "BDU",
+    "NAME": "Baudour"
+  },
+  {
+    "LOCODE": "BGI",
+    "NAME": "Baugnies"
+  },
+  {
+    "LOCODE": "BAS",
+    "NAME": "Baulers"
+  },
+  {
+    "LOCODE": "BVG",
+    "NAME": "Bavegem"
+  },
+  {
+    "LOCODE": "BAV",
+    "NAME": "Bavikhove"
+  },
+  {
+    "LOCODE": "BAZ",
+    "NAME": "Bazel"
+  },
+  {
+    "LOCODE": "BFY",
+    "NAME": "Beaufays"
+  },
+  {
+    "LOCODE": "BEA",
+    "NAME": "Beaumont"
+  },
+  {
+    "LOCODE": "BUR",
+    "NAME": "Beauraing"
+  },
+  {
+    "LOCODE": "BVC",
+    "NAME": "Beauvechain"
+  },
+  {
+    "LOCODE": "BWZ",
+    "NAME": "Beauwelz"
+  },
+  {
+    "LOCODE": "BCS",
+    "NAME": "Beclers"
+  },
+  {
+    "LOCODE": "BRM",
+    "NAME": "Beernem"
+  },
+  {
+    "LOCODE": "BER",
+    "NAME": "Beerse"
+  },
+  {
+    "LOCODE": "BEE",
+    "NAME": "Beersel"
+  },
+  {
+    "LOCODE": "BSZ",
+    "NAME": "Beerst"
+  },
+  {
+    "LOCODE": "BTE",
+    "NAME": "Beert"
+  },
+  {
+    "LOCODE": "BVD",
+    "NAME": "Beervelde"
+  },
+  {
+    "LOCODE": "BEZ",
+    "NAME": "Beez"
+  },
+  {
+    "LOCODE": "BGY",
+    "NAME": "Begijnendijk"
+  },
+  {
+    "LOCODE": "BEH",
+    "NAME": "Beho"
+  },
+  {
+    "LOCODE": "BEI",
+    "NAME": "Beigem"
+  },
+  {
+    "LOCODE": "BKO",
+    "NAME": "Bekkevoort"
+  },
+  {
+    "LOCODE": "BLK",
+    "NAME": "Belgiek"
+  },
+  {
+    "LOCODE": "BGA",
+    "NAME": "Belgrade"
+  },
+  {
+    "LOCODE": "BCR",
+    "NAME": "Bellecourt"
+  },
+  {
+    "LOCODE": "BGE",
+    "NAME": "Bellegem"
+  },
+  {
+    "LOCODE": "BEM",
+    "NAME": "Bellem"
+  },
+  {
+    "LOCODE": "BVX",
+    "NAME": "Bellevaux"
+  },
+  {
+    "LOCODE": "BLI",
+    "NAME": "Bellingen"
+  },
+  {
+    "LOCODE": "BLO",
+    "NAME": "Beloeil"
+  },
+  {
+    "LOCODE": "BSL",
+    "NAME": "Belsele"
+  },
+  {
+    "LOCODE": "BAN",
+    "NAME": "Ben-Ahin"
+  },
+  {
+    "LOCODE": "BEN",
+    "NAME": "Bende"
+  },
+  {
+    "LOCODE": "BCM",
+    "NAME": "Berchem"
+  },
+  {
+    "LOCODE": "BPC",
+    "NAME": "Berchem"
+  },
+  {
+    "LOCODE": "BRT",
+    "NAME": "Berendrecht"
+  },
+  {
+    "LOCODE": "VBN",
+    "NAME": "Bergen"
+  },
+  {
+    "LOCODE": "GOM",
+    "NAME": "Bergom"
+  },
+  {
+    "LOCODE": "RIN",
+    "NAME": "Beringen"
+  },
+  {
+    "LOCODE": "BAR",
+    "NAME": "Berlaar"
+  },
+  {
+    "LOCODE": "BRL",
+    "NAME": "Berlare"
+  },
+  {
+    "LOCODE": "LRZ",
+    "NAME": "Berloz"
+  },
+  {
+    "LOCODE": "BNU",
+    "NAME": "Berneau"
+  },
+  {
+    "LOCODE": "ABC",
+    "NAME": "Bernissart"
+  },
+  {
+    "LOCODE": "BTM",
+    "NAME": "Bertem"
+  },
+  {
+    "LOCODE": "BTO",
+    "NAME": "Bertogne"
+  },
+  {
+    "LOCODE": "BTX",
+    "NAME": "Bertrix"
+  },
+  {
+    "LOCODE": "BZE",
+    "NAME": "Berzée"
+  },
+  {
+    "LOCODE": "BR3",
+    "NAME": "Beselare"
+  },
+  {
+    "LOCODE": "BET",
+    "NAME": "Bettincourt"
+  },
+  {
+    "LOCODE": "BVL",
+    "NAME": "Bevel"
+  },
+  {
+    "LOCODE": "BVE",
+    "NAME": "Bever"
+  },
+  {
+    "LOCODE": "BEV",
+    "NAME": "Beveren"
+  },
+  {
+    "LOCODE": "BEL",
+    "NAME": "Beveren Leie"
+  },
+  {
+    "LOCODE": "BIZ",
+    "NAME": "Beveren-aan-den-Ijzer"
+  },
+  {
+    "LOCODE": "BWS",
+    "NAME": "Beveren-Waas"
+  },
+  {
+    "LOCODE": "BVO",
+    "NAME": "Beverlo"
+  },
+  {
+    "LOCODE": "BYE",
+    "NAME": "Beyne-Heusay"
+  },
+  {
+    "LOCODE": "BHA",
+    "NAME": "Bienne-lez-Happart"
+  },
+  {
+    "LOCODE": "BKE",
+    "NAME": "Bierbeek"
+  },
+  {
+    "LOCODE": "BCE",
+    "NAME": "Biercée"
+  },
+  {
+    "LOCODE": "BIE",
+    "NAME": "Bierges"
+  },
+  {
+    "LOCODE": "BIH",
+    "NAME": "Bierghes"
+  },
+  {
+    "LOCODE": "BST",
+    "NAME": "Bierset"
+  },
+  {
+    "LOCODE": "BQE",
+    "NAME": "Biesme"
+  },
+  {
+    "LOCODE": "BUN",
+    "NAME": "Biesme-sous-Thuin"
+  },
+  {
+    "LOCODE": "BIV",
+    "NAME": "Bièvre"
+  },
+  {
+    "LOCODE": "BSN",
+    "NAME": "Bilstain"
+  },
+  {
+    "LOCODE": "BLZ",
+    "NAME": "Bilzen"
+  },
+  {
+    "LOCODE": "BCI",
+    "NAME": "Binche"
+  },
+  {
+    "LOCODE": "BKM",
+    "NAME": "Binkom"
+  },
+  {
+    "LOCODE": "BSE",
+    "NAME": "Bissegem"
+  },
+  {
+    "LOCODE": "BTS",
+    "NAME": "Bitsingen (Bassenge)"
+  },
+  {
+    "LOCODE": "BZI",
+    "NAME": "Bizet"
+  },
+  {
+    "LOCODE": "BAD",
+    "NAME": "Blaasveld"
+  },
+  {
+    "LOCODE": "BIM",
+    "NAME": "Blaimont"
+  },
+  {
+    "LOCODE": "BDI",
+    "NAME": "Blandain"
+  },
+  {
+    "LOCODE": "BLD",
+    "NAME": "Blanden"
+  },
+  {
+    "LOCODE": "BBG",
+    "NAME": "Blankenberge"
+  },
+  {
+    "LOCODE": "WHT",
+    "NAME": "Blaregnies"
+  },
+  {
+    "LOCODE": "BLT",
+    "NAME": "Blaton"
+  },
+  {
+    "LOCODE": "BNY",
+    "NAME": "Blegny"
+  },
+  {
+    "LOCODE": "BHR",
+    "NAME": "Bléharies"
+  },
+  {
+    "LOCODE": "BQY",
+    "NAME": "Blicquy"
+  },
+  {
+    "LOCODE": "BOC",
+    "NAME": "Bocholt"
+  },
+  {
+    "LOCODE": "BCT",
+    "NAME": "Boechout"
+  },
+  {
+    "LOCODE": "BHE",
+    "NAME": "Boekhoute"
+  },
+  {
+    "LOCODE": "BZG",
+    "NAME": "Boezinge"
+  },
+  {
+    "LOCODE": "BOH",
+    "NAME": "Bohan"
+  },
+  {
+    "LOCODE": "SLI",
+    "NAME": "Bois-de-Lessines"
+  },
+  {
+    "LOCODE": "BDV",
+    "NAME": "Bois-De-Villers"
+  },
+  {
+    "LOCODE": "BDH",
+    "NAME": "Bois-d'Haine"
+  },
+  {
+    "LOCODE": "BOL",
+    "NAME": "Bolland"
+  },
+  {
+    "LOCODE": "BMA",
+    "NAME": "Bomal"
+  },
+  {
+    "LOCODE": "BBY",
+    "NAME": "Bombaye"
+  },
+  {
+    "LOCODE": "BNI",
+    "NAME": "Bonheiden"
+  },
+  {
+    "LOCODE": "BNO",
+    "NAME": "Boninne"
+  },
+  {
+    "LOCODE": "BSO",
+    "NAME": "Bon-Secours"
+  },
+  {
+    "LOCODE": "BOS",
+    "NAME": "Booischot"
+  },
+  {
+    "LOCODE": "BOM",
+    "NAME": "Boom"
+  },
+  {
+    "LOCODE": "BOO",
+    "NAME": "Boorsem"
+  },
+  {
+    "LOCODE": "BMB",
+    "NAME": "Boortmeerbeek"
+  },
+  {
+    "LOCODE": "BTK",
+    "NAME": "Borchtlombeek"
+  },
+  {
+    "LOCODE": "BOR",
+    "NAME": "Borgerhout"
+  },
+  {
+    "LOCODE": "BOG",
+    "NAME": "Borgloon"
+  },
+  {
+    "LOCODE": "BRO",
+    "NAME": "Borlo"
+  },
+  {
+    "LOCODE": "BLX",
+    "NAME": "Borlon"
+  },
+  {
+    "LOCODE": "BNR",
+    "NAME": "Born"
+  },
+  {
+    "LOCODE": "BON",
+    "NAME": "Bornem"
+  },
+  {
+    "LOCODE": "BVA",
+    "NAME": "Bornival"
+  },
+  {
+    "LOCODE": "BSB",
+    "NAME": "Borsbeek"
+  },
+  {
+    "LOCODE": "BRK",
+    "NAME": "Borsbeke"
+  },
+  {
+    "LOCODE": "BRI",
+    "NAME": "Bossière"
+  },
+  {
+    "LOCODE": "BSU",
+    "NAME": "Bossuit"
+  },
+  {
+    "LOCODE": "BTY",
+    "NAME": "Bothey"
+  },
+  {
+    "LOCODE": "QW2",
+    "NAME": "Bouffioulx"
+  },
+  {
+    "LOCODE": "BUG",
+    "NAME": "Bouge"
+  },
+  {
+    "LOCODE": "BO2",
+    "NAME": "Bougnies"
+  },
+  {
+    "LOCODE": "BUO",
+    "NAME": "Bouillon"
+  },
+  {
+    "LOCODE": "BLS",
+    "NAME": "Bourlers"
+  },
+  {
+    "LOCODE": "BOT",
+    "NAME": "Boussoit"
+  },
+  {
+    "LOCODE": "BSS",
+    "NAME": "Boussu"
+  },
+  {
+    "LOCODE": "BOU",
+    "NAME": "Bousval"
+  },
+  {
+    "LOCODE": "BUM",
+    "NAME": "Boutersem"
+  },
+  {
+    "LOCODE": "BVM",
+    "NAME": "Bouvignes-sur-Meuse"
+  },
+  {
+    "LOCODE": "BVI",
+    "NAME": "Bouvignies"
+  },
+  {
+    "LOCODE": "BWE",
+    "NAME": "Bouwel"
+  },
+  {
+    "LOCODE": "BHH",
+    "NAME": "Bovekerke"
+  },
+  {
+    "LOCODE": "BVS",
+    "NAME": "Bovesse"
+  },
+  {
+    "LOCODE": "BVY",
+    "NAME": "Bovigny"
+  },
+  {
+    "LOCODE": "BFE",
+    "NAME": "Braffe"
+  },
+  {
+    "LOCODE": "BLA",
+    "NAME": "Braine-l'Alleud"
+  },
+  {
+    "LOCODE": "BLC",
+    "NAME": "Braine-le-Château"
+  },
+  {
+    "LOCODE": "BCO",
+    "NAME": "Braine-le-Comte"
+  },
+  {
+    "LOCODE": "BRS",
+    "NAME": "Braives"
+  },
+  {
+    "LOCODE": "BAK",
+    "NAME": "Brakel"
+  },
+  {
+    "LOCODE": "BMI",
+    "NAME": "Brasmenil"
+  },
+  {
+    "LOCODE": "BRA",
+    "NAME": "Brasschaat"
+  },
+  {
+    "LOCODE": "BRC",
+    "NAME": "Brecht"
+  },
+  {
+    "LOCODE": "BIR",
+    "NAME": "Bredene"
+  },
+  {
+    "LOCODE": "BRE",
+    "NAME": "Bree"
+  },
+  {
+    "LOCODE": "BRN",
+    "NAME": "Breendonk"
+  },
+  {
+    "LOCODE": "BSX",
+    "NAME": "Bressoux"
+  },
+  {
+    "LOCODE": "BGN",
+    "NAME": "Briegden"
+  },
+  {
+    "LOCODE": "OBC",
+    "NAME": "Broechem"
+  },
+  {
+    "LOCODE": "BGO",
+    "NAME": "Brucargo"
+  },
+  {
+    "LOCODE": "BRG",
+    "NAME": "Brugelette"
+  },
+  {
+    "LOCODE": "BGS",
+    "NAME": "Brugge (Bruges)"
+  },
+  {
+    "LOCODE": "BNA",
+    "NAME": "Brunehault"
+  },
+  {
+    "LOCODE": "BHT",
+    "NAME": "Brunehaut"
+  },
+  {
+    "LOCODE": "BSM",
+    "NAME": "Brussegem"
+  },
+  {
+    "LOCODE": "BRU",
+    "NAME": "Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "BRU",
+    "NAME": "Bruxelles (Brussel)"
+  },
+  {
+    "LOCODE": "BRY",
+    "NAME": "Bruyelle"
+  },
+  {
+    "LOCODE": "BYR",
+    "NAME": "Brye"
+  },
+  {
+    "LOCODE": "BHU",
+    "NAME": "Buggenhout"
+  },
+  {
+    "LOCODE": "BUS",
+    "NAME": "Buissenal"
+  },
+  {
+    "LOCODE": "BUZ",
+    "NAME": "Buizingen"
+  },
+  {
+    "LOCODE": "BUL",
+    "NAME": "Bullange"
+  },
+  {
+    "LOCODE": "BL7",
+    "NAME": "Bullingen"
+  },
+  {
+    "LOCODE": "BUD",
+    "NAME": "Burcht"
+  },
+  {
+    "LOCODE": "BRD",
+    "NAME": "Burdinne"
+  },
+  {
+    "LOCODE": "BGU",
+    "NAME": "Burg-Reuland"
+  },
+  {
+    "LOCODE": "BUY",
+    "NAME": "Bury"
+  },
+  {
+    "LOCODE": "BGH",
+    "NAME": "Butgenbach"
+  },
+  {
+    "LOCODE": "BUV",
+    "NAME": "Buvingen"
+  },
+  {
+    "LOCODE": "BVU",
+    "NAME": "Buvrinnes"
+  },
+  {
+    "LOCODE": "BZO",
+    "NAME": "Buzenol"
+  },
+  {
+    "LOCODE": "CAL",
+    "NAME": "Callenelle"
+  },
+  {
+    "LOCODE": "CLN",
+    "NAME": "Calonne"
+  },
+  {
+    "LOCODE": "KAN",
+    "NAME": "Canne (Kanne)"
+  },
+  {
+    "LOCODE": "CNR",
+    "NAME": "Carnières"
+  },
+  {
+    "LOCODE": "CAS",
+    "NAME": "Casteau"
+  },
+  {
+    "LOCODE": "CEL",
+    "NAME": "Celles"
+  },
+  {
+    "LOCODE": "CLE",
+    "NAME": "Celles"
+  },
+  {
+    "LOCODE": "CEX",
+    "NAME": "Cerexhe-Heuseux"
+  },
+  {
+    "LOCODE": "CAD",
+    "NAME": "Cerfontaine"
+  },
+  {
+    "LOCODE": "CRY",
+    "NAME": "Céroux-Mousty"
+  },
+  {
+    "LOCODE": "CNX",
+    "NAME": "Chaineux"
+  },
+  {
+    "LOCODE": "CPI",
+    "NAME": "Champion"
+  },
+  {
+    "LOCODE": "CPO",
+    "NAME": "Champlon"
+  },
+  {
+    "LOCODE": "CLY",
+    "NAME": "Chanly"
+  },
+  {
+    "LOCODE": "CME",
+    "NAME": "Chantemelle"
+  },
+  {
+    "LOCODE": "CLO",
+    "NAME": "Chapelle-à-Oie"
+  },
+  {
+    "LOCODE": "CWA",
+    "NAME": "Chapelle-à-Wattines"
+  },
+  {
+    "LOCODE": "CHO",
+    "NAME": "Chapelle-lez-Herlaimont"
+  },
+  {
+    "LOCODE": "CRL",
+    "NAME": "Charleroi"
+  },
+  {
+    "LOCODE": "CAX",
+    "NAME": "Charneux"
+  },
+  {
+    "LOCODE": "CPE",
+    "NAME": "Chassepierre"
+  },
+  {
+    "LOCODE": "CAR",
+    "NAME": "Chastre"
+  },
+  {
+    "LOCODE": "CHA",
+    "NAME": "Châtelet"
+  },
+  {
+    "LOCODE": "CTL",
+    "NAME": "Châtelineau"
+  },
+  {
+    "LOCODE": "CFO",
+    "NAME": "Chaudfontaine"
+  },
+  {
+    "LOCODE": "CGX",
+    "NAME": "Chaumont-Gistoux"
+  },
+  {
+    "LOCODE": "CNO",
+    "NAME": "Chaussée-Notre-Dame-Louvignies"
+  },
+  {
+    "LOCODE": "CHE",
+    "NAME": "Chênée"
+  },
+  {
+    "LOCODE": "CRI",
+    "NAME": "Cherain"
+  },
+  {
+    "LOCODE": "CRA",
+    "NAME": "Cheratte"
+  },
+  {
+    "LOCODE": "CRQ",
+    "NAME": "Chercq"
+  },
+  {
+    "LOCODE": "CTA",
+    "NAME": "Chertal"
+  },
+  {
+    "LOCODE": "CHI",
+    "NAME": "Chièvres"
+  },
+  {
+    "LOCODE": "CHM",
+    "NAME": "Chimay"
+  },
+  {
+    "LOCODE": "CBF",
+    "NAME": "Chiny"
+  },
+  {
+    "LOCODE": "CQR",
+    "NAME": "Chokier"
+  },
+  {
+    "LOCODE": "CNY",
+    "NAME": "Ciney"
+  },
+  {
+    "LOCODE": "CPY",
+    "NAME": "Ciply"
+  },
+  {
+    "LOCODE": "CBQ",
+    "NAME": "Clabecq"
+  },
+  {
+    "LOCODE": "CLA",
+    "NAME": "Clavier"
+  },
+  {
+    "LOCODE": "CLM",
+    "NAME": "Clermont"
+  },
+  {
+    "LOCODE": "CGE",
+    "NAME": "Cognelée"
+  },
+  {
+    "LOCODE": "CFA",
+    "NAME": "Colfontaine"
+  },
+  {
+    "LOCODE": "CPN",
+    "NAME": "Comblain-au-Pont"
+  },
+  {
+    "LOCODE": "COM",
+    "NAME": "Comines"
+  },
+  {
+    "LOCODE": "CRB",
+    "NAME": "Corbais"
+  },
+  {
+    "LOCODE": "CBI",
+    "NAME": "Corbion"
+  },
+  {
+    "LOCODE": "CCA",
+    "NAME": "Corroy-le-Château"
+  },
+  {
+    "LOCODE": "CIG",
+    "NAME": "Corroy-le-Grand"
+  },
+  {
+    "LOCODE": "COU",
+    "NAME": "Couillet"
+  },
+  {
+    "LOCODE": "CCS",
+    "NAME": "Courcelles"
+  },
+  {
+    "LOCODE": "CRE",
+    "NAME": "Courrière"
+  },
+  {
+    "LOCODE": "CET",
+    "NAME": "Court-Saint-Étienne"
+  },
+  {
+    "LOCODE": "COH",
+    "NAME": "Couthuin"
+  },
+  {
+    "LOCODE": "CUV",
+    "NAME": "Couvin"
+  },
+  {
+    "LOCODE": "CSI",
+    "NAME": "Crisnée"
+  },
+  {
+    "LOCODE": "CRO",
+    "NAME": "Crombach"
+  },
+  {
+    "LOCODE": "CRU",
+    "NAME": "Crupet"
+  },
+  {
+    "LOCODE": "CUS",
+    "NAME": "Cuesmes"
+  },
+  {
+    "LOCODE": "CUT",
+    "NAME": "Custinne"
+  },
+  {
+    "LOCODE": "DGX",
+    "NAME": "Dadizele"
+  },
+  {
+    "LOCODE": "DKN",
+    "NAME": "Daknam"
+  },
+  {
+    "LOCODE": "DAL",
+    "NAME": "Dalhem"
+  },
+  {
+    "LOCODE": "DMM",
+    "NAME": "Damme"
+  },
+  {
+    "LOCODE": "DPY",
+    "NAME": "Dampremy"
+  },
+  {
+    "LOCODE": "DRI",
+    "NAME": "Darion"
+  },
+  {
+    "LOCODE": "DAX",
+    "NAME": "Daussoulx"
+  },
+  {
+    "LOCODE": "DAV",
+    "NAME": "Dave"
+  },
+  {
+    "LOCODE": "DVI",
+    "NAME": "Daverdisse"
+  },
+  {
+    "LOCODE": "DHA",
+    "NAME": "De Haan"
+  },
+  {
+    "LOCODE": "DEK",
+    "NAME": "De Klinge"
+  },
+  {
+    "LOCODE": "DPA",
+    "NAME": "De Panne"
+  },
+  {
+    "LOCODE": "DPE",
+    "NAME": "De Pinte"
+  },
+  {
+    "LOCODE": "DJK",
+    "NAME": "Deerlijk"
+  },
+  {
+    "LOCODE": "DEZ",
+    "NAME": "Deinze"
+  },
+  {
+    "LOCODE": "DNB",
+    "NAME": "Denderbelle"
+  },
+  {
+    "LOCODE": "IAI",
+    "NAME": "Denderhoutem"
+  },
+  {
+    "LOCODE": "DRW",
+    "NAME": "Denderleeuw"
+  },
+  {
+    "LOCODE": "DDR",
+    "NAME": "Dendermonde"
+  },
+  {
+    "LOCODE": "DND",
+    "NAME": "Denderwindeke"
+  },
+  {
+    "LOCODE": "DTE",
+    "NAME": "Dentergem"
+  },
+  {
+    "LOCODE": "DGU",
+    "NAME": "Dergneau"
+  },
+  {
+    "LOCODE": "DSE",
+    "NAME": "Dessel"
+  },
+  {
+    "LOCODE": "DSL",
+    "NAME": "Desselgem"
+  },
+  {
+    "LOCODE": "DES",
+    "NAME": "Destelbergen"
+  },
+  {
+    "LOCODE": "DTO",
+    "NAME": "Desteldonk"
+  },
+  {
+    "LOCODE": "DEU",
+    "NAME": "Deurle"
+  },
+  {
+    "LOCODE": "DEG",
+    "NAME": "Deurne"
+  },
+  {
+    "LOCODE": "DXN",
+    "NAME": "Deux-Acren"
+  },
+  {
+    "LOCODE": "DGB",
+    "NAME": "Diegem"
+  },
+  {
+    "LOCODE": "DPK",
+    "NAME": "Diepenbeek"
+  },
+  {
+    "LOCODE": "DIE",
+    "NAME": "Diest"
+  },
+  {
+    "LOCODE": "DIK",
+    "NAME": "Diksmuide"
+  },
+  {
+    "LOCODE": "DBK",
+    "NAME": "Dilbeek"
+  },
+  {
+    "LOCODE": "DLS",
+    "NAME": "Dilsen"
+  },
+  {
+    "LOCODE": "DSO",
+    "NAME": "Dilsen-Stokkem"
+  },
+  {
+    "LOCODE": "DIA",
+    "NAME": "Dinant"
+  },
+  {
+    "LOCODE": "DIO",
+    "NAME": "Dion"
+  },
+  {
+    "LOCODE": "DIS",
+    "NAME": "Dison"
+  },
+  {
+    "LOCODE": "DEL",
+    "NAME": "Doel"
+  },
+  {
+    "LOCODE": "DOH",
+    "NAME": "Dohan"
+  },
+  {
+    "LOCODE": "DOI",
+    "NAME": "Doische"
+  },
+  {
+    "LOCODE": "DOL",
+    "NAME": "Dolembreux"
+  },
+  {
+    "LOCODE": "DCE",
+    "NAME": "Donceel"
+  },
+  {
+    "LOCODE": "DON",
+    "NAME": "Donk"
+  },
+  {
+    "LOCODE": "DSI",
+    "NAME": "Donstiennes"
+  },
+  {
+    "LOCODE": "TRN",
+    "NAME": "Doornik (Tournai)"
+  },
+  {
+    "LOCODE": "DOE",
+    "NAME": "Doornzele"
+  },
+  {
+    "LOCODE": "DTS",
+    "NAME": "Dottignies"
+  },
+  {
+    "LOCODE": "DOU",
+    "NAME": "Dour"
+  },
+  {
+    "LOCODE": "DRA",
+    "NAME": "Dranouter"
+  },
+  {
+    "LOCODE": "DRB",
+    "NAME": "Drogenbos"
+  },
+  {
+    "LOCODE": "DGN",
+    "NAME": "Drongen"
+  },
+  {
+    "LOCODE": "DUD",
+    "NAME": "Dudzele"
+  },
+  {
+    "LOCODE": "DUF",
+    "NAME": "Duffel"
+  },
+  {
+    "LOCODE": "DUR",
+    "NAME": "Duras"
+  },
+  {
+    "LOCODE": "DUY",
+    "NAME": "Durbuy"
+  },
+  {
+    "LOCODE": "DWP",
+    "NAME": "Dworp"
+  },
+  {
+    "LOCODE": "9IR",
+    "NAME": "Eben-Emael"
+  },
+  {
+    "LOCODE": "ECS",
+    "NAME": "Écaussinnes"
+  },
+  {
+    "LOCODE": "ESI",
+    "NAME": "Écaussinnes-d'Enghien"
+  },
+  {
+    "LOCODE": "ELA",
+    "NAME": "Écaussinnes-Lalaing"
+  },
+  {
+    "LOCODE": "EGM",
+    "NAME": "Edegem"
+  },
+  {
+    "LOCODE": "EEK",
+    "NAME": "Eeklo"
+  },
+  {
+    "LOCODE": "EEM",
+    "NAME": "Eernegem"
+  },
+  {
+    "LOCODE": "EZE",
+    "NAME": "Éghezée"
+  },
+  {
+    "LOCODE": "EBZ",
+    "NAME": "Eigenbilzen"
+  },
+  {
+    "LOCODE": "EHT",
+    "NAME": "Eindhout"
+  },
+  {
+    "LOCODE": "EIN",
+    "NAME": "Eine"
+  },
+  {
+    "LOCODE": "ESD",
+    "NAME": "Eisden"
+  },
+  {
+    "LOCODE": "EQE",
+    "NAME": "Eke"
+  },
+  {
+    "LOCODE": "EKE",
+    "NAME": "Ekeren"
+  },
+  {
+    "LOCODE": "EKS",
+    "NAME": "Eksaarde"
+  },
+  {
+    "LOCODE": "EKL",
+    "NAME": "Eksel"
+  },
+  {
+    "LOCODE": "EWI",
+    "NAME": "Elewijt"
+  },
+  {
+    "LOCODE": "ELI",
+    "NAME": "Elingen"
+  },
+  {
+    "LOCODE": "EZS",
+    "NAME": "Ellezelles"
+  },
+  {
+    "LOCODE": "ESA",
+    "NAME": "Ellignies-Sainte-Anne"
+  },
+  {
+    "LOCODE": "ESB",
+    "NAME": "Elsenborn"
+  },
+  {
+    "LOCODE": "ESE",
+    "NAME": "Elsene (Ixelles)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "EVE",
+    "NAME": "Elverdinge"
+  },
+  {
+    "LOCODE": "EEE",
+    "NAME": "Elversele"
+  },
+  {
+    "LOCODE": "EBM",
+    "NAME": "Emblem"
+  },
+  {
+    "LOCODE": "EBU",
+    "NAME": "Embourg"
+  },
+  {
+    "LOCODE": "EPI",
+    "NAME": "Emptinne"
+  },
+  {
+    "LOCODE": "EAM",
+    "NAME": "Ename"
+  },
+  {
+    "LOCODE": "EGI",
+    "NAME": "Enghien"
+  },
+  {
+    "LOCODE": "ENG",
+    "NAME": "Engis"
+  },
+  {
+    "LOCODE": "ENS",
+    "NAME": "Ensival"
+  },
+  {
+    "LOCODE": "EPO",
+    "NAME": "Épinois"
+  },
+  {
+    "LOCODE": "EPG",
+    "NAME": "Eppegem"
+  },
+  {
+    "LOCODE": "ERM",
+    "NAME": "Erembodegem"
+  },
+  {
+    "LOCODE": "EEZ",
+    "NAME": "Érezée"
+  },
+  {
+    "LOCODE": "EBI",
+    "NAME": "Ermeton-sur-Biert"
+  },
+  {
+    "LOCODE": "ENU",
+    "NAME": "Erneuville"
+  },
+  {
+    "LOCODE": "ERP",
+    "NAME": "Erpe-Mere"
+  },
+  {
+    "LOCODE": "EPT",
+    "NAME": "Erpent"
+  },
+  {
+    "LOCODE": "EPN",
+    "NAME": "Erpion"
+  },
+  {
+    "LOCODE": "ESK",
+    "NAME": "Erps-Kwerps"
+  },
+  {
+    "LOCODE": "REQ",
+    "NAME": "Erquelinnes"
+  },
+  {
+    "LOCODE": "ERE",
+    "NAME": "Ertvelde"
+  },
+  {
+    "LOCODE": "EFS",
+    "NAME": "Escanaffles"
+  },
+  {
+    "LOCODE": "ESN",
+    "NAME": "Esen"
+  },
+  {
+    "LOCODE": "ESX",
+    "NAME": "Esneux"
+  },
+  {
+    "LOCODE": "SPI",
+    "NAME": "Espierres (Spiere)"
+  },
+  {
+    "LOCODE": "EPC",
+    "NAME": "Esplechin"
+  },
+  {
+    "LOCODE": "EQM",
+    "NAME": "Esquelmes"
+  },
+  {
+    "LOCODE": "ESS",
+    "NAME": "Essen"
+  },
+  {
+    "LOCODE": "EST",
+    "NAME": "Estaimbourg"
+  },
+  {
+    "LOCODE": "EMP",
+    "NAME": "Estaimpuis"
+  },
+  {
+    "LOCODE": "ETI",
+    "NAME": "Estinnes"
+  },
+  {
+    "LOCODE": "ETL",
+    "NAME": "Étalle"
+  },
+  {
+    "LOCODE": "EET",
+    "NAME": "Éthe"
+  },
+  {
+    "LOCODE": "E8O",
+    "NAME": "Etikhove"
+  },
+  {
+    "LOCODE": "ETE",
+    "NAME": "Etterbeek"
+  },
+  {
+    "LOCODE": "EUP",
+    "NAME": "Eupen"
+  },
+  {
+    "LOCODE": "EVG",
+    "NAME": "Évegnée-Tignée"
+  },
+  {
+    "LOCODE": "EBR",
+    "NAME": "Everberg"
+  },
+  {
+    "LOCODE": "EVR",
+    "NAME": "Evere/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "EVM",
+    "NAME": "Evergem"
+  },
+  {
+    "LOCODE": "EVX",
+    "NAME": "Eveux"
+  },
+  {
+    "LOCODE": "EYT",
+    "NAME": "Eynatten"
+  },
+  {
+    "LOCODE": "FME",
+    "NAME": "Faimes"
+  },
+  {
+    "LOCODE": "FAL",
+    "NAME": "Falaën"
+  },
+  {
+    "LOCODE": "FUX",
+    "NAME": "Familleureux"
+  },
+  {
+    "LOCODE": "FCS",
+    "NAME": "Farciennes"
+  },
+  {
+    "LOCODE": "FLT",
+    "NAME": "Faulx-Les Tombes"
+  },
+  {
+    "LOCODE": "FVI",
+    "NAME": "Fauvillers"
+  },
+  {
+    "LOCODE": "FYS",
+    "NAME": "Fays-les-Veneurs"
+  },
+  {
+    "LOCODE": "FLM",
+    "NAME": "Fayt-lez-Manage"
+  },
+  {
+    "LOCODE": "FEY",
+    "NAME": "Feluy"
+  },
+  {
+    "LOCODE": "FER",
+    "NAME": "Feneur"
+  },
+  {
+    "LOCODE": "FNO",
+    "NAME": "Fernelmont"
+  },
+  {
+    "LOCODE": "FRE",
+    "NAME": "Ferrières"
+  },
+  {
+    "LOCODE": "FHC",
+    "NAME": "Fexhe-le-Haut-Clocher"
+  },
+  {
+    "LOCODE": "FXI",
+    "NAME": "Fexhe-Slins"
+  },
+  {
+    "LOCODE": "FIL",
+    "NAME": "Filot"
+  },
+  {
+    "LOCODE": "FMI",
+    "NAME": "Flamierge"
+  },
+  {
+    "LOCODE": "FWI",
+    "NAME": "Flawinne"
+  },
+  {
+    "LOCODE": "FMA",
+    "NAME": "Flémalle"
+  },
+  {
+    "LOCODE": "FMG",
+    "NAME": "Flémalle-Grande"
+  },
+  {
+    "LOCODE": "FLH",
+    "NAME": "Flémalle-Haute"
+  },
+  {
+    "LOCODE": "FLU",
+    "NAME": "Flénu"
+  },
+  {
+    "LOCODE": "FRO",
+    "NAME": "Fléron"
+  },
+  {
+    "LOCODE": "FLE",
+    "NAME": "Fleurus"
+  },
+  {
+    "LOCODE": "FBQ",
+    "NAME": "Flobecq"
+  },
+  {
+    "LOCODE": "FLN",
+    "NAME": "Flône"
+  },
+  {
+    "LOCODE": "FOR",
+    "NAME": "Florée"
+  },
+  {
+    "LOCODE": "FLO",
+    "NAME": "Floreffe"
+  },
+  {
+    "LOCODE": "FLR",
+    "NAME": "Florennes"
+  },
+  {
+    "LOCODE": "FRI",
+    "NAME": "Florenville"
+  },
+  {
+    "LOCODE": "FFX",
+    "NAME": "Floriffoux"
+  },
+  {
+    "LOCODE": "FCA",
+    "NAME": "Focant"
+  },
+  {
+    "LOCODE": "FOL",
+    "NAME": "Folx-les-Caves"
+  },
+  {
+    "LOCODE": "FEQ",
+    "NAME": "Fontaine-l'Évêque"
+  },
+  {
+    "LOCODE": "FVT",
+    "NAME": "Fontaine-Valmont"
+  },
+  {
+    "LOCODE": "FNY",
+    "NAME": "Fontenoy"
+  },
+  {
+    "LOCODE": "FMR",
+    "NAME": "Forchies-la-Marche"
+  },
+  {
+    "LOCODE": "VOS",
+    "NAME": "Forest (Vorst)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "FPI",
+    "NAME": "Forge-Philippe"
+  },
+  {
+    "LOCODE": "FOG",
+    "NAME": "Forges"
+  },
+  {
+    "LOCODE": "FIS",
+    "NAME": "Forrières"
+  },
+  {
+    "LOCODE": "FRM",
+    "NAME": "Fortem"
+  },
+  {
+    "LOCODE": "FSV",
+    "NAME": "Fosses-la-Ville"
+  },
+  {
+    "LOCODE": "FYD",
+    "NAME": "Foy-Notre-Dame"
+  },
+  {
+    "LOCODE": "FES",
+    "NAME": "Frameries"
+  },
+  {
+    "LOCODE": "FMO",
+    "NAME": "Framont"
+  },
+  {
+    "LOCODE": "FRC",
+    "NAME": "Francorchamps"
+  },
+  {
+    "LOCODE": "FNR",
+    "NAME": "Franière"
+  },
+  {
+    "LOCODE": "FRS",
+    "NAME": "Frasnes"
+  },
+  {
+    "LOCODE": "FAV",
+    "NAME": "Frasnes-lez-Anvaing"
+  },
+  {
+    "LOCODE": "FBU",
+    "NAME": "Frasnes-lez-Buissenal"
+  },
+  {
+    "LOCODE": "FLG",
+    "NAME": "Frasnes-lez-Gosselies"
+  },
+  {
+    "LOCODE": "FRY",
+    "NAME": "Freylange"
+  },
+  {
+    "LOCODE": "FDA",
+    "NAME": "Froid-Chapelle"
+  },
+  {
+    "LOCODE": "FFO",
+    "NAME": "Froidfontaine"
+  },
+  {
+    "LOCODE": "FIM",
+    "NAME": "Froidmont"
+  },
+  {
+    "LOCODE": "FYE",
+    "NAME": "Froyennes"
+  },
+  {
+    "LOCODE": "FNX",
+    "NAME": "Furnaux"
+  },
+  {
+    "LOCODE": "GAG",
+    "NAME": "Gages"
+  },
+  {
+    "LOCODE": "GAX",
+    "NAME": "Gallaix"
+  },
+  {
+    "LOCODE": "GMA",
+    "NAME": "Galmaarden"
+  },
+  {
+    "LOCODE": "GHO",
+    "NAME": "Ganshoren"
+  },
+  {
+    "LOCODE": "GRA",
+    "NAME": "Gaurain-Ramecroix"
+  },
+  {
+    "LOCODE": "GVR",
+    "NAME": "Gavere"
+  },
+  {
+    "LOCODE": "GED",
+    "NAME": "Gedinne"
+  },
+  {
+    "LOCODE": "GEL",
+    "NAME": "Geel"
+  },
+  {
+    "LOCODE": "GEE",
+    "NAME": "Geer"
+  },
+  {
+    "LOCODE": "GBE",
+    "NAME": "Geetbets"
+  },
+  {
+    "LOCODE": "GSE",
+    "NAME": "Gelbressée"
+  },
+  {
+    "LOCODE": "GLK",
+    "NAME": "Gellik"
+  },
+  {
+    "LOCODE": "GVD",
+    "NAME": "Geluveld"
+  },
+  {
+    "LOCODE": "GLW",
+    "NAME": "Geluwe"
+  },
+  {
+    "LOCODE": "GEM",
+    "NAME": "Gembloux"
+  },
+  {
+    "LOCODE": "GMI",
+    "NAME": "Gemmenich"
+  },
+  {
+    "LOCODE": "GNA",
+    "NAME": "Genappe"
+  },
+  {
+    "LOCODE": "GBH",
+    "NAME": "Genenbos"
+  },
+  {
+    "LOCODE": "GNK",
+    "NAME": "Genk"
+  },
+  {
+    "LOCODE": "GNE",
+    "NAME": "Gent (Ghent)"
+  },
+  {
+    "LOCODE": "GBU",
+    "NAME": "Gentbrugge"
+  },
+  {
+    "LOCODE": "GEV",
+    "NAME": "Genval"
+  },
+  {
+    "LOCODE": "GEA",
+    "NAME": "Geraardsbergen"
+  },
+  {
+    "LOCODE": "GRI",
+    "NAME": "Gerin"
+  },
+  {
+    "LOCODE": "GPI",
+    "NAME": "Gerpinnes"
+  },
+  {
+    "LOCODE": "GVE",
+    "NAME": "Gesves"
+  },
+  {
+    "LOCODE": "GGI",
+    "NAME": "Ghislenghien"
+  },
+  {
+    "LOCODE": "GHL",
+    "NAME": "Ghlin"
+  },
+  {
+    "LOCODE": "GHY",
+    "NAME": "Ghoy"
+  },
+  {
+    "LOCODE": "GBQ",
+    "NAME": "Gibecq"
+  },
+  {
+    "LOCODE": "GIE",
+    "NAME": "Gierle"
+  },
+  {
+    "LOCODE": "GKO",
+    "NAME": "Gijverinkhove"
+  },
+  {
+    "LOCODE": "GZM",
+    "NAME": "Gijzegem"
+  },
+  {
+    "LOCODE": "GLY",
+    "NAME": "Gilly"
+  },
+  {
+    "LOCODE": "GLO",
+    "NAME": "Gingelom"
+  },
+  {
+    "LOCODE": "GIS",
+    "NAME": "Gistel"
+  },
+  {
+    "LOCODE": "GIT",
+    "NAME": "Gits"
+  },
+  {
+    "LOCODE": "GRY",
+    "NAME": "Givry"
+  },
+  {
+    "LOCODE": "GBA",
+    "NAME": "Glabais"
+  },
+  {
+    "LOCODE": "GBK",
+    "NAME": "Glabbeek"
+  },
+  {
+    "LOCODE": "GDN",
+    "NAME": "Godinne"
+  },
+  {
+    "LOCODE": "GDE",
+    "NAME": "Godsheide"
+  },
+  {
+    "LOCODE": "GDO",
+    "NAME": "Goé"
+  },
+  {
+    "LOCODE": "GON",
+    "NAME": "Goesnes"
+  },
+  {
+    "LOCODE": "GOK",
+    "NAME": "Gooik"
+  },
+  {
+    "LOCODE": "GRE",
+    "NAME": "Gorsem"
+  },
+  {
+    "LOCODE": "GOS",
+    "NAME": "Gosselies"
+  },
+  {
+    "LOCODE": "GTM",
+    "NAME": "Gottem"
+  },
+  {
+    "LOCODE": "GUR",
+    "NAME": "Gourdinne"
+  },
+  {
+    "LOCODE": "GTX",
+    "NAME": "Goutroux"
+  },
+  {
+    "LOCODE": "GVY",
+    "NAME": "Gouvy"
+  },
+  {
+    "LOCODE": "GPO",
+    "NAME": "Gouy-lez-Piéton"
+  },
+  {
+    "LOCODE": "GZE",
+    "NAME": "Gozée"
+  },
+  {
+    "LOCODE": "GHE",
+    "NAME": "Grâce-Hollogne"
+  },
+  {
+    "LOCODE": "GMM",
+    "NAME": "Grammene"
+  },
+  {
+    "LOCODE": "GDI",
+    "NAME": "Grandglise"
+  },
+  {
+    "LOCODE": "GHX",
+    "NAME": "Grand-Halleux"
+  },
+  {
+    "LOCODE": "GLE",
+    "NAME": "Grand-Leez"
+  },
+  {
+    "LOCODE": "GGM",
+    "NAME": "Grembergen"
+  },
+  {
+    "LOCODE": "GDU",
+    "NAME": "Grez-Doiceau"
+  },
+  {
+    "LOCODE": "GRB",
+    "NAME": "Grimbergen"
+  },
+  {
+    "LOCODE": "GME",
+    "NAME": "Grimminge"
+  },
+  {
+    "LOCODE": "GVI",
+    "NAME": "Grivegnée"
+  },
+  {
+    "LOCODE": "GBB",
+    "NAME": "Grobbendonk"
+  },
+  {
+    "LOCODE": "GRN",
+    "NAME": "Groenendaal"
+  },
+  {
+    "LOCODE": "GRO",
+    "NAME": "Groot Bijgaarden"
+  },
+  {
+    "LOCODE": "GBJ",
+    "NAME": "Groot-Bijgaarden"
+  },
+  {
+    "LOCODE": "GBG",
+    "NAME": "Grote-Brogel"
+  },
+  {
+    "LOCODE": "SWN",
+    "NAME": "Grote-Spouwen"
+  },
+  {
+    "LOCODE": "GRU",
+    "NAME": "Grune"
+  },
+  {
+    "LOCODE": "GGO",
+    "NAME": "Guigoven"
+  },
+  {
+    "LOCODE": "GUG",
+    "NAME": "Gullegem"
+  },
+  {
+    "LOCODE": "GUT",
+    "NAME": "Gutschoven"
+  },
+  {
+    "LOCODE": "HAC",
+    "NAME": "Haacht"
+  },
+  {
+    "LOCODE": "HAT",
+    "NAME": "Haaltert"
+  },
+  {
+    "LOCODE": "HDQ",
+    "NAME": "Haasdonk"
+  },
+  {
+    "LOCODE": "HAD",
+    "NAME": "Haasrode"
+  },
+  {
+    "LOCODE": "HLN",
+    "NAME": "Habay-la-Neuve"
+  },
+  {
+    "LOCODE": "HYV",
+    "NAME": "Habay-la-Vieille"
+  },
+  {
+    "LOCODE": "HRY",
+    "NAME": "Habergy"
+  },
+  {
+    "LOCODE": "HCT",
+    "NAME": "Haccourt"
+  },
+  {
+    "LOCODE": "HQI",
+    "NAME": "Hacquegnies"
+  },
+  {
+    "LOCODE": "HLO",
+    "NAME": "Haillot"
+  },
+  {
+    "LOCODE": "HSP",
+    "NAME": "Haine-Saint-Pierre"
+  },
+  {
+    "LOCODE": "HAQ",
+    "NAME": "Hal"
+  },
+  {
+    "LOCODE": "HZY",
+    "NAME": "Halanzy"
+  },
+  {
+    "LOCODE": "HLA",
+    "NAME": "Halen"
+  },
+  {
+    "LOCODE": "HLL",
+    "NAME": "Halle"
+  },
+  {
+    "LOCODE": "HFB",
+    "NAME": "Halle"
+  },
+  {
+    "LOCODE": "HLX",
+    "NAME": "Halleux"
+  },
+  {
+    "LOCODE": "HLU",
+    "NAME": "Halluin"
+  },
+  {
+    "LOCODE": "HMA",
+    "NAME": "Halma"
+  },
+  {
+    "LOCODE": "HAW",
+    "NAME": "Ham"
+  },
+  {
+    "LOCODE": "MHA",
+    "NAME": "Ham"
+  },
+  {
+    "LOCODE": "HAE",
+    "NAME": "Hamme"
+  },
+  {
+    "LOCODE": "HMM",
+    "NAME": "Hamme"
+  },
+  {
+    "LOCODE": "HME",
+    "NAME": "Hamme"
+  },
+  {
+    "LOCODE": "HMO",
+    "NAME": "Hamoir"
+  },
+  {
+    "LOCODE": "HMI",
+    "NAME": "Hamois"
+  },
+  {
+    "LOCODE": "HAL",
+    "NAME": "Hamont"
+  },
+  {
+    "LOCODE": "HAH",
+    "NAME": "Hamont-Achel"
+  },
+  {
+    "LOCODE": "HAM",
+    "NAME": "Hamsehoeven"
+  },
+  {
+    "LOCODE": "HHN",
+    "NAME": "Ham-sur-Heure-Nalinnes"
+  },
+  {
+    "LOCODE": "HMB",
+    "NAME": "Ham-sur-Sambre"
+  },
+  {
+    "LOCODE": "HNA",
+    "NAME": "Handzame"
+  },
+  {
+    "LOCODE": "HNU",
+    "NAME": "Hannut"
+  },
+  {
+    "LOCODE": "HBE",
+    "NAME": "Hansbeke"
+  },
+  {
+    "LOCODE": "HCS",
+    "NAME": "Harchies"
+  },
+  {
+    "LOCODE": "HEJ",
+    "NAME": "Harelbeke"
+  },
+  {
+    "LOCODE": "HAR",
+    "NAME": "Haren"
+  },
+  {
+    "LOCODE": "HRI",
+    "NAME": "Harmignies"
+  },
+  {
+    "LOCODE": "HVG",
+    "NAME": "Harveng"
+  },
+  {
+    "LOCODE": "HRZ",
+    "NAME": "Harzé"
+  },
+  {
+    "LOCODE": "HSS",
+    "NAME": "Hasselt"
+  },
+  {
+    "LOCODE": "HPD",
+    "NAME": "Hastière-par-delà"
+  },
+  {
+    "LOCODE": "HIT",
+    "NAME": "Haut-Ittre"
+  },
+  {
+    "LOCODE": "HTJ",
+    "NAME": "Hautrage"
+  },
+  {
+    "LOCODE": "HVY",
+    "NAME": "Havay"
+  },
+  {
+    "LOCODE": "HVA",
+    "NAME": "Havelange"
+  },
+  {
+    "LOCODE": "HVN",
+    "NAME": "Havenne"
+  },
+  {
+    "LOCODE": "HNE",
+    "NAME": "Havinnes"
+  },
+  {
+    "LOCODE": "HRE",
+    "NAME": "Havré"
+  },
+  {
+    "LOCODE": "HCL",
+    "NAME": "Hechtel"
+  },
+  {
+    "LOCODE": "HEK",
+    "NAME": "Hechtel-Eksel"
+  },
+  {
+    "LOCODE": "HEE",
+    "NAME": "Heer"
+  },
+  {
+    "LOCODE": "HSE",
+    "NAME": "Heers"
+  },
+  {
+    "LOCODE": "HTS",
+    "NAME": "Heestert"
+  },
+  {
+    "LOCODE": "HFE",
+    "NAME": "Heffen"
+  },
+  {
+    "LOCODE": "HDK",
+    "NAME": "Heindonk"
+  },
+  {
+    "LOCODE": "HEI",
+    "NAME": "Heist"
+  },
+  {
+    "LOCODE": "HPG",
+    "NAME": "Heist-op-den-Berg"
+  },
+  {
+    "LOCODE": "HKM",
+    "NAME": "Hekelgem"
+  },
+  {
+    "LOCODE": "HCI",
+    "NAME": "Hélécine"
+  },
+  {
+    "LOCODE": "HKN",
+    "NAME": "Helkijn"
+  },
+  {
+    "LOCODE": "HLE",
+    "NAME": "Hemelveerdegem"
+  },
+  {
+    "LOCODE": "HEX",
+    "NAME": "Hemiksem"
+  },
+  {
+    "LOCODE": "HCA",
+    "NAME": "Henri-Chapelle"
+  },
+  {
+    "LOCODE": "HNS",
+    "NAME": "Hensies"
+  },
+  {
+    "LOCODE": "HEP",
+    "NAME": "Heppen"
+  },
+  {
+    "LOCODE": "HPA",
+    "NAME": "Heppenbach"
+  },
+  {
+    "LOCODE": "HPS",
+    "NAME": "Heppignies"
+  },
+  {
+    "LOCODE": "HBO",
+    "NAME": "Herbeumont"
+  },
+  {
+    "LOCODE": "HYB",
+    "NAME": "Herdersem"
+  },
+  {
+    "LOCODE": "HET",
+    "NAME": "Herent"
+  },
+  {
+    "LOCODE": "HEB",
+    "NAME": "Herent"
+  },
+  {
+    "LOCODE": "HER",
+    "NAME": "Herentals"
+  },
+  {
+    "LOCODE": "HRO",
+    "NAME": "Herenthout"
+  },
+  {
+    "LOCODE": "HRA",
+    "NAME": "Hergenrath"
+  },
+  {
+    "LOCODE": "HNI",
+    "NAME": "Hérinnes"
+  },
+  {
+    "LOCODE": "HKA",
+    "NAME": "Herk-de-Stad"
+  },
+  {
+    "LOCODE": "HSA",
+    "NAME": "Hermalle-sous-Argenteau"
+  },
+  {
+    "LOCODE": "HMH",
+    "NAME": "Hermalle-sous-Huy"
+  },
+  {
+    "LOCODE": "HTM",
+    "NAME": "Hermeton-sur-Meuse"
+  },
+  {
+    "LOCODE": "HEN",
+    "NAME": "Herne"
+  },
+  {
+    "LOCODE": "HNO",
+    "NAME": "Héron"
+  },
+  {
+    "LOCODE": "HRQ",
+    "NAME": "Herquegies"
+  },
+  {
+    "LOCODE": "HSX",
+    "NAME": "Herseaux"
+  },
+  {
+    "LOCODE": "HES",
+    "NAME": "Herselt"
+  },
+  {
+    "LOCODE": "HRS",
+    "NAME": "Herstal"
+  },
+  {
+    "LOCODE": "HTP",
+    "NAME": "Herstappe"
+  },
+  {
+    "LOCODE": "HTI",
+    "NAME": "Hertain"
+  },
+  {
+    "LOCODE": "HRV",
+    "NAME": "Herve"
+  },
+  {
+    "LOCODE": "HEZ",
+    "NAME": "Herzele"
+  },
+  {
+    "LOCODE": "HEU",
+    "NAME": "Heule"
+  },
+  {
+    "LOCODE": "HUJ",
+    "NAME": "Heultje"
+  },
+  {
+    "LOCODE": "TTJ",
+    "NAME": "Heultje"
+  },
+  {
+    "LOCODE": "HUR",
+    "NAME": "Heure-le-Romain"
+  },
+  {
+    "LOCODE": "HZZ",
+    "NAME": "Heusden"
+  },
+  {
+    "LOCODE": "HZO",
+    "NAME": "Heusden-Zolder"
+  },
+  {
+    "LOCODE": "HSY",
+    "NAME": "Heusy"
+  },
+  {
+    "LOCODE": "HVL",
+    "NAME": "Heuvelland"
+  },
+  {
+    "LOCODE": "HVE",
+    "NAME": "Hever"
+  },
+  {
+    "LOCODE": "HVB",
+    "NAME": "Heverlee"
+  },
+  {
+    "LOCODE": "HYD",
+    "NAME": "Heyd"
+  },
+  {
+    "LOCODE": "QHM",
+    "NAME": "Hillegem"
+  },
+  {
+    "LOCODE": "HGE",
+    "NAME": "Hingene"
+  },
+  {
+    "LOCODE": "HIV",
+    "NAME": "Hives"
+  },
+  {
+    "LOCODE": "HBN",
+    "NAME": "Hoboken"
+  },
+  {
+    "LOCODE": "HOD",
+    "NAME": "Hodeige"
+  },
+  {
+    "LOCODE": "HDY",
+    "NAME": "Hody"
+  },
+  {
+    "LOCODE": "HGD",
+    "NAME": "Hoegaarden"
+  },
+  {
+    "LOCODE": "HOI",
+    "NAME": "Hoeilaart"
+  },
+  {
+    "LOCODE": "HBK",
+    "NAME": "Hoelbeek"
+  },
+  {
+    "LOCODE": "HDE",
+    "NAME": "Hoeleden"
+  },
+  {
+    "LOCODE": "H9G",
+    "NAME": "Hoepertingen"
+  },
+  {
+    "LOCODE": "HOE",
+    "NAME": "Hoeselt"
+  },
+  {
+    "LOCODE": "HV2",
+    "NAME": "Hoevenen"
+  },
+  {
+    "LOCODE": "HSD",
+    "NAME": "Hofstade"
+  },
+  {
+    "LOCODE": "HOF",
+    "NAME": "Hofstade"
+  },
+  {
+    "LOCODE": "HGU",
+    "NAME": "Hognoul"
+  },
+  {
+    "LOCODE": "HOL",
+    "NAME": "Hollain"
+  },
+  {
+    "LOCODE": "HOK",
+    "NAME": "Hollebeke"
+  },
+  {
+    "LOCODE": "HLG",
+    "NAME": "Hollogne-sur-Geer"
+  },
+  {
+    "LOCODE": "HSK",
+    "NAME": "Holsbeek"
+  },
+  {
+    "LOCODE": "HBU",
+    "NAME": "Hombourg"
+  },
+  {
+    "LOCODE": "HON",
+    "NAME": "Honnelles"
+  },
+  {
+    "LOCODE": "HHG",
+    "NAME": "Hooglede"
+  },
+  {
+    "LOCODE": "HOO",
+    "NAME": "Hoogstraten"
+  },
+  {
+    "LOCODE": "HOR",
+    "NAME": "Horebeke"
+  },
+  {
+    "LOCODE": "HRU",
+    "NAME": "Hornu"
+  },
+  {
+    "LOCODE": "HOT",
+    "NAME": "Hotton"
+  },
+  {
+    "LOCODE": "HDO",
+    "NAME": "Houdemont"
+  },
+  {
+    "LOCODE": "HGA",
+    "NAME": "Houdeng-Aimeries"
+  },
+  {
+    "LOCODE": "HGG",
+    "NAME": "Houdeng-Goegnies"
+  },
+  {
+    "LOCODE": "HFA",
+    "NAME": "Houffalize"
+  },
+  {
+    "LOCODE": "HOU",
+    "NAME": "Hour"
+  },
+  {
+    "LOCODE": "HRP",
+    "NAME": "Hourpes"
+  },
+  {
+    "LOCODE": "HUS",
+    "NAME": "Housse"
+  },
+  {
+    "LOCODE": "HTN",
+    "NAME": "Houtaing"
+  },
+  {
+    "LOCODE": "HOA",
+    "NAME": "Houtain-le-Val"
+  },
+  {
+    "LOCODE": "HSM",
+    "NAME": "Houtain-Saint-Siméon"
+  },
+  {
+    "LOCODE": "HTH",
+    "NAME": "Houthalen"
+  },
+  {
+    "LOCODE": "HHE",
+    "NAME": "Houthalen-Helchteren"
+  },
+  {
+    "LOCODE": "HUT",
+    "NAME": "Houthem"
+  },
+  {
+    "LOCODE": "HHU",
+    "NAME": "Houthulst"
+  },
+  {
+    "LOCODE": "HTV",
+    "NAME": "Houtvenne"
+  },
+  {
+    "LOCODE": "HUX",
+    "NAME": "Houx"
+  },
+  {
+    "LOCODE": "HYE",
+    "NAME": "Houyet"
+  },
+  {
+    "LOCODE": "HOV",
+    "NAME": "Hove"
+  },
+  {
+    "LOCODE": "WAH",
+    "NAME": "Hoves"
+  },
+  {
+    "LOCODE": "HWA",
+    "NAME": "Howardries"
+  },
+  {
+    "LOCODE": "HZI",
+    "NAME": "Huizingen"
+  },
+  {
+    "LOCODE": "HDG",
+    "NAME": "Huldenberg"
+  },
+  {
+    "LOCODE": "HHT",
+    "NAME": "Hulshout"
+  },
+  {
+    "LOCODE": "HUL",
+    "NAME": "Hulste"
+  },
+  {
+    "LOCODE": "HUM",
+    "NAME": "Humbeek"
+  },
+  {
+    "LOCODE": "HUN",
+    "NAME": "Hun"
+  },
+  {
+    "LOCODE": "HUY",
+    "NAME": "Huy"
+  },
+  {
+    "LOCODE": "HYO",
+    "NAME": "Hyon"
+  },
+  {
+    "LOCODE": "IHE",
+    "NAME": "Ichtegem"
+  },
+  {
+    "LOCODE": "IDE",
+    "NAME": "Iddergem"
+  },
+  {
+    "LOCODE": "IDG",
+    "NAME": "Idegem"
+  },
+  {
+    "LOCODE": "IPR",
+    "NAME": "Ieper"
+  },
+  {
+    "LOCODE": "ICO",
+    "NAME": "Incourt"
+  },
+  {
+    "LOCODE": "IGE",
+    "NAME": "Ingelmunster"
+  },
+  {
+    "LOCODE": "IGM",
+    "NAME": "Ingooigem"
+  },
+  {
+    "LOCODE": "IWE",
+    "NAME": "Irchonwelz"
+  },
+  {
+    "LOCODE": "ISR",
+    "NAME": "Isières"
+  },
+  {
+    "LOCODE": "ISE",
+    "NAME": "Isnes"
+  },
+  {
+    "LOCODE": "ITE",
+    "NAME": "Itegem"
+  },
+  {
+    "LOCODE": "ITR",
+    "NAME": "Itter (Ittre)"
+  },
+  {
+    "LOCODE": "IBE",
+    "NAME": "Itterbeek"
+  },
+  {
+    "LOCODE": "ITR",
+    "NAME": "Ittre (Itter)"
+  },
+  {
+    "LOCODE": "YRT",
+    "NAME": "Ivoz-Ramet"
+  },
+  {
+    "LOCODE": "ESE",
+    "NAME": "Ixelles (Elsene)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "IZG",
+    "NAME": "Izegem"
+  },
+  {
+    "LOCODE": "IZE",
+    "NAME": "Izenberge"
+  },
+  {
+    "LOCODE": "IZI",
+    "NAME": "Izier"
+  },
+  {
+    "LOCODE": "JBE",
+    "NAME": "Jabbeke"
+  },
+  {
+    "LOCODE": "JHY",
+    "NAME": "Jalhay"
+  },
+  {
+    "LOCODE": "JLE",
+    "NAME": "Jallet"
+  },
+  {
+    "LOCODE": "JAM",
+    "NAME": "Jambes"
+  },
+  {
+    "LOCODE": "JMO",
+    "NAME": "Jamoigne"
+  },
+  {
+    "LOCODE": "JAV",
+    "NAME": "Java"
+  },
+  {
+    "LOCODE": "JME",
+    "NAME": "Jemappes"
+  },
+  {
+    "LOCODE": "JEM",
+    "NAME": "Jemeppe"
+  },
+  {
+    "LOCODE": "JPS",
+    "NAME": "Jemeppe-sur-Sambre"
+  },
+  {
+    "LOCODE": "JET",
+    "NAME": "Jette/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "JDO",
+    "NAME": "Jodoigne"
+  },
+  {
+    "LOCODE": "JUM",
+    "NAME": "Jumet"
+  },
+  {
+    "LOCODE": "JAK",
+    "NAME": "Jupille-sur-Meuse"
+  },
+  {
+    "LOCODE": "JPE",
+    "NAME": "Juprelle"
+  },
+  {
+    "LOCODE": "JBI",
+    "NAME": "Jurbise"
+  },
+  {
+    "LOCODE": "JSE",
+    "NAME": "Juseret"
+  },
+  {
+    "LOCODE": "KKR",
+    "NAME": "Kaaskerke"
+  },
+  {
+    "LOCODE": "KCT",
+    "NAME": "Kachtem"
+  },
+  {
+    "LOCODE": "KGV",
+    "NAME": "Kaggevinne"
+  },
+  {
+    "LOCODE": "KAI",
+    "NAME": "Kain"
+  },
+  {
+    "LOCODE": "KBV",
+    "NAME": "Kalken"
+  },
+  {
+    "LOCODE": "KOU",
+    "NAME": "Kallo"
+  },
+  {
+    "LOCODE": "KTT",
+    "NAME": "Kalmthout"
+  },
+  {
+    "LOCODE": "KMH",
+    "NAME": "Kampenhout"
+  },
+  {
+    "LOCODE": "KAN",
+    "NAME": "Kanne (Canne)"
+  },
+  {
+    "LOCODE": "KPN",
+    "NAME": "Kapellen"
+  },
+  {
+    "LOCODE": "KPB",
+    "NAME": "Kapelle-op-den-Bos"
+  },
+  {
+    "LOCODE": "KRI",
+    "NAME": "Kaprijke"
+  },
+  {
+    "LOCODE": "KAS",
+    "NAME": "Kaster"
+  },
+  {
+    "LOCODE": "KSE",
+    "NAME": "Kasterlee"
+  },
+  {
+    "LOCODE": "KLE",
+    "NAME": "Kaulille"
+  },
+  {
+    "LOCODE": "KAO",
+    "NAME": "Keerbergen"
+  },
+  {
+    "LOCODE": "KME",
+    "NAME": "Kemmel"
+  },
+  {
+    "LOCODE": "KMZ",
+    "NAME": "Kemzeke"
+  },
+  {
+    "LOCODE": "KHN",
+    "NAME": "Kerkhove"
+  },
+  {
+    "LOCODE": "KHO",
+    "NAME": "Kerkhoven"
+  },
+  {
+    "LOCODE": "KKE",
+    "NAME": "Kerksken"
+  },
+  {
+    "LOCODE": "KET",
+    "NAME": "Kermt"
+  },
+  {
+    "LOCODE": "KNL",
+    "NAME": "Kerniel"
+  },
+  {
+    "LOCODE": "KMO",
+    "NAME": "Kersbeek-Miskom"
+  },
+  {
+    "LOCODE": "KES",
+    "NAME": "Kessel"
+  },
+  {
+    "LOCODE": "KSO",
+    "NAME": "Kessel-Lo"
+  },
+  {
+    "LOCODE": "KS3",
+    "NAME": "Kesselt"
+  },
+  {
+    "LOCODE": "KSN",
+    "NAME": "Kessenich"
+  },
+  {
+    "LOCODE": "KST",
+    "NAME": "Kester"
+  },
+  {
+    "LOCODE": "KTE",
+    "NAME": "Kettenis"
+  },
+  {
+    "LOCODE": "KDE",
+    "NAME": "Kieldrecht"
+  },
+  {
+    "LOCODE": "KRO",
+    "NAME": "Kinrooi"
+  },
+  {
+    "LOCODE": "KVE",
+    "NAME": "Klein Veerle"
+  },
+  {
+    "LOCODE": "KWB",
+    "NAME": "Klein Willebroek"
+  },
+  {
+    "LOCODE": "KLS",
+    "NAME": "Kleine-Spouwen"
+  },
+  {
+    "LOCODE": "KRK",
+    "NAME": "Klerken"
+  },
+  {
+    "LOCODE": "KSR",
+    "NAME": "Kluisbergen"
+  },
+  {
+    "LOCODE": "KNS",
+    "NAME": "Knesselaere"
+  },
+  {
+    "LOCODE": "BZZ",
+    "NAME": "Knesselare"
+  },
+  {
+    "LOCODE": "KNO",
+    "NAME": "Knokke/Het Zoute"
+  },
+  {
+    "LOCODE": "KHI",
+    "NAME": "Knokke-Heist"
+  },
+  {
+    "LOCODE": "KBB",
+    "NAME": "Kobbegem"
+  },
+  {
+    "LOCODE": "KEE",
+    "NAME": "Koekelare"
+  },
+  {
+    "LOCODE": "KOE",
+    "NAME": "Koekelberg/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "KOS",
+    "NAME": "Koersel"
+  },
+  {
+    "LOCODE": "KKS",
+    "NAME": "Koksijde"
+  },
+  {
+    "LOCODE": "KKT",
+    "NAME": "Koningshooikt"
+  },
+  {
+    "LOCODE": "KON",
+    "NAME": "Kontich"
+  },
+  {
+    "LOCODE": "KOI",
+    "NAME": "Kooigem"
+  },
+  {
+    "LOCODE": "KOO",
+    "NAME": "Koolskamp"
+  },
+  {
+    "LOCODE": "KOR",
+    "NAME": "Korbeek-Lo"
+  },
+  {
+    "LOCODE": "KTK",
+    "NAME": "Kortemark"
+  },
+  {
+    "LOCODE": "KNA",
+    "NAME": "Kortenaken"
+  },
+  {
+    "LOCODE": "KTB",
+    "NAME": "Kortenberg"
+  },
+  {
+    "LOCODE": "KTM",
+    "NAME": "Kortessem"
+  },
+  {
+    "LOCODE": "KJK",
+    "NAME": "Kortrijk"
+  },
+  {
+    "LOCODE": "KZN",
+    "NAME": "Kozen"
+  },
+  {
+    "LOCODE": "KRA",
+    "NAME": "Kraainem"
+  },
+  {
+    "LOCODE": "KBE",
+    "NAME": "Krombeke"
+  },
+  {
+    "LOCODE": "KEK",
+    "NAME": "Kruibeke"
+  },
+  {
+    "LOCODE": "KHM",
+    "NAME": "Kruishoutem"
+  },
+  {
+    "LOCODE": "KRN",
+    "NAME": "Kuringen"
+  },
+  {
+    "LOCODE": "KUU",
+    "NAME": "Kuurne"
+  },
+  {
+    "LOCODE": "KWA",
+    "NAME": "Kwaadmechelen"
+  },
+  {
+    "LOCODE": "LBO",
+    "NAME": "La Bouverie"
+  },
+  {
+    "LOCODE": "LBY",
+    "NAME": "La Bruyère"
+  },
+  {
+    "LOCODE": "LAP",
+    "NAME": "La Calamine"
+  },
+  {
+    "LOCODE": "GLA",
+    "NAME": "La Glanerie"
+  },
+  {
+    "LOCODE": "LHL",
+    "NAME": "La Hulpe"
+  },
+  {
+    "LOCODE": "LLO",
+    "NAME": "La Louvière"
+  },
+  {
+    "LOCODE": "LPT",
+    "NAME": "La Plante"
+  },
+  {
+    "LOCODE": "RAR",
+    "NAME": "La Roche-en-Ardenne"
+  },
+  {
+    "LOCODE": "YZO",
+    "NAME": "Laakdal"
+  },
+  {
+    "LOCODE": "LDA",
+    "NAME": "Laakdal"
+  },
+  {
+    "LOCODE": "LAA",
+    "NAME": "Laarne"
+  },
+  {
+    "LOCODE": "BSI",
+    "NAME": "Labuissière"
+  },
+  {
+    "LOCODE": "LCU",
+    "NAME": "Lacuisine"
+  },
+  {
+    "LOCODE": "LUZ",
+    "NAME": "Ladeuze"
+  },
+  {
+    "LOCODE": "LAM",
+    "NAME": "Lamain"
+  },
+  {
+    "LOCODE": "LBM",
+    "NAME": "Lambermont"
+  },
+  {
+    "LOCODE": "LBT",
+    "NAME": "Lambusart"
+  },
+  {
+    "LOCODE": "LAN",
+    "NAME": "Lanaken"
+  },
+  {
+    "LOCODE": "LNY",
+    "NAME": "Lanaye (Ternaaien)"
+  },
+  {
+    "LOCODE": "LGM",
+    "NAME": "Landegem"
+  },
+  {
+    "LOCODE": "LDS",
+    "NAME": "Landelies"
+  },
+  {
+    "LOCODE": "LAD",
+    "NAME": "Landen"
+  },
+  {
+    "LOCODE": "LNE",
+    "NAME": "Laneffe"
+  },
+  {
+    "LOCODE": "LDO",
+    "NAME": "Langdorp"
+  },
+  {
+    "LOCODE": "LGL",
+    "NAME": "Langelede"
+  },
+  {
+    "LOCODE": "LAK",
+    "NAME": "Langemark"
+  },
+  {
+    "LOCODE": "LPO",
+    "NAME": "Langemark-Poelkapelle"
+  },
+  {
+    "LOCODE": "LGB",
+    "NAME": "Langerbrugge"
+  },
+  {
+    "LOCODE": "LGO",
+    "NAME": "Langerlo"
+  },
+  {
+    "LOCODE": "LNK",
+    "NAME": "Lanklaar"
+  },
+  {
+    "LOCODE": "LQA",
+    "NAME": "Lanquesaint"
+  },
+  {
+    "LOCODE": "LPI",
+    "NAME": "Laplaigne"
+  },
+  {
+    "LOCODE": "LRM",
+    "NAME": "Larum"
+  },
+  {
+    "LOCODE": "LAS",
+    "NAME": "Lasne"
+  },
+  {
+    "LOCODE": "LSN",
+    "NAME": "Lasne-Chapelle-Saint-Lambert"
+  },
+  {
+    "LOCODE": "LTI",
+    "NAME": "Latinne"
+  },
+  {
+    "LOCODE": "LTO",
+    "NAME": "Latour"
+  },
+  {
+    "LOCODE": "LAW",
+    "NAME": "Lauwe"
+  },
+  {
+    "LOCODE": "LVA",
+    "NAME": "Lavacherie"
+  },
+  {
+    "LOCODE": "ROU",
+    "NAME": "Le Roeulx"
+  },
+  {
+    "LOCODE": "LEB",
+    "NAME": "Lebbeke"
+  },
+  {
+    "LOCODE": "LED",
+    "NAME": "Lede"
+  },
+  {
+    "LOCODE": "LRG",
+    "NAME": "Ledeberg"
+  },
+  {
+    "LOCODE": "LEG",
+    "NAME": "Ledegem"
+  },
+  {
+    "LOCODE": "LFA",
+    "NAME": "Leefdaal"
+  },
+  {
+    "LOCODE": "LRE",
+    "NAME": "Leernes"
+  },
+  {
+    "LOCODE": "LST",
+    "NAME": "Leest"
+  },
+  {
+    "LOCODE": "LFE",
+    "NAME": "Leffinge"
+  },
+  {
+    "LOCODE": "LGI",
+    "NAME": "Léglise"
+  },
+  {
+    "LOCODE": "LSE",
+    "NAME": "Leisele"
+  },
+  {
+    "LOCODE": "LBE",
+    "NAME": "Lembeek"
+  },
+  {
+    "LOCODE": "LKE",
+    "NAME": "Lembeke"
+  },
+  {
+    "LOCODE": "LND",
+    "NAME": "Lendelede"
+  },
+  {
+    "LOCODE": "LIK",
+    "NAME": "Lennik"
+  },
+  {
+    "LOCODE": "LNS",
+    "NAME": "Lens"
+  },
+  {
+    "LOCODE": "LPG",
+    "NAME": "Leopoldsburg"
+  },
+  {
+    "LOCODE": "LBU",
+    "NAME": "Les Bulles"
+  },
+  {
+    "LOCODE": "BOV",
+    "NAME": "Les-Bons-Villers"
+  },
+  {
+    "LOCODE": "LCA",
+    "NAME": "l'Escaillière"
+  },
+  {
+    "LOCODE": "LDI",
+    "NAME": "Lesdain"
+  },
+  {
+    "LOCODE": "LES",
+    "NAME": "Lessines"
+  },
+  {
+    "LOCODE": "LSY",
+    "NAME": "Lesterny"
+  },
+  {
+    "LOCODE": "LVE",
+    "NAME": "Lesve"
+  },
+  {
+    "LOCODE": "LHO",
+    "NAME": "Letterhoutem"
+  },
+  {
+    "LOCODE": "LEU",
+    "NAME": "Leuven"
+  },
+  {
+    "LOCODE": "LHT",
+    "NAME": "Leuze-en-Hainaut"
+  },
+  {
+    "LOCODE": "LTA",
+    "NAME": "Leval-Trahegnies"
+  },
+  {
+    "LOCODE": "LCI",
+    "NAME": "Liberchies"
+  },
+  {
+    "LOCODE": "LBN",
+    "NAME": "Libin"
+  },
+  {
+    "LOCODE": "LIB",
+    "NAME": "Libramont-Chevigny"
+  },
+  {
+    "LOCODE": "LHA",
+    "NAME": "Lichtaart"
+  },
+  {
+    "LOCODE": "LIC",
+    "NAME": "Lichtervelde"
+  },
+  {
+    "LOCODE": "LDK",
+    "NAME": "Liedekerke"
+  },
+  {
+    "LOCODE": "LHK",
+    "NAME": "Liefkenshoek"
+  },
+  {
+    "LOCODE": "LGG",
+    "NAME": "Liège"
+  },
+  {
+    "LOCODE": "LIE",
+    "NAME": "Lier"
+  },
+  {
+    "LOCODE": "LNX",
+    "NAME": "Lierneux"
+  },
+  {
+    "LOCODE": "LER",
+    "NAME": "Liers"
+  },
+  {
+    "LOCODE": "LIV",
+    "NAME": "Lievegem"
+  },
+  {
+    "LOCODE": "LGN",
+    "NAME": "Ligne"
+  },
+  {
+    "LOCODE": "LUE",
+    "NAME": "Ligneuville"
+  },
+  {
+    "LOCODE": "LGY",
+    "NAME": "Ligney"
+  },
+  {
+    "LOCODE": "LLE",
+    "NAME": "Lille"
+  },
+  {
+    "LOCODE": "LIL",
+    "NAME": "Lillo"
+  },
+  {
+    "LOCODE": "LWI",
+    "NAME": "Lillois-Witterzée"
+  },
+  {
+    "LOCODE": "LIM",
+    "NAME": "Limbourg"
+  },
+  {
+    "LOCODE": "LME",
+    "NAME": "Limelette"
+  },
+  {
+    "LOCODE": "LCE",
+    "NAME": "Lincent"
+  },
+  {
+    "LOCODE": "LDN",
+    "NAME": "Linden"
+  },
+  {
+    "LOCODE": "LKK",
+    "NAME": "Linkebeek"
+  },
+  {
+    "LOCODE": "LNI",
+    "NAME": "Lint"
+  },
+  {
+    "LOCODE": "LIN",
+    "NAME": "Linter"
+  },
+  {
+    "LOCODE": "LSO",
+    "NAME": "Lisogne"
+  },
+  {
+    "LOCODE": "LSG",
+    "NAME": "Lissewege"
+  },
+  {
+    "LOCODE": "LVM",
+    "NAME": "Lives-sur-Meuse"
+  },
+  {
+    "LOCODE": "LIX",
+    "NAME": "Lixhe"
+  },
+  {
+    "LOCODE": "XLO",
+    "NAME": "Lo"
+  },
+  {
+    "LOCODE": "LBS",
+    "NAME": "Lobbes"
+  },
+  {
+    "LOCODE": "LOH",
+    "NAME": "Lochristi"
+  },
+  {
+    "LOCODE": "LOD",
+    "NAME": "Lodelinsart"
+  },
+  {
+    "LOCODE": "LEH",
+    "NAME": "Loenhout"
+  },
+  {
+    "LOCODE": "LKO",
+    "NAME": "Loker"
+  },
+  {
+    "LOCODE": "LOK",
+    "NAME": "Lokeren"
+  },
+  {
+    "LOCODE": "LSI",
+    "NAME": "Lombardsijde"
+  },
+  {
+    "LOCODE": "LML",
+    "NAME": "Lommel"
+  },
+  {
+    "LOCODE": "LWE",
+    "NAME": "Lommersweiler"
+  },
+  {
+    "LOCODE": "LOP",
+    "NAME": "Lompret"
+  },
+  {
+    "LOCODE": "LPZ",
+    "NAME": "Lomprez"
+  },
+  {
+    "LOCODE": "LOC",
+    "NAME": "Loncin"
+  },
+  {
+    "LOCODE": "LNZ",
+    "NAME": "Londerzeel"
+  },
+  {
+    "LOCODE": "LGA",
+    "NAME": "Longchamps"
+  },
+  {
+    "LOCODE": "LFG",
+    "NAME": "Longueville"
+  },
+  {
+    "LOCODE": "LTZ",
+    "NAME": "Lontzen"
+  },
+  {
+    "LOCODE": "LPM",
+    "NAME": "Loppem"
+  },
+  {
+    "LOCODE": "LRI",
+    "NAME": "Lo-Reninge"
+  },
+  {
+    "LOCODE": "LOT",
+    "NAME": "Lot"
+  },
+  {
+    "LOCODE": "LPE",
+    "NAME": "Loupoigne"
+  },
+  {
+    "LOCODE": "LLN",
+    "NAME": "Louvain-la-Neuve"
+  },
+  {
+    "LOCODE": "LUV",
+    "NAME": "Louveigné"
+  },
+  {
+    "LOCODE": "LVO",
+    "NAME": "Lovendegem"
+  },
+  {
+    "LOCODE": "LOY",
+    "NAME": "Loyers"
+  },
+  {
+    "LOCODE": "LOZ",
+    "NAME": "Lozen"
+  },
+  {
+    "LOCODE": "LBK",
+    "NAME": "Lubbeek"
+  },
+  {
+    "LOCODE": "LIU",
+    "NAME": "Luingne"
+  },
+  {
+    "LOCODE": "LUM",
+    "NAME": "Lummen"
+  },
+  {
+    "LOCODE": "LUI",
+    "NAME": "Lustin"
+  },
+  {
+    "LOCODE": "LUT",
+    "NAME": "Luttre"
+  },
+  {
+    "LOCODE": "MAK",
+    "NAME": "Maarkedal"
+  },
+  {
+    "LOCODE": "MSK",
+    "NAME": "Maaseik"
+  },
+  {
+    "LOCODE": "MMN",
+    "NAME": "Maasmechelen"
+  },
+  {
+    "LOCODE": "MBO",
+    "NAME": "Mabompré"
+  },
+  {
+    "LOCODE": "MAC",
+    "NAME": "Machelen"
+  },
+  {
+    "LOCODE": "MCN",
+    "NAME": "Machelen"
+  },
+  {
+    "LOCODE": "MCO",
+    "NAME": "Macon"
+  },
+  {
+    "LOCODE": "MCQ",
+    "NAME": "Macquenoise"
+  },
+  {
+    "LOCODE": "MAF",
+    "NAME": "Maffe"
+  },
+  {
+    "LOCODE": "MFF",
+    "NAME": "Maffle"
+  },
+  {
+    "LOCODE": "MGE",
+    "NAME": "Magnée"
+  },
+  {
+    "LOCODE": "MLL",
+    "NAME": "Maillen"
+  },
+  {
+    "LOCODE": "MVA",
+    "NAME": "Mainvault"
+  },
+  {
+    "LOCODE": "MSR",
+    "NAME": "Maisières"
+  },
+  {
+    "LOCODE": "MSN",
+    "NAME": "Maissin"
+  },
+  {
+    "LOCODE": "MZT",
+    "NAME": "Maizeret"
+  },
+  {
+    "LOCODE": "MLG",
+    "NAME": "Maldegem"
+  },
+  {
+    "LOCODE": "MN2",
+    "NAME": "Malderen"
+  },
+  {
+    "LOCODE": "MAL",
+    "NAME": "Malle"
+  },
+  {
+    "LOCODE": "MBW",
+    "NAME": "Malmédy"
+  },
+  {
+    "LOCODE": "MLN",
+    "NAME": "Malonne"
+  },
+  {
+    "LOCODE": "MAN",
+    "NAME": "Manage"
+  },
+  {
+    "LOCODE": "MHY",
+    "NAME": "Manhay"
+  },
+  {
+    "LOCODE": "MKE",
+    "NAME": "Mannekensvere"
+  },
+  {
+    "LOCODE": "WBR",
+    "NAME": "Maransart"
+  },
+  {
+    "LOCODE": "MBS",
+    "NAME": "Marbais"
+  },
+  {
+    "LOCODE": "MBH",
+    "NAME": "Marbehan"
+  },
+  {
+    "LOCODE": "MEF",
+    "NAME": "Marche-en-Famenne"
+  },
+  {
+    "LOCODE": "MLD",
+    "NAME": "Marche-les-Dames"
+  },
+  {
+    "LOCODE": "ECA",
+    "NAME": "Marche-Lez-Ecaussinnes"
+  },
+  {
+    "LOCODE": "2HW",
+    "NAME": "Marche-lez-Écaussinnes"
+  },
+  {
+    "LOCODE": "MAP",
+    "NAME": "Marchienne-au-Pont"
+  },
+  {
+    "LOCODE": "MCI",
+    "NAME": "Marchin"
+  },
+  {
+    "LOCODE": "MCL",
+    "NAME": "Marcinelle"
+  },
+  {
+    "LOCODE": "MRI",
+    "NAME": "Mariakerke"
+  },
+  {
+    "LOCODE": "MOU",
+    "NAME": "Marienbourg"
+  },
+  {
+    "LOCODE": "MAR",
+    "NAME": "Marke"
+  },
+  {
+    "LOCODE": "MOI",
+    "NAME": "Marloie"
+  },
+  {
+    "LOCODE": "MLY",
+    "NAME": "Marly"
+  },
+  {
+    "LOCODE": "MRQ",
+    "NAME": "Marquain"
+  },
+  {
+    "LOCODE": "MTA",
+    "NAME": "Martelange"
+  },
+  {
+    "LOCODE": "MSD",
+    "NAME": "Martenslinde"
+  },
+  {
+    "LOCODE": "MNE",
+    "NAME": "Martouzin-Neuville"
+  },
+  {
+    "LOCODE": "MBU",
+    "NAME": "Masbourg"
+  },
+  {
+    "LOCODE": "MHN",
+    "NAME": "Massenhoven"
+  },
+  {
+    "LOCODE": "MBY",
+    "NAME": "Maubray"
+  },
+  {
+    "LOCODE": "MUL",
+    "NAME": "Maulde"
+  },
+  {
+    "LOCODE": "MRG",
+    "NAME": "Maurage"
+  },
+  {
+    "LOCODE": "MAZ",
+    "NAME": "Mazy"
+  },
+  {
+    "LOCODE": "MEA",
+    "NAME": "Méan"
+  },
+  {
+    "LOCODE": "ECH",
+    "NAME": "Mechelen"
+  },
+  {
+    "LOCODE": "MKI",
+    "NAME": "Meensel-Kiezegem"
+  },
+  {
+    "LOCODE": "MEE",
+    "NAME": "Meer"
+  },
+  {
+    "LOCODE": "MRE",
+    "NAME": "Meerbeek"
+  },
+  {
+    "LOCODE": "MBE",
+    "NAME": "Meerbeke"
+  },
+  {
+    "LOCODE": "MDK",
+    "NAME": "Meerdonk"
+  },
+  {
+    "LOCODE": "MEH",
+    "NAME": "Meerhout"
+  },
+  {
+    "LOCODE": "MLR",
+    "NAME": "Meerle"
+  },
+  {
+    "LOCODE": "MGU",
+    "NAME": "Meeuwen-Gruitrode"
+  },
+  {
+    "LOCODE": "MGM",
+    "NAME": "Meigem"
+  },
+  {
+    "LOCODE": "MEG",
+    "NAME": "Meilegem"
+  },
+  {
+    "LOCODE": "MIS",
+    "NAME": "Meise"
+  },
+  {
+    "LOCODE": "MDV",
+    "NAME": "Meix-devant-Virton"
+  },
+  {
+    "LOCODE": "MDE",
+    "NAME": "Meldert"
+  },
+  {
+    "LOCODE": "MNL",
+    "NAME": "Melen"
+  },
+  {
+    "LOCODE": "MEI",
+    "NAME": "Mélin"
+  },
+  {
+    "LOCODE": "MEL",
+    "NAME": "Melle"
+  },
+  {
+    "LOCODE": "MLS",
+    "NAME": "Melles"
+  },
+  {
+    "LOCODE": "MLT",
+    "NAME": "Mellet"
+  },
+  {
+    "LOCODE": "MBK",
+    "NAME": "Melsbroek"
+  },
+  {
+    "LOCODE": "MLE",
+    "NAME": "Melsele"
+  },
+  {
+    "LOCODE": "ELS",
+    "NAME": "Melsen"
+  },
+  {
+    "LOCODE": "MDO",
+    "NAME": "Mendonk"
+  },
+  {
+    "LOCODE": "MEN",
+    "NAME": "Menen"
+  },
+  {
+    "LOCODE": "MCA",
+    "NAME": "Merbes-le-Château"
+  },
+  {
+    "LOCODE": "MEC",
+    "NAME": "Merchtem"
+  },
+  {
+    "LOCODE": "MER",
+    "NAME": "Mere"
+  },
+  {
+    "LOCODE": "MRL",
+    "NAME": "Merelbeke"
+  },
+  {
+    "LOCODE": "MRD",
+    "NAME": "Merendree"
+  },
+  {
+    "LOCODE": "MRM",
+    "NAME": "Merkem"
+  },
+  {
+    "LOCODE": "MRK",
+    "NAME": "Merksem"
+  },
+  {
+    "LOCODE": "MPS",
+    "NAME": "Merksplas"
+  },
+  {
+    "LOCODE": "MLM",
+    "NAME": "Merlemont"
+  },
+  {
+    "LOCODE": "MSE",
+    "NAME": "Mesen"
+  },
+  {
+    "LOCODE": "MEB",
+    "NAME": "Meslin-l'Evêque"
+  },
+  {
+    "LOCODE": "MSP",
+    "NAME": "Mespelare"
+  },
+  {
+    "LOCODE": "MES",
+    "NAME": "Messancy"
+  },
+  {
+    "LOCODE": "MSO",
+    "NAME": "Messelbroek"
+  },
+  {
+    "LOCODE": "MVI",
+    "NAME": "Mesvin"
+  },
+  {
+    "LOCODE": "MTE",
+    "NAME": "Mettet"
+  },
+  {
+    "LOCODE": "MEU",
+    "NAME": "Meulebeke"
+  },
+  {
+    "LOCODE": "MUX",
+    "NAME": "Meux"
+  },
+  {
+    "LOCODE": "MGL",
+    "NAME": "Mévergnies-lez-Lens"
+  },
+  {
+    "LOCODE": "MCX",
+    "NAME": "Micheroux"
+  },
+  {
+    "LOCODE": "MID",
+    "NAME": "Middelburg"
+  },
+  {
+    "LOCODE": "MIK",
+    "NAME": "Middelkerke"
+  },
+  {
+    "LOCODE": "MCE",
+    "NAME": "Miécret"
+  },
+  {
+    "LOCODE": "MBA",
+    "NAME": "Mielen-boven-Aalst"
+  },
+  {
+    "LOCODE": "MIL",
+    "NAME": "Milmort"
+  },
+  {
+    "LOCODE": "MHO",
+    "NAME": "Minderhout"
+  },
+  {
+    "LOCODE": "MOD",
+    "NAME": "Modave"
+  },
+  {
+    "LOCODE": "MOE",
+    "NAME": "Moelingen"
+  },
+  {
+    "LOCODE": "MNO",
+    "NAME": "Moen"
+  },
+  {
+    "LOCODE": "MEW",
+    "NAME": "Moerbeke-Waas"
+  },
+  {
+    "LOCODE": "MRB",
+    "NAME": "Moerbrugge"
+  },
+  {
+    "LOCODE": "JK8",
+    "NAME": "Moerdijk"
+  },
+  {
+    "LOCODE": "MOK",
+    "NAME": "Moerkerke"
+  },
+  {
+    "LOCODE": "MZK",
+    "NAME": "Moerzeke"
+  },
+  {
+    "LOCODE": "MOS",
+    "NAME": "Moeskroen (Mouscron)"
+  },
+  {
+    "LOCODE": "MHI",
+    "NAME": "Mohiville"
+  },
+  {
+    "LOCODE": "MGN",
+    "NAME": "Moignelée"
+  },
+  {
+    "LOCODE": "MLO",
+    "NAME": "Mol"
+  },
+  {
+    "LOCODE": "MSJ",
+    "NAME": "Molenbeek-Saint-Jean (Sint-Jans-Molenbeek)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "MWE",
+    "NAME": "Molenbeek-Wersbeek"
+  },
+  {
+    "LOCODE": "MND",
+    "NAME": "Molenstede"
+  },
+  {
+    "LOCODE": "MFG",
+    "NAME": "Molinfaing"
+  },
+  {
+    "LOCODE": "MEM",
+    "NAME": "Mollem"
+  },
+  {
+    "LOCODE": "MOM",
+    "NAME": "Momignies"
+  },
+  {
+    "LOCODE": "MIR",
+    "NAME": "Monceau-Imbrechies"
+  },
+  {
+    "LOCODE": "MSS",
+    "NAME": "Monceau-sur-Sambre"
+  },
+  {
+    "LOCODE": "MQS",
+    "NAME": "Mons"
+  },
+  {
+    "LOCODE": "MSI",
+    "NAME": "Monsin"
+  },
+  {
+    "LOCODE": "MNT",
+    "NAME": "Mont"
+  },
+  {
+    "LOCODE": "MDL",
+    "NAME": "Mont-de-L'Enclus"
+  },
+  {
+    "LOCODE": "MTN",
+    "NAME": "Montegnee"
+  },
+  {
+    "LOCODE": "MON",
+    "NAME": "Montignies-le-Tilleul"
+  },
+  {
+    "LOCODE": "MS5",
+    "NAME": "Montignies-Sur-Roc"
+  },
+  {
+    "LOCODE": "MGS",
+    "NAME": "Montignies-sur-Sambre"
+  },
+  {
+    "LOCODE": "MOB",
+    "NAME": "Montleban"
+  },
+  {
+    "LOCODE": "MBI",
+    "NAME": "Montroeul-au-Bois"
+  },
+  {
+    "LOCODE": "MSA",
+    "NAME": "Mont-Saint-Aubert"
+  },
+  {
+    "LOCODE": "MSG",
+    "NAME": "Mont-Sainte-Aldegonde"
+  },
+  {
+    "LOCODE": "MSU",
+    "NAME": "Mont-Saint-Guibert"
+  },
+  {
+    "LOCODE": "MMA",
+    "NAME": "Mont-sur-Marchienne"
+  },
+  {
+    "LOCODE": "MOT",
+    "NAME": "Montzen"
+  },
+  {
+    "LOCODE": "MOL",
+    "NAME": "Moorsel"
+  },
+  {
+    "LOCODE": "MOO",
+    "NAME": "Moorsele"
+  },
+  {
+    "LOCODE": "MRS",
+    "NAME": "Moorslede"
+  },
+  {
+    "LOCODE": "MRA",
+    "NAME": "Morialme"
+  },
+  {
+    "LOCODE": "MLW",
+    "NAME": "Morlanwelz-Mariemont"
+  },
+  {
+    "LOCODE": "MRO",
+    "NAME": "Mornimont"
+  },
+  {
+    "LOCODE": "MTX",
+    "NAME": "Mortroux"
+  },
+  {
+    "LOCODE": "MOR",
+    "NAME": "Mortsel"
+  },
+  {
+    "LOCODE": "MLX",
+    "NAME": "Moulbaix"
+  },
+  {
+    "LOCODE": "MCT",
+    "NAME": "Mourcourt"
+  },
+  {
+    "LOCODE": "MOS",
+    "NAME": "Mouscron (Moeskroen)"
+  },
+  {
+    "LOCODE": "MUS",
+    "NAME": "Moustier"
+  },
+  {
+    "LOCODE": "MUI",
+    "NAME": "Muizen"
+  },
+  {
+    "LOCODE": "MUN",
+    "NAME": "Muno"
+  },
+  {
+    "LOCODE": "MBL",
+    "NAME": "Munsterbilzen"
+  },
+  {
+    "LOCODE": "MSL",
+    "NAME": "Musson"
+  },
+  {
+    "LOCODE": "NAS",
+    "NAME": "Naast"
+  },
+  {
+    "LOCODE": "NMC",
+    "NAME": "Namêche"
+  },
+  {
+    "LOCODE": "NAM",
+    "NAME": "Namur"
+  },
+  {
+    "LOCODE": "NDI",
+    "NAME": "Nandrin"
+  },
+  {
+    "LOCODE": "NNE",
+    "NAME": "Naninne"
+  },
+  {
+    "LOCODE": "NSO",
+    "NAME": "Nassogne"
+  },
+  {
+    "LOCODE": "NTE",
+    "NAME": "Natoye"
+  },
+  {
+    "LOCODE": "NZH",
+    "NAME": "Nazareth"
+  },
+  {
+    "LOCODE": "NBL",
+    "NAME": "Nederboelare"
+  },
+  {
+    "LOCODE": "NED",
+    "NAME": "Nederokkerzeel"
+  },
+  {
+    "LOCODE": "NVH",
+    "NAME": "Neder-Over-Heembeek"
+  },
+  {
+    "LOCODE": "NHR",
+    "NAME": "Nederzwalm-Hermelgem"
+  },
+  {
+    "LOCODE": "NHA",
+    "NAME": "Neerharen"
+  },
+  {
+    "LOCODE": "NLA",
+    "NAME": "Neerlanden"
+  },
+  {
+    "LOCODE": "NRT",
+    "NAME": "Neeroeteren"
+  },
+  {
+    "LOCODE": "NRP",
+    "NAME": "Neerpelt"
+  },
+  {
+    "LOCODE": "NFE",
+    "NAME": "Neffe"
+  },
+  {
+    "LOCODE": "NEG",
+    "NAME": "Neigem"
+  },
+  {
+    "LOCODE": "NES",
+    "NAME": "Nessonvaux"
+  },
+  {
+    "LOCODE": "NCU",
+    "NAME": "Neufchâteau"
+  },
+  {
+    "LOCODE": "NCA",
+    "NAME": "Neufchâteau"
+  },
+  {
+    "LOCODE": "NMA",
+    "NAME": "Neufmaison"
+  },
+  {
+    "LOCODE": "NEU",
+    "NAME": "Neufvilles"
+  },
+  {
+    "LOCODE": "NMO",
+    "NAME": "Neu-Moresnet"
+  },
+  {
+    "LOCODE": "NPE",
+    "NAME": "Neupré"
+  },
+  {
+    "LOCODE": "NCO",
+    "NAME": "Neuville-en-Condroz"
+  },
+  {
+    "LOCODE": "NHY",
+    "NAME": "Neuville-sous-Huy"
+  },
+  {
+    "LOCODE": "NVL",
+    "NAME": "Nevele"
+  },
+  {
+    "LOCODE": "NDM",
+    "NAME": "Nidrum"
+  },
+  {
+    "LOCODE": "NIL",
+    "NAME": "Niel"
+  },
+  {
+    "LOCODE": "NWO",
+    "NAME": "Nieuwenhove"
+  },
+  {
+    "LOCODE": "NWE",
+    "NAME": "Nieuwerkerken"
+  },
+  {
+    "LOCODE": "NWK",
+    "NAME": "Nieuwerkerken"
+  },
+  {
+    "LOCODE": "NKW",
+    "NAME": "Nieuwkerken-Waas"
+  },
+  {
+    "LOCODE": "NIE",
+    "NAME": "Nieuwpoort"
+  },
+  {
+    "LOCODE": "NRO",
+    "NAME": "Nieuwrode"
+  },
+  {
+    "LOCODE": "NYL",
+    "NAME": "Nijlen"
+  },
+  {
+    "LOCODE": "NBA",
+    "NAME": "Nimy"
+  },
+  {
+    "LOCODE": "NNV",
+    "NAME": "Ninove"
+  },
+  {
+    "LOCODE": "NIV",
+    "NAME": "Nivelles"
+  },
+  {
+    "LOCODE": "NVN",
+    "NAME": "Noeveren"
+  },
+  {
+    "LOCODE": "NFO",
+    "NAME": "Noirefontaine"
+  },
+  {
+    "LOCODE": "NOK",
+    "NAME": "Nokere"
+  },
+  {
+    "LOCODE": "NVX",
+    "NAME": "Nollevaux"
+  },
+  {
+    "LOCODE": "NDW",
+    "NAME": "Noorderwijk"
+  },
+  {
+    "LOCODE": "NSG",
+    "NAME": "Nossegem"
+  },
+  {
+    "LOCODE": "NVE",
+    "NAME": "Nouvelles"
+  },
+  {
+    "LOCODE": "NUK",
+    "NAME": "Nukerke"
+  },
+  {
+    "LOCODE": "OBI",
+    "NAME": "Obigies"
+  },
+  {
+    "LOCODE": "OBR",
+    "NAME": "Obourg"
+  },
+  {
+    "LOCODE": "VLD",
+    "NAME": "Oedelem"
+  },
+  {
+    "LOCODE": "OEL",
+    "NAME": "Oelegem"
+  },
+  {
+    "LOCODE": "OSG",
+    "NAME": "Oeselgem"
+  },
+  {
+    "LOCODE": "OGI",
+    "NAME": "Oeudeghien"
+  },
+  {
+    "LOCODE": "OEV",
+    "NAME": "Oevel"
+  },
+  {
+    "LOCODE": "OGY",
+    "NAME": "Ogy"
+  },
+  {
+    "LOCODE": "OHA",
+    "NAME": "Ohain"
+  },
+  {
+    "LOCODE": "OHY",
+    "NAME": "Ohey"
+  },
+  {
+    "LOCODE": "OQC",
+    "NAME": "Oisquercq"
+  },
+  {
+    "LOCODE": "OKG",
+    "NAME": "Okegem"
+  },
+  {
+    "LOCODE": "OLN",
+    "NAME": "Olen"
+  },
+  {
+    "LOCODE": "OGS",
+    "NAME": "Ollignies"
+  },
+  {
+    "LOCODE": "OLM",
+    "NAME": "Olmen"
+  },
+  {
+    "LOCODE": "ONE",
+    "NAME": "Olne"
+  },
+  {
+    "LOCODE": "OLS",
+    "NAME": "Olsene"
+  },
+  {
+    "LOCODE": "OMA",
+    "NAME": "Omal"
+  },
+  {
+    "LOCODE": "OBT",
+    "NAME": "Ombret-Rawsa"
+  },
+  {
+    "LOCODE": "OAY",
+    "NAME": "Onhaye"
+  },
+  {
+    "LOCODE": "OZL",
+    "NAME": "Onkerzele"
+  },
+  {
+    "LOCODE": "LVW",
+    "NAME": "Onze-Lieve-Vrouw-Waver"
+  },
+  {
+    "LOCODE": "OOG",
+    "NAME": "Ooigem"
+  },
+  {
+    "LOCODE": "OOS",
+    "NAME": "Oostakker"
+  },
+  {
+    "LOCODE": "OKO",
+    "NAME": "Oosteeklo"
+  },
+  {
+    "LOCODE": "OST",
+    "NAME": "Oostende (Ostend)"
+  },
+  {
+    "LOCODE": "OTL",
+    "NAME": "Oosterlo"
+  },
+  {
+    "LOCODE": "OZE",
+    "NAME": "Oosterzele"
+  },
+  {
+    "LOCODE": "OSH",
+    "NAME": "Oostham"
+  },
+  {
+    "LOCODE": "OKP",
+    "NAME": "Oostkamp"
+  },
+  {
+    "LOCODE": "OTK",
+    "NAME": "Oostkerke"
+  },
+  {
+    "LOCODE": "OSL",
+    "NAME": "Oostmalle"
+  },
+  {
+    "LOCODE": "OSR",
+    "NAME": "Oostrozebeke"
+  },
+  {
+    "LOCODE": "OSV",
+    "NAME": "Oostvleteren"
+  },
+  {
+    "LOCODE": "OWI",
+    "NAME": "Oostwinkel"
+  },
+  {
+    "LOCODE": "OPG",
+    "NAME": "Opglabbeek"
+  },
+  {
+    "LOCODE": "OSI",
+    "NAME": "Ophain-Bois-Seigneur-Isaac"
+  },
+  {
+    "LOCODE": "OPH",
+    "NAME": "Ophasselt"
+  },
+  {
+    "LOCODE": "OHN",
+    "NAME": "Ophoven"
+  },
+  {
+    "LOCODE": "OPI",
+    "NAME": "Opitter"
+  },
+  {
+    "LOCODE": "OPO",
+    "NAME": "Opont"
+  },
+  {
+    "LOCODE": "OIJ",
+    "NAME": "Opwijk"
+  },
+  {
+    "LOCODE": "ORQ",
+    "NAME": "Orcq"
+  },
+  {
+    "LOCODE": "OYE",
+    "NAME": "Oreye"
+  },
+  {
+    "LOCODE": "OGE",
+    "NAME": "Ormeignies"
+  },
+  {
+    "LOCODE": "OJA",
+    "NAME": "Orp-Jauche"
+  },
+  {
+    "LOCODE": "ORR",
+    "NAME": "Orroir"
+  },
+  {
+    "LOCODE": "OTO",
+    "NAME": "Ortho"
+  },
+  {
+    "LOCODE": "OST",
+    "NAME": "Ostend (Oostende)"
+  },
+  {
+    "LOCODE": "OTS",
+    "NAME": "Ostiches"
+  },
+  {
+    "LOCODE": "OTG",
+    "NAME": "Otegem"
+  },
+  {
+    "LOCODE": "LOA",
+    "NAME": "Oteppe"
+  },
+  {
+    "LOCODE": "OTI",
+    "NAME": "Ottignies-Louvain-la Neuve"
+  },
+  {
+    "LOCODE": "ODM",
+    "NAME": "Oudegem"
+  },
+  {
+    "LOCODE": "OUD",
+    "NAME": "Oudenaarde"
+  },
+  {
+    "LOCODE": "ODA",
+    "NAME": "Oudenaken"
+  },
+  {
+    "LOCODE": "OBG",
+    "NAME": "Oudenburg"
+  },
+  {
+    "LOCODE": "ODE",
+    "NAME": "Oudergem (Auderghem)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "OHE",
+    "NAME": "Oud-Heverlee"
+  },
+  {
+    "LOCODE": "OTH",
+    "NAME": "Oud-Turnhout"
+  },
+  {
+    "LOCODE": "OUF",
+    "NAME": "Ouffet"
+  },
+  {
+    "LOCODE": "OUG",
+    "NAME": "Ougrée"
+  },
+  {
+    "LOCODE": "OPY",
+    "NAME": "Oupeye"
+  },
+  {
+    "LOCODE": "OUT",
+    "NAME": "Outer"
+  },
+  {
+    "LOCODE": "OGA",
+    "NAME": "Outgaarden"
+  },
+  {
+    "LOCODE": "OTY",
+    "NAME": "Outrijve"
+  },
+  {
+    "LOCODE": "OLE",
+    "NAME": "Overboelare"
+  },
+  {
+    "LOCODE": "OVR",
+    "NAME": "Overijse"
+  },
+  {
+    "LOCODE": "OVE",
+    "NAME": "Overpelt"
+  },
+  {
+    "LOCODE": "PAL",
+    "NAME": "Paal"
+  },
+  {
+    "LOCODE": "PFV",
+    "NAME": "Paifve"
+  },
+  {
+    "LOCODE": "PLI",
+    "NAME": "Paliseul"
+  },
+  {
+    "LOCODE": "PML",
+    "NAME": "Pamel"
+  },
+  {
+    "LOCODE": "PGI",
+    "NAME": "Papignies"
+  },
+  {
+    "LOCODE": "PRI",
+    "NAME": "Parike"
+  },
+  {
+    "LOCODE": "PAS",
+    "NAME": "Passendale"
+  },
+  {
+    "LOCODE": "PCQ",
+    "NAME": "Pecq"
+  },
+  {
+    "LOCODE": "PEE",
+    "NAME": "Peer"
+  },
+  {
+    "LOCODE": "PEI",
+    "NAME": "Peisegem"
+  },
+  {
+    "LOCODE": "PBE",
+    "NAME": "Pellenberg"
+  },
+  {
+    "LOCODE": "PIN",
+    "NAME": "Pepingen"
+  },
+  {
+    "LOCODE": "PEP",
+    "NAME": "Pepinster"
+  },
+  {
+    "LOCODE": "PER",
+    "NAME": "Perk"
+  },
+  {
+    "LOCODE": "PES",
+    "NAME": "Péronnes"
+  },
+  {
+    "LOCODE": "PLB",
+    "NAME": "Péronnes/Binche"
+  },
+  {
+    "LOCODE": "PWZ",
+    "NAME": "Péruwelz"
+  },
+  {
+    "LOCODE": "PRW",
+    "NAME": "Perwez"
+  },
+  {
+    "LOCODE": "PWE",
+    "NAME": "Perwez"
+  },
+  {
+    "LOCODE": "PSH",
+    "NAME": "Pesche"
+  },
+  {
+    "LOCODE": "PGE",
+    "NAME": "Petegem"
+  },
+  {
+    "LOCODE": "PLY",
+    "NAME": "Petit-Lanaye"
+  },
+  {
+    "LOCODE": "PTR",
+    "NAME": "Petit-Rechain"
+  },
+  {
+    "LOCODE": "PRN",
+    "NAME": "Petit-Roeulx-lez-Nivelles"
+  },
+  {
+    "LOCODE": "PTI",
+    "NAME": "Petit-Thier"
+  },
+  {
+    "LOCODE": "PHI",
+    "NAME": "Philippeville"
+  },
+  {
+    "LOCODE": "PTP",
+    "NAME": "Pijp Tabak"
+  },
+  {
+    "LOCODE": "PPX",
+    "NAME": "Pipaix"
+  },
+  {
+    "LOCODE": "PTT",
+    "NAME": "Pittem"
+  },
+  {
+    "LOCODE": "PVX",
+    "NAME": "Plainevaux"
+  },
+  {
+    "LOCODE": "PSD",
+    "NAME": "Plassendale"
+  },
+  {
+    "LOCODE": "PSE",
+    "NAME": "Ploegsteert"
+  },
+  {
+    "LOCODE": "PBI",
+    "NAME": "Plombières"
+  },
+  {
+    "LOCODE": "QPD",
+    "NAME": "Poederlee"
+  },
+  {
+    "LOCODE": "POL",
+    "NAME": "Pollare"
+  },
+  {
+    "LOCODE": "PKH",
+    "NAME": "Pollinkhove"
+  },
+  {
+    "LOCODE": "PME",
+    "NAME": "Pommeroeul"
+  },
+  {
+    "LOCODE": "PRO",
+    "NAME": "Pondrôme"
+  },
+  {
+    "LOCODE": "PCL",
+    "NAME": "Pont-à-Celles"
+  },
+  {
+    "LOCODE": "PLO",
+    "NAME": "Pont-de-Loup"
+  },
+  {
+    "LOCODE": "POP",
+    "NAME": "Poperinge"
+  },
+  {
+    "LOCODE": "PPE",
+    "NAME": "Poppel"
+  },
+  {
+    "LOCODE": "PST",
+    "NAME": "Postel"
+  },
+  {
+    "LOCODE": "PTS",
+    "NAME": "Pottes"
+  },
+  {
+    "LOCODE": "PSU",
+    "NAME": "Poulseur"
+  },
+  {
+    "LOCODE": "PFE",
+    "NAME": "Profondeville"
+  },
+  {
+    "LOCODE": "PRV",
+    "NAME": "Proven"
+  },
+  {
+    "LOCODE": "PUL",
+    "NAME": "Pulderbos"
+  },
+  {
+    "LOCODE": "PLE",
+    "NAME": "Pulle"
+  },
+  {
+    "LOCODE": "PUR",
+    "NAME": "Purnode"
+  },
+  {
+    "LOCODE": "PUT",
+    "NAME": "Putte"
+  },
+  {
+    "LOCODE": "PUU",
+    "NAME": "Puurs"
+  },
+  {
+    "LOCODE": "QRO",
+    "NAME": "Quaregnon"
+  },
+  {
+    "LOCODE": "QAR",
+    "NAME": "Quartes"
+  },
+  {
+    "LOCODE": "QUE",
+    "NAME": "Quenast"
+  },
+  {
+    "LOCODE": "QCA",
+    "NAME": "Quevaucamps"
+  },
+  {
+    "LOCODE": "QVY",
+    "NAME": "Quévy"
+  },
+  {
+    "LOCODE": "QVA",
+    "NAME": "Quiévrain"
+  },
+  {
+    "LOCODE": "RCO",
+    "NAME": "Rachecourt"
+  },
+  {
+    "LOCODE": "RAE",
+    "NAME": "Raeren"
+  },
+  {
+    "LOCODE": "RAG",
+    "NAME": "Ragnies"
+  },
+  {
+    "LOCODE": "RHE",
+    "NAME": "Rahier"
+  },
+  {
+    "LOCODE": "RGS",
+    "NAME": "Ramegnies"
+  },
+  {
+    "LOCODE": "RCI",
+    "NAME": "Ramegnies-Chin"
+  },
+  {
+    "LOCODE": "RMI",
+    "NAME": "Ramillies"
+  },
+  {
+    "LOCODE": "RMD",
+    "NAME": "Ramsdonk"
+  },
+  {
+    "LOCODE": "RKP",
+    "NAME": "Ramskapelle"
+  },
+  {
+    "LOCODE": "RSA",
+    "NAME": "Ransart"
+  },
+  {
+    "LOCODE": "RAS",
+    "NAME": "Ranst"
+  },
+  {
+    "LOCODE": "RVS",
+    "NAME": "Ravels"
+  },
+  {
+    "LOCODE": "RBX",
+    "NAME": "Rebaix"
+  },
+  {
+    "LOCODE": "RBQ",
+    "NAME": "Rebecq"
+  },
+  {
+    "LOCODE": "REC",
+    "NAME": "Recogne"
+  },
+  {
+    "LOCODE": "RET",
+    "NAME": "Reet"
+  },
+  {
+    "LOCODE": "REM",
+    "NAME": "Rekem"
+  },
+  {
+    "LOCODE": "REK",
+    "NAME": "Rekkem"
+  },
+  {
+    "LOCODE": "RKM",
+    "NAME": "Rekkem"
+  },
+  {
+    "LOCODE": "RGM",
+    "NAME": "Relegem"
+  },
+  {
+    "LOCODE": "RDA",
+    "NAME": "Remersdaal"
+  },
+  {
+    "LOCODE": "RCU",
+    "NAME": "Remicourt"
+  },
+  {
+    "LOCODE": "REN",
+    "NAME": "Rendeux"
+  },
+  {
+    "LOCODE": "RGE",
+    "NAME": "Reninge"
+  },
+  {
+    "LOCODE": "NRY",
+    "NAME": "Renory"
+  },
+  {
+    "LOCODE": "VGR",
+    "NAME": "Reppel"
+  },
+  {
+    "LOCODE": "RSX",
+    "NAME": "Ressaix"
+  },
+  {
+    "LOCODE": "RSE",
+    "NAME": "Ressegem"
+  },
+  {
+    "LOCODE": "RTI",
+    "NAME": "Retie"
+  },
+  {
+    "LOCODE": "RTE",
+    "NAME": "Retinne"
+  },
+  {
+    "LOCODE": "RCL",
+    "NAME": "Richelle"
+  },
+  {
+    "LOCODE": "RIE",
+    "NAME": "Rieme"
+  },
+  {
+    "LOCODE": "RIS",
+    "NAME": "Riemst"
+  },
+  {
+    "LOCODE": "RZE",
+    "NAME": "Rièzes"
+  },
+  {
+    "LOCODE": "RIJ",
+    "NAME": "Rijkevorsel"
+  },
+  {
+    "LOCODE": "RNM",
+    "NAME": "Rijmenam"
+  },
+  {
+    "LOCODE": "RLA",
+    "NAME": "Rillaar"
+  },
+  {
+    "LOCODE": "XXX",
+    "NAME": "RIS Inland waterways"
+  },
+  {
+    "LOCODE": "RVE",
+    "NAME": "Rivière"
+  },
+  {
+    "LOCODE": "RIX",
+    "NAME": "Rixensart"
+  },
+  {
+    "LOCODE": "ROC",
+    "NAME": "Rochefort"
+  },
+  {
+    "LOCODE": "RRA",
+    "NAME": "Rocherath"
+  },
+  {
+    "LOCODE": "RJT",
+    "NAME": "Rocourt"
+  },
+  {
+    "LOCODE": "RBE",
+    "NAME": "Roesbrugge"
+  },
+  {
+    "LOCODE": "RHA",
+    "NAME": "Roesbrugge-Haringe"
+  },
+  {
+    "LOCODE": "ROE",
+    "NAME": "Roeselare"
+  },
+  {
+    "LOCODE": "ROG",
+    "NAME": "Rognée"
+  },
+  {
+    "LOCODE": "ROL",
+    "NAME": "Rollegem"
+  },
+  {
+    "LOCODE": "ROM",
+    "NAME": "Romsée"
+  },
+  {
+    "LOCODE": "RGY",
+    "NAME": "Rongy"
+  },
+  {
+    "LOCODE": "RQS",
+    "NAME": "Ronquières"
+  },
+  {
+    "LOCODE": "RON",
+    "NAME": "Ronse"
+  },
+  {
+    "LOCODE": "RLE",
+    "NAME": "Ronsele"
+  },
+  {
+    "LOCODE": "RDL",
+    "NAME": "Roosdaal"
+  },
+  {
+    "LOCODE": "ROS",
+    "NAME": "Roselies"
+  },
+  {
+    "LOCODE": "RSI",
+    "NAME": "Rosières"
+  },
+  {
+    "LOCODE": "RSS",
+    "NAME": "Rossignol"
+  },
+  {
+    "LOCODE": "ROT",
+    "NAME": "Rotem"
+  },
+  {
+    "LOCODE": "RBA",
+    "NAME": "Rotselaar"
+  },
+  {
+    "LOCODE": "RCT",
+    "NAME": "Roucourt"
+  },
+  {
+    "LOCODE": "RVY",
+    "NAME": "Rouvroy"
+  },
+  {
+    "LOCODE": "ROX",
+    "NAME": "Roux"
+  },
+  {
+    "LOCODE": "RUV",
+    "NAME": "Ruddervoorde"
+  },
+  {
+    "LOCODE": "RUE",
+    "NAME": "Ruien"
+  },
+  {
+    "LOCODE": "RUI",
+    "NAME": "Ruisbroek"
+  },
+  {
+    "LOCODE": "SVG",
+    "NAME": "Ruisbroek"
+  },
+  {
+    "LOCODE": "RSL",
+    "NAME": "Ruiselede"
+  },
+  {
+    "LOCODE": "RLS",
+    "NAME": "Rulles"
+  },
+  {
+    "LOCODE": "RUM",
+    "NAME": "Rumbeke"
+  },
+  {
+    "LOCODE": "RMS",
+    "NAME": "Rumes"
+  },
+  {
+    "LOCODE": "RML",
+    "NAME": "Rumillies"
+  },
+  {
+    "LOCODE": "RMU",
+    "NAME": "Rummen"
+  },
+  {
+    "LOCODE": "RUS",
+    "NAME": "Rumst"
+  },
+  {
+    "LOCODE": "RKE",
+    "NAME": "Runkelen"
+  },
+  {
+    "LOCODE": "RPM",
+    "NAME": "Rupelmonde"
+  },
+  {
+    "LOCODE": "GVO",
+    "NAME": "'s Gravenvoeren"
+  },
+  {
+    "LOCODE": "SAM",
+    "NAME": "Saint-Amand"
+  },
+  {
+    "LOCODE": "SDE",
+    "NAME": "Saint-Denis"
+  },
+  {
+    "LOCODE": "SDI",
+    "NAME": "Saint-Denis"
+  },
+  {
+    "LOCODE": "SCC",
+    "NAME": "Sainte-Cécile"
+  },
+  {
+    "LOCODE": "SOD",
+    "NAME": "Sainte-Ode"
+  },
+  {
+    "LOCODE": "STS",
+    "NAME": "Saintes"
+  },
+  {
+    "LOCODE": "SGS",
+    "NAME": "Saint-Georges"
+  },
+  {
+    "LOCODE": "GSM",
+    "NAME": "Saint-Georges-sur-Meuse"
+  },
+  {
+    "LOCODE": "GHI",
+    "NAME": "Saint-Ghislain"
+  },
+  {
+    "LOCODE": "SGI",
+    "NAME": "Saint-Gilles (Sint-Gillis)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "SHU",
+    "NAME": "Saint-Hubert"
+  },
+  {
+    "LOCODE": "SJN",
+    "NAME": "Saint-Josse-ten-Noode (Sint-Joost-ten-Node)"
+  },
+  {
+    "LOCODE": "SLG",
+    "NAME": "Saint-Léger"
+  },
+  {
+    "LOCODE": "SMC",
+    "NAME": "Saint-Marc"
+  },
+  {
+    "LOCODE": "SMA",
+    "NAME": "Saint-Mard"
+  },
+  {
+    "LOCODE": "SNO",
+    "NAME": "Saint-Nicolas"
+  },
+  {
+    "LOCODE": "SRY",
+    "NAME": "Saint-Rémy"
+  },
+  {
+    "LOCODE": "SSA",
+    "NAME": "Saint-Sauveur"
+  },
+  {
+    "LOCODE": "SSI",
+    "NAME": "Saint-Servais"
+  },
+  {
+    "LOCODE": "SSY",
+    "NAME": "Saint-Symphorien"
+  },
+  {
+    "LOCODE": "SDZ",
+    "NAME": "Saint-Vincent"
+  },
+  {
+    "LOCODE": "SVH",
+    "NAME": "Saint-Vith"
+  },
+  {
+    "LOCODE": "SIV",
+    "NAME": "Saive"
+  },
+  {
+    "LOCODE": "SLS",
+    "NAME": "Salles"
+  },
+  {
+    "LOCODE": "SZI",
+    "NAME": "Salzinnes"
+  },
+  {
+    "LOCODE": "SAV",
+    "NAME": "Sambreville"
+  },
+  {
+    "LOCODE": "SAR",
+    "NAME": "Samrée"
+  },
+  {
+    "LOCODE": "SSO",
+    "NAME": "Samson"
+  },
+  {
+    "LOCODE": "VIT",
+    "NAME": "Sankt Vith"
+  },
+  {
+    "LOCODE": "SBU",
+    "NAME": "Sars-la-Buissière"
+  },
+  {
+    "LOCODE": "WLS",
+    "NAME": "Sart Les Spa"
+  },
+  {
+    "LOCODE": "SLJ",
+    "NAME": "Sas-Slijkens"
+  },
+  {
+    "LOCODE": "STN",
+    "NAME": "Sautin"
+  },
+  {
+    "LOCODE": "SCH",
+    "NAME": "Schaarbeek"
+  },
+  {
+    "LOCODE": "SBK",
+    "NAME": "Schaarbeek (Schaerbeek)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "SBK",
+    "NAME": "Schaerbeek (Schaarbeek)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "SHO",
+    "NAME": "Schalkhoven"
+  },
+  {
+    "LOCODE": "STI",
+    "NAME": "Schaltin"
+  },
+  {
+    "LOCODE": "SPE",
+    "NAME": "Scheepsdale"
+  },
+  {
+    "LOCODE": "SHR",
+    "NAME": "Schelderode"
+  },
+  {
+    "LOCODE": "SHL",
+    "NAME": "Schelle"
+  },
+  {
+    "LOCODE": "SHB",
+    "NAME": "Schellebelle"
+  },
+  {
+    "LOCODE": "SHE",
+    "NAME": "Schendelbeke"
+  },
+  {
+    "LOCODE": "SDA",
+    "NAME": "Schepdaal"
+  },
+  {
+    "LOCODE": "SPU",
+    "NAME": "Scherpenheuvel-Zichem"
+  },
+  {
+    "LOCODE": "SCE",
+    "NAME": "Schilde"
+  },
+  {
+    "LOCODE": "SOB",
+    "NAME": "Schoenberg"
+  },
+  {
+    "LOCODE": "SNE",
+    "NAME": "Schoonaarde"
+  },
+  {
+    "LOCODE": "SOR",
+    "NAME": "Schore"
+  },
+  {
+    "LOCODE": "SRI",
+    "NAME": "Schorisse"
+  },
+  {
+    "LOCODE": "SCT",
+    "NAME": "Schoten"
+  },
+  {
+    "LOCODE": "SKI",
+    "NAME": "Schriek"
+  },
+  {
+    "LOCODE": "SGX",
+    "NAME": "Sclaigneaux"
+  },
+  {
+    "LOCODE": "SLY",
+    "NAME": "Sclayn"
+  },
+  {
+    "LOCODE": "SSN",
+    "NAME": "Sclessin"
+  },
+  {
+    "LOCODE": "SCY",
+    "NAME": "Scy"
+  },
+  {
+    "LOCODE": "SES",
+    "NAME": "Seilles"
+  },
+  {
+    "LOCODE": "SLA",
+    "NAME": "Sélange"
+  },
+  {
+    "LOCODE": "SOG",
+    "NAME": "Seloignes"
+  },
+  {
+    "LOCODE": "SEN",
+    "NAME": "Seneffe"
+  },
+  {
+    "LOCODE": "SSU",
+    "NAME": "Sensenruth"
+  },
+  {
+    "LOCODE": "SYE",
+    "NAME": "Seny"
+  },
+  {
+    "LOCODE": "ZER",
+    "NAME": "Seraing"
+  },
+  {
+    "LOCODE": "SKM",
+    "NAME": "Serskamp"
+  },
+  {
+    "LOCODE": "SVI",
+    "NAME": "Serville"
+  },
+  {
+    "LOCODE": "GWE",
+    "NAME": "'s-Gravenwezel"
+  },
+  {
+    "LOCODE": "SJL",
+    "NAME": "Sijsele"
+  },
+  {
+    "LOCODE": "SIY",
+    "NAME": "Silly"
+  },
+  {
+    "LOCODE": "SNA",
+    "NAME": "Sinaai"
+  },
+  {
+    "LOCODE": "GIL",
+    "NAME": "Sint Gillis Waas"
+  },
+  {
+    "LOCODE": "SJB",
+    "NAME": "Sint Joris Winge"
+  },
+  {
+    "LOCODE": "SKA",
+    "NAME": "Sint Katelijne Waver"
+  },
+  {
+    "LOCODE": "VGW",
+    "NAME": "Sint Pieters Leeuw"
+  },
+  {
+    "LOCODE": "BSA",
+    "NAME": "Sint-Agatha-Berchem (Berchem-Sainte-Agathe)"
+  },
+  {
+    "LOCODE": "SAS",
+    "NAME": "Sint-Amands"
+  },
+  {
+    "LOCODE": "SFY",
+    "NAME": "Sint-Amandsberg"
+  },
+  {
+    "LOCODE": "SAN",
+    "NAME": "Sint-Andries"
+  },
+  {
+    "LOCODE": "STV",
+    "NAME": "Sint-Baafs-Vijve"
+  },
+  {
+    "LOCODE": "SDY",
+    "NAME": "Sint-Denijs"
+  },
+  {
+    "LOCODE": "SDW",
+    "NAME": "Sint-Denijs-Westrem"
+  },
+  {
+    "LOCODE": "SEV",
+    "NAME": "Sint-Eloois-Vijve"
+  },
+  {
+    "LOCODE": "EWK",
+    "NAME": "Sint-Eloois-Winkel"
+  },
+  {
+    "LOCODE": "SGR",
+    "NAME": "Sint-Genesius-Rode (Rhode-Saint-Genèse)"
+  },
+  {
+    "LOCODE": "SGI",
+    "NAME": "Sint-Gillis (Saint-Gilles)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "SGW",
+    "NAME": "Sint-Gillis-Waas"
+  },
+  {
+    "LOCODE": "HSL",
+    "NAME": "Sint-Huibrechts-Lille"
+  },
+  {
+    "LOCODE": "JKP",
+    "NAME": "Sint-Jacobs-Kapelle"
+  },
+  {
+    "LOCODE": "SJE",
+    "NAME": "Sint-Jan-in-Eremo"
+  },
+  {
+    "LOCODE": "MSJ",
+    "NAME": "Sint-Jans-Molenbeek (Molenbeek-Saint-Jean)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "SJG",
+    "NAME": "Sint-Job-in-'t-Goor"
+  },
+  {
+    "LOCODE": "SJN",
+    "NAME": "Sint-Joost-ten-Node (Saint-Josse-ten-Noode)"
+  },
+  {
+    "LOCODE": "SJR",
+    "NAME": "Sint-Joris"
+  },
+  {
+    "LOCODE": "SJW",
+    "NAME": "Sint-Joris-Weert"
+  },
+  {
+    "LOCODE": "SJO",
+    "NAME": "Sint-Jozef-Olen"
+  },
+  {
+    "LOCODE": "SSL",
+    "NAME": "Sint-Katelijne-Waver"
+  },
+  {
+    "LOCODE": "SKL",
+    "NAME": "Sint-Katherina-Lombeek"
+  },
+  {
+    "LOCODE": "SKU",
+    "NAME": "Sint-Kruis"
+  },
+  {
+    "LOCODE": "SKW",
+    "NAME": "Sint-Kruis-Winkel"
+  },
+  {
+    "LOCODE": "SLW",
+    "NAME": "Sint-Lambrechts-Woluwe (Woluwé-Saint-Lambert)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "SLU",
+    "NAME": "Sint-Laureins"
+  },
+  {
+    "LOCODE": "SLN",
+    "NAME": "Sint-Lenaarts"
+  },
+  {
+    "LOCODE": "SII",
+    "NAME": "Sint-Lievens-Esse"
+  },
+  {
+    "LOCODE": "SHM",
+    "NAME": "Sint-Lievens-Houtem"
+  },
+  {
+    "LOCODE": "SLH",
+    "NAME": "Sint-Lievens-Houtem"
+  },
+  {
+    "LOCODE": "SMR",
+    "NAME": "Sint-Margriete"
+  },
+  {
+    "LOCODE": "SMB",
+    "NAME": "Sint-Martens-Bodegem"
+  },
+  {
+    "LOCODE": "SML",
+    "NAME": "Sint-Martens-Latem"
+  },
+  {
+    "LOCODE": "SMI",
+    "NAME": "Sint-Martens-Lierde"
+  },
+  {
+    "LOCODE": "SME",
+    "NAME": "Sint-Michiels"
+  },
+  {
+    "LOCODE": "SNK",
+    "NAME": "Sint-Niklaas"
+  },
+  {
+    "LOCODE": "STP",
+    "NAME": "Sint-Pauwels"
+  },
+  {
+    "LOCODE": "SPL",
+    "NAME": "Sint-Pieers-Leeuw"
+  },
+  {
+    "LOCODE": "SPK",
+    "NAME": "Sint-Pieters-Kapelle"
+  },
+  {
+    "LOCODE": "SPT",
+    "NAME": "Sint-Pieters-Leeuw"
+  },
+  {
+    "LOCODE": "SPV",
+    "NAME": "Sint-Pieters-Voeren"
+  },
+  {
+    "LOCODE": "SPO",
+    "NAME": "Sint-Pieters-Woluwe (Woluwé-Saint-Pierre)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "STW",
+    "NAME": "Sint-Stevens-Woluwe"
+  },
+  {
+    "LOCODE": "STR",
+    "NAME": "Sint-Truiden"
+  },
+  {
+    "LOCODE": "SIP",
+    "NAME": "Sippenaeken"
+  },
+  {
+    "LOCODE": "SRA",
+    "NAME": "Sirault"
+  },
+  {
+    "LOCODE": "SYR",
+    "NAME": "Sivry-Rance"
+  },
+  {
+    "LOCODE": "SLE",
+    "NAME": "Sleidinge"
+  },
+  {
+    "LOCODE": "SYP",
+    "NAME": "Slijpe"
+  },
+  {
+    "LOCODE": "SVO",
+    "NAME": "Smeerebbe-Vloerzegem"
+  },
+  {
+    "LOCODE": "SMM",
+    "NAME": "Smeermaas"
+  },
+  {
+    "LOCODE": "SSK",
+    "NAME": "Snaaskerke"
+  },
+  {
+    "LOCODE": "SOI",
+    "NAME": "Soignies"
+  },
+  {
+    "LOCODE": "SON",
+    "NAME": "Soiron"
+  },
+  {
+    "LOCODE": "SSB",
+    "NAME": "Solre-sur-Sambre"
+  },
+  {
+    "LOCODE": "SBF",
+    "NAME": "Sombreffe"
+  },
+  {
+    "LOCODE": "SUZ",
+    "NAME": "Somme-Leuze"
+  },
+  {
+    "LOCODE": "SOM",
+    "NAME": "Sommière"
+  },
+  {
+    "LOCODE": "SZE",
+    "NAME": "Somzée"
+  },
+  {
+    "LOCODE": "SLO",
+    "NAME": "Sorinne-la-Longue"
+  },
+  {
+    "LOCODE": "SRN",
+    "NAME": "Sorinnes"
+  },
+  {
+    "LOCODE": "SDT",
+    "NAME": "Soudromont"
+  },
+  {
+    "LOCODE": "SOU",
+    "NAME": "Soumagne"
+  },
+  {
+    "LOCODE": "SRE",
+    "NAME": "Souvret"
+  },
+  {
+    "LOCODE": "SOY",
+    "NAME": "Soy"
+  },
+  {
+    "LOCODE": "SWL",
+    "NAME": "Soye"
+  },
+  {
+    "LOCODE": "SPA",
+    "NAME": "Spa"
+  },
+  {
+    "LOCODE": "SLK",
+    "NAME": "Spalbeek"
+  },
+  {
+    "LOCODE": "SPS",
+    "NAME": "Spiennes"
+  },
+  {
+    "LOCODE": "SPI",
+    "NAME": "Spiere (Espierres)"
+  },
+  {
+    "LOCODE": "SMO",
+    "NAME": "Sprimont"
+  },
+  {
+    "LOCODE": "STA",
+    "NAME": "Stabroek"
+  },
+  {
+    "LOCODE": "STD",
+    "NAME": "Staden"
+  },
+  {
+    "LOCODE": "SBG",
+    "NAME": "Stambruges"
+  },
+  {
+    "LOCODE": "SGM",
+    "NAME": "Stasegem"
+  },
+  {
+    "LOCODE": "STT",
+    "NAME": "Statte"
+  },
+  {
+    "LOCODE": "SAT",
+    "NAME": "Stave"
+  },
+  {
+    "LOCODE": "SVE",
+    "NAME": "Stavele"
+  },
+  {
+    "LOCODE": "SLT",
+    "NAME": "Stavelot"
+  },
+  {
+    "LOCODE": "SBE",
+    "NAME": "Steenbrugge"
+  },
+  {
+    "LOCODE": "SDP",
+    "NAME": "Steendorp"
+  },
+  {
+    "LOCODE": "SHF",
+    "NAME": "Steenhuffel"
+  },
+  {
+    "LOCODE": "SKE",
+    "NAME": "Steenkerke"
+  },
+  {
+    "LOCODE": "SKK",
+    "NAME": "Steenokkerzeel"
+  },
+  {
+    "LOCODE": "STK",
+    "NAME": "Stekene"
+  },
+  {
+    "LOCODE": "STM",
+    "NAME": "Stembert"
+  },
+  {
+    "LOCODE": "SPH",
+    "NAME": "Sterpenich"
+  },
+  {
+    "LOCODE": "SRB",
+    "NAME": "Sterrebeek"
+  },
+  {
+    "LOCODE": "SVN",
+    "NAME": "Stevensvennen"
+  },
+  {
+    "LOCODE": "SVR",
+    "NAME": "Stevoort"
+  },
+  {
+    "LOCODE": "SKR",
+    "NAME": "Stokrooie"
+  },
+  {
+    "LOCODE": "STU",
+    "NAME": "Stoumont"
+  },
+  {
+    "LOCODE": "STE",
+    "NAME": "Strée"
+  },
+  {
+    "LOCODE": "STB",
+    "NAME": "Strépy-Bracquegnies"
+  },
+  {
+    "LOCODE": "SOV",
+    "NAME": "Strombeek-Bever"
+  },
+  {
+    "LOCODE": "SUA",
+    "NAME": "Suarlée"
+  },
+  {
+    "LOCODE": "SXY",
+    "NAME": "Suxy"
+  },
+  {
+    "LOCODE": "TLS",
+    "NAME": "Tailles"
+  },
+  {
+    "LOCODE": "TTI",
+    "NAME": "Taintignies"
+  },
+  {
+    "LOCODE": "TMS",
+    "NAME": "Tamines"
+  },
+  {
+    "LOCODE": "TCI",
+    "NAME": "Tarcienne"
+  },
+  {
+    "LOCODE": "TVI",
+    "NAME": "Tavier"
+  },
+  {
+    "LOCODE": "TVY",
+    "NAME": "Tavigny"
+  },
+  {
+    "LOCODE": "TLI",
+    "NAME": "Tellin"
+  },
+  {
+    "LOCODE": "TPU",
+    "NAME": "Templeuve"
+  },
+  {
+    "LOCODE": "TPX",
+    "NAME": "Temploux"
+  },
+  {
+    "LOCODE": "TSE",
+    "NAME": "Temse"
+  },
+  {
+    "LOCODE": "TVL",
+    "NAME": "Tenneville"
+  },
+  {
+    "LOCODE": "TFN",
+    "NAME": "Teralfene"
+  },
+  {
+    "LOCODE": "TDK",
+    "NAME": "Terdonk"
+  },
+  {
+    "LOCODE": "TGE",
+    "NAME": "Tergnée"
+  },
+  {
+    "LOCODE": "TGN",
+    "NAME": "Terhagen"
+  },
+  {
+    "LOCODE": "TRE",
+    "NAME": "Termes"
+  },
+  {
+    "LOCODE": "LNY",
+    "NAME": "Ternaaien (Lanaye)"
+  },
+  {
+    "LOCODE": "TER",
+    "NAME": "Ternat"
+  },
+  {
+    "LOCODE": "TET",
+    "NAME": "Tertre"
+  },
+  {
+    "LOCODE": "TEN",
+    "NAME": "Tervuren"
+  },
+  {
+    "LOCODE": "TES",
+    "NAME": "Tessenderlo"
+  },
+  {
+    "LOCODE": "TTT",
+    "NAME": "Testelt"
+  },
+  {
+    "LOCODE": "TEU",
+    "NAME": "Teuven"
+  },
+  {
+    "LOCODE": "TAP",
+    "NAME": "Theux"
+  },
+  {
+    "LOCODE": "THE",
+    "NAME": "Thieu"
+  },
+  {
+    "LOCODE": "TLA",
+    "NAME": "Thieulain"
+  },
+  {
+    "LOCODE": "TSI",
+    "NAME": "Thieusies"
+  },
+  {
+    "LOCODE": "TST",
+    "NAME": "Thimister"
+  },
+  {
+    "LOCODE": "TCL",
+    "NAME": "Thimister-Clermont"
+  },
+  {
+    "LOCODE": "TUG",
+    "NAME": "Thimougies"
+  },
+  {
+    "LOCODE": "THI",
+    "NAME": "Thines"
+  },
+  {
+    "LOCODE": "THO",
+    "NAME": "Thommen"
+  },
+  {
+    "LOCODE": "THS",
+    "NAME": "Thon Samson"
+  },
+  {
+    "LOCODE": "TRG",
+    "NAME": "Thorembais-les-Beguines"
+  },
+  {
+    "LOCODE": "THT",
+    "NAME": "Thorembais-Saint-Trond"
+  },
+  {
+    "LOCODE": "TOB",
+    "NAME": "Thorntonbank"
+  },
+  {
+    "LOCODE": "TUL",
+    "NAME": "Thuillies"
+  },
+  {
+    "LOCODE": "THU",
+    "NAME": "Thuin"
+  },
+  {
+    "LOCODE": "THL",
+    "NAME": "Thulin"
+  },
+  {
+    "LOCODE": "TMA",
+    "NAME": "Thumaide"
+  },
+  {
+    "LOCODE": "THY",
+    "NAME": "Thy-le-Château"
+  },
+  {
+    "LOCODE": "TYS",
+    "NAME": "Thynes"
+  },
+  {
+    "LOCODE": "TIG",
+    "NAME": "Tiegem"
+  },
+  {
+    "LOCODE": "TLN",
+    "NAME": "Tielen"
+  },
+  {
+    "LOCODE": "TIL",
+    "NAME": "Tielrode"
+  },
+  {
+    "LOCODE": "TLT",
+    "NAME": "Tielt"
+  },
+  {
+    "LOCODE": "TTL",
+    "NAME": "Tielt"
+  },
+  {
+    "LOCODE": "TWI",
+    "NAME": "Tielt-Winge"
+  },
+  {
+    "LOCODE": "TIE",
+    "NAME": "Tienen"
+  },
+  {
+    "LOCODE": "THG",
+    "NAME": "Tihange"
+  },
+  {
+    "LOCODE": "TLK",
+    "NAME": "Tildonk"
+  },
+  {
+    "LOCODE": "TLF",
+    "NAME": "Tilff"
+  },
+  {
+    "LOCODE": "TLR",
+    "NAME": "Tilleur"
+  },
+  {
+    "LOCODE": "TLY",
+    "NAME": "Tilly"
+  },
+  {
+    "LOCODE": "TLO",
+    "NAME": "Tinlot"
+  },
+  {
+    "LOCODE": "TTY",
+    "NAME": "Tintigny"
+  },
+  {
+    "LOCODE": "TIS",
+    "NAME": "Tisselt"
+  },
+  {
+    "LOCODE": "TOH",
+    "NAME": "Tohogne"
+  },
+  {
+    "LOCODE": "TON",
+    "NAME": "Tongeren"
+  },
+  {
+    "LOCODE": "TGL",
+    "NAME": "Tongerlo"
+  },
+  {
+    "LOCODE": "TND",
+    "NAME": "Tongre-Notre-Dame"
+  },
+  {
+    "LOCODE": "TRT",
+    "NAME": "Torhout"
+  },
+  {
+    "LOCODE": "TRI",
+    "NAME": "Tourinne"
+  },
+  {
+    "LOCODE": "TSL",
+    "NAME": "Tourinnes-St-Lambert"
+  },
+  {
+    "LOCODE": "TRN",
+    "NAME": "Tournai (Doornik)"
+  },
+  {
+    "LOCODE": "TNO",
+    "NAME": "Tournay"
+  },
+  {
+    "LOCODE": "TBE",
+    "NAME": "Tournebride"
+  },
+  {
+    "LOCODE": "TUP",
+    "NAME": "Tourpes"
+  },
+  {
+    "LOCODE": "TZI",
+    "NAME": "Trazegnies"
+  },
+  {
+    "LOCODE": "TMO",
+    "NAME": "Tremelo"
+  },
+  {
+    "LOCODE": "TPO",
+    "NAME": "Trois-Ponts"
+  },
+  {
+    "LOCODE": "TRO",
+    "NAME": "Trooz"
+  },
+  {
+    "LOCODE": "TBZ",
+    "NAME": "Tubize"
+  },
+  {
+    "LOCODE": "TUR",
+    "NAME": "Turnhout"
+  },
+  {
+    "LOCODE": "UKE",
+    "NAME": "Uccle (Ukkel)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "UCI",
+    "NAME": "Ucimont"
+  },
+  {
+    "LOCODE": "UKO",
+    "NAME": "Uikhoven"
+  },
+  {
+    "LOCODE": "UIT",
+    "NAME": "Uitbergen"
+  },
+  {
+    "LOCODE": "UKE",
+    "NAME": "Ukkel (Uccle)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "ULB",
+    "NAME": "Ulbeek"
+  },
+  {
+    "LOCODE": "USL",
+    "NAME": "Ursel"
+  },
+  {
+    "LOCODE": "VBE",
+    "NAME": "Vaalbeek"
+  },
+  {
+    "LOCODE": "VSB",
+    "NAME": "Val Saint-Lambert"
+  },
+  {
+    "LOCODE": "VCE",
+    "NAME": "Vance"
+  },
+  {
+    "LOCODE": "VRD",
+    "NAME": "Varendonk"
+  },
+  {
+    "LOCODE": "VLX",
+    "NAME": "Vaulx"
+  },
+  {
+    "LOCODE": "VSC",
+    "NAME": "Vaux-sous-Chèvremont"
+  },
+  {
+    "LOCODE": "VSU",
+    "NAME": "Vaux-sur-Sûre"
+  },
+  {
+    "LOCODE": "VDI",
+    "NAME": "Vedrin"
+  },
+  {
+    "LOCODE": "VEL",
+    "NAME": "Veerle"
+  },
+  {
+    "LOCODE": "VEA",
+    "NAME": "Velaine-sur-Sambre"
+  },
+  {
+    "LOCODE": "VDM",
+    "NAME": "Veldegem"
+  },
+  {
+    "LOCODE": "VWZ",
+    "NAME": "Veldwezelt"
+  },
+  {
+    "LOCODE": "VLM",
+    "NAME": "Velm"
+  },
+  {
+    "LOCODE": "VBG",
+    "NAME": "Verbrande Brug"
+  },
+  {
+    "LOCODE": "VLA",
+    "NAME": "Verlaine"
+  },
+  {
+    "LOCODE": "VBK",
+    "NAME": "Verrebroek"
+  },
+  {
+    "LOCODE": "VER",
+    "NAME": "Verviers"
+  },
+  {
+    "LOCODE": "VEU",
+    "NAME": "Veurne"
+  },
+  {
+    "LOCODE": "VZI",
+    "NAME": "Vezin"
+  },
+  {
+    "LOCODE": "VZO",
+    "NAME": "Vezon"
+  },
+  {
+    "LOCODE": "VIC",
+    "NAME": "Vichte"
+  },
+  {
+    "LOCODE": "VSM",
+    "NAME": "Vielsalm"
+  },
+  {
+    "LOCODE": "VSL",
+    "NAME": "Viersel"
+  },
+  {
+    "LOCODE": "VVI",
+    "NAME": "Viesville"
+  },
+  {
+    "LOCODE": "VGA",
+    "NAME": "Vieux-Genappe"
+  },
+  {
+    "LOCODE": "VPO",
+    "NAME": "Ville-Pommeroeul"
+  },
+  {
+    "LOCODE": "VLO",
+    "NAME": "Villerot"
+  },
+  {
+    "LOCODE": "VAT",
+    "NAME": "Villers-aux-Tours"
+  },
+  {
+    "LOCODE": "VVO",
+    "NAME": "Villers-devant-Orval"
+  },
+  {
+    "LOCODE": "VLV",
+    "NAME": "Villers-la-Ville"
+  },
+  {
+    "LOCODE": "VBO",
+    "NAME": "Villers-le-Bouillet"
+  },
+  {
+    "LOCODE": "VNO",
+    "NAME": "Villers-Notre-Dame"
+  },
+  {
+    "LOCODE": "VSA",
+    "NAME": "Villers-Saint-Amand"
+  },
+  {
+    "LOCODE": "VSG",
+    "NAME": "Villers-Sainte-Gertrude"
+  },
+  {
+    "LOCODE": "VSI",
+    "NAME": "Villers-Saint-Ghislain"
+  },
+  {
+    "LOCODE": "VSS",
+    "NAME": "Villers-Saint-Siméon"
+  },
+  {
+    "LOCODE": "VSH",
+    "NAME": "Ville-sur-Haine"
+  },
+  {
+    "LOCODE": "VIL",
+    "NAME": "Vilvoorde"
+  },
+  {
+    "LOCODE": "VMT",
+    "NAME": "Vinalmont"
+  },
+  {
+    "LOCODE": "VDO",
+    "NAME": "Vinderhoute"
+  },
+  {
+    "LOCODE": "VRE",
+    "NAME": "Virelles"
+  },
+  {
+    "LOCODE": "VGL",
+    "NAME": "Virginal-Samme"
+  },
+  {
+    "LOCODE": "VRO",
+    "NAME": "Viroinval"
+  },
+  {
+    "LOCODE": "VIR",
+    "NAME": "Virton"
+  },
+  {
+    "LOCODE": "VIS",
+    "NAME": "Visé"
+  },
+  {
+    "LOCODE": "VIV",
+    "NAME": "Vivegnis"
+  },
+  {
+    "LOCODE": "VIY",
+    "NAME": "Vivy"
+  },
+  {
+    "LOCODE": "VMI",
+    "NAME": "Vlamertinge"
+  },
+  {
+    "LOCODE": "VLE",
+    "NAME": "Vleteren"
+  },
+  {
+    "LOCODE": "VZB",
+    "NAME": "Vlezenbeek"
+  },
+  {
+    "LOCODE": "VMA",
+    "NAME": "Vliermaal"
+  },
+  {
+    "LOCODE": "VMO",
+    "NAME": "Vliermaalroot"
+  },
+  {
+    "LOCODE": "VSE",
+    "NAME": "Vlissegem"
+  },
+  {
+    "LOCODE": "VOE",
+    "NAME": "Voeren"
+  },
+  {
+    "LOCODE": "VLL",
+    "NAME": "Vollezele"
+  },
+  {
+    "LOCODE": "VME",
+    "NAME": "Voormezele"
+  },
+  {
+    "LOCODE": "VLI",
+    "NAME": "Voroux-lez-Liers"
+  },
+  {
+    "LOCODE": "VOL",
+    "NAME": "Vorselaar"
+  },
+  {
+    "LOCODE": "VOS",
+    "NAME": "Vorst (Forest)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "VOR",
+    "NAME": "Vosselaar"
+  },
+  {
+    "LOCODE": "VTM",
+    "NAME": "Vottem"
+  },
+  {
+    "LOCODE": "VSN",
+    "NAME": "Vrasene"
+  },
+  {
+    "LOCODE": "VDE",
+    "NAME": "Vremde"
+  },
+  {
+    "LOCODE": "VSO",
+    "NAME": "Vresse-sur-Semois"
+  },
+  {
+    "LOCODE": "VHN",
+    "NAME": "Vroenhoven"
+  },
+  {
+    "LOCODE": "WRO",
+    "NAME": "Waanrode"
+  },
+  {
+    "LOCODE": "WKE",
+    "NAME": "Waarbeke"
+  },
+  {
+    "LOCODE": "WDM",
+    "NAME": "Waardamme"
+  },
+  {
+    "LOCODE": "WRL",
+    "NAME": "Waarloos"
+  },
+  {
+    "LOCODE": "WAM",
+    "NAME": "Waarmaarde"
+  },
+  {
+    "LOCODE": "WSO",
+    "NAME": "Waarschoot"
+  },
+  {
+    "LOCODE": "WMO",
+    "NAME": "Waasmont"
+  },
+  {
+    "LOCODE": "WAA",
+    "NAME": "Waasmunster"
+  },
+  {
+    "LOCODE": "WBE",
+    "NAME": "Wachtebeke"
+  },
+  {
+    "LOCODE": "WLI",
+    "NAME": "Wadelincourt"
+  },
+  {
+    "LOCODE": "WGE",
+    "NAME": "Wagnelée"
+  },
+  {
+    "LOCODE": "WIM",
+    "NAME": "Waimes"
+  },
+  {
+    "LOCODE": "WAK",
+    "NAME": "Wakken"
+  },
+  {
+    "LOCODE": "WCO",
+    "NAME": "Walcourt"
+  },
+  {
+    "LOCODE": "WLM",
+    "NAME": "Walem"
+  },
+  {
+    "LOCODE": "WHA",
+    "NAME": "Walhain"
+  },
+  {
+    "LOCODE": "WHR",
+    "NAME": "Walhorn"
+  },
+  {
+    "LOCODE": "WSE",
+    "NAME": "Walsbets"
+  },
+  {
+    "LOCODE": "WHO",
+    "NAME": "Walshoutem"
+  },
+  {
+    "LOCODE": "WBK",
+    "NAME": "Wambeek"
+  },
+  {
+    "LOCODE": "WND",
+    "NAME": "Wandre"
+  },
+  {
+    "LOCODE": "WBU",
+    "NAME": "Wanfercée-Baulet"
+  },
+  {
+    "LOCODE": "WNI",
+    "NAME": "Wanlin"
+  },
+  {
+    "LOCODE": "WBQ",
+    "NAME": "Wannebecq"
+  },
+  {
+    "LOCODE": "WLE",
+    "NAME": "Wannegem-Lede"
+  },
+  {
+    "LOCODE": "WAN",
+    "NAME": "Wanze"
+  },
+  {
+    "LOCODE": "WHI",
+    "NAME": "Warchin"
+  },
+  {
+    "LOCODE": "WCG",
+    "NAME": "Warcoing"
+  },
+  {
+    "LOCODE": "WAR",
+    "NAME": "Waregem"
+  },
+  {
+    "LOCODE": "WRE",
+    "NAME": "Waremme"
+  },
+  {
+    "LOCODE": "WNA",
+    "NAME": "Warnant"
+  },
+  {
+    "LOCODE": "BWN",
+    "NAME": "Warneton"
+  },
+  {
+    "LOCODE": "WSA",
+    "NAME": "Warsage"
+  },
+  {
+    "LOCODE": "WUB",
+    "NAME": "Wasmes-Audemez-Briffoeil"
+  },
+  {
+    "LOCODE": "WSI",
+    "NAME": "Wasseiges"
+  },
+  {
+    "LOCODE": "WOU",
+    "NAME": "Waterland-Oudeman"
+  },
+  {
+    "LOCODE": "WAL",
+    "NAME": "Waterloo"
+  },
+  {
+    "LOCODE": "WTL",
+    "NAME": "Waterloos"
+  },
+  {
+    "LOCODE": "WBV",
+    "NAME": "Watermaal-Bosvoorde (Watermael-Boitsfort)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "WBV",
+    "NAME": "Watermael-Boitsfort (Watermaal-Bosvoorde)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "WVI",
+    "NAME": "Watervliet"
+  },
+  {
+    "LOCODE": "WTU",
+    "NAME": "Watou"
+  },
+  {
+    "LOCODE": "WDE",
+    "NAME": "Waudrez"
+  },
+  {
+    "LOCODE": "WLT",
+    "NAME": "Waulsort"
+  },
+  {
+    "LOCODE": "WAB",
+    "NAME": "Wauthier-Braine"
+  },
+  {
+    "LOCODE": "WAV",
+    "NAME": "Waver"
+  },
+  {
+    "LOCODE": "WVR",
+    "NAME": "Wavre"
+  },
+  {
+    "LOCODE": "WAY",
+    "NAME": "Ways"
+  },
+  {
+    "LOCODE": "WHZ",
+    "NAME": "Wechelderzande"
+  },
+  {
+    "LOCODE": "WED",
+    "NAME": "Weelde"
+  },
+  {
+    "LOCODE": "WRD",
+    "NAME": "Weerde"
+  },
+  {
+    "LOCODE": "VWT",
+    "NAME": "Weert"
+  },
+  {
+    "LOCODE": "WNZ",
+    "NAME": "Wegnez"
+  },
+  {
+    "LOCODE": "WLN",
+    "NAME": "Weillen"
+  },
+  {
+    "LOCODE": "WKD",
+    "NAME": "Welkenraedt"
+  },
+  {
+    "LOCODE": "WLL",
+    "NAME": "Welle"
+  },
+  {
+    "LOCODE": "WEL",
+    "NAME": "Wellen"
+  },
+  {
+    "LOCODE": "WIN",
+    "NAME": "Wellin"
+  },
+  {
+    "LOCODE": "WML",
+    "NAME": "Wemmel"
+  },
+  {
+    "LOCODE": "WIP",
+    "NAME": "Wépion"
+  },
+  {
+    "LOCODE": "WCE",
+    "NAME": "Werchter"
+  },
+  {
+    "LOCODE": "WKN",
+    "NAME": "Werken"
+  },
+  {
+    "LOCODE": "WER",
+    "NAME": "Wervik"
+  },
+  {
+    "LOCODE": "WPL",
+    "NAME": "Wespelaar"
+  },
+  {
+    "LOCODE": "WTE",
+    "NAME": "Westende"
+  },
+  {
+    "LOCODE": "WES",
+    "NAME": "Westerlo"
+  },
+  {
+    "LOCODE": "WSK",
+    "NAME": "Westkapelle"
+  },
+  {
+    "LOCODE": "WME",
+    "NAME": "Westmalle"
+  },
+  {
+    "LOCODE": "WSB",
+    "NAME": "Westmeerbeek"
+  },
+  {
+    "LOCODE": "WSU",
+    "NAME": "Westouter"
+  },
+  {
+    "LOCODE": "WSM",
+    "NAME": "Westrem"
+  },
+  {
+    "LOCODE": "WST",
+    "NAME": "Westrozebeke"
+  },
+  {
+    "LOCODE": "WET",
+    "NAME": "Wetteren"
+  },
+  {
+    "LOCODE": "WEV",
+    "NAME": "Wevelgem"
+  },
+  {
+    "LOCODE": "WZL",
+    "NAME": "Wezel"
+  },
+  {
+    "LOCODE": "WZE",
+    "NAME": "Wezemaal"
+  },
+  {
+    "LOCODE": "WKO",
+    "NAME": "Wezembeek-Oppem"
+  },
+  {
+    "LOCODE": "WEN",
+    "NAME": "Wezeren"
+  },
+  {
+    "LOCODE": "WIB",
+    "NAME": "Wibrin"
+  },
+  {
+    "LOCODE": "WIH",
+    "NAME": "Wichelen"
+  },
+  {
+    "LOCODE": "WVO",
+    "NAME": "Wiekevorst"
+  },
+  {
+    "LOCODE": "WIK",
+    "NAME": "Wielsbeke"
+  },
+  {
+    "LOCODE": "WID",
+    "NAME": "Wierde"
+  },
+  {
+    "LOCODE": "WIR",
+    "NAME": "Wiers"
+  },
+  {
+    "LOCODE": "WIS",
+    "NAME": "Wiesme"
+  },
+  {
+    "LOCODE": "WIE",
+    "NAME": "Wieze"
+  },
+  {
+    "LOCODE": "WGH",
+    "NAME": "Wihogne"
+  },
+  {
+    "LOCODE": "WGL",
+    "NAME": "Wijgmaal"
+  },
+  {
+    "LOCODE": "WJG",
+    "NAME": "Wijnegem"
+  },
+  {
+    "LOCODE": "WYT",
+    "NAME": "Wijtschate"
+  },
+  {
+    "LOCODE": "WDN",
+    "NAME": "Wilderen"
+  },
+  {
+    "LOCODE": "WPU",
+    "NAME": "Willaupuis"
+  },
+  {
+    "LOCODE": "WLB",
+    "NAME": "Willebroek"
+  },
+  {
+    "LOCODE": "WMA",
+    "NAME": "Willemeau"
+  },
+  {
+    "LOCODE": "WIL",
+    "NAME": "Wilrijk"
+  },
+  {
+    "LOCODE": "WSL",
+    "NAME": "Wilsele"
+  },
+  {
+    "LOCODE": "WEK",
+    "NAME": "Wilskerke"
+  },
+  {
+    "LOCODE": "WTI",
+    "NAME": "Wimmertingen"
+  },
+  {
+    "LOCODE": "WEE",
+    "NAME": "Wingene"
+  },
+  {
+    "LOCODE": "WTO",
+    "NAME": "Wintershoven"
+  },
+  {
+    "LOCODE": "WSG",
+    "NAME": "Winterslag"
+  },
+  {
+    "LOCODE": "WTH",
+    "NAME": "Wintham"
+  },
+  {
+    "LOCODE": "SLW",
+    "NAME": "Woluwé-Saint-Lambert (Sint-Lambrechts-Woluwe)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "SPO",
+    "NAME": "Woluwé-Saint-Pierre (Sint-Pieters-Woluwe)/Brussel (Bruxelles)"
+  },
+  {
+    "LOCODE": "WOV",
+    "NAME": "Wolvertem"
+  },
+  {
+    "LOCODE": "WMM",
+    "NAME": "Wommelgem"
+  },
+  {
+    "LOCODE": "WDG",
+    "NAME": "Wondelgem"
+  },
+  {
+    "LOCODE": "WOM",
+    "NAME": "Wortegem"
+  },
+  {
+    "LOCODE": "WPE",
+    "NAME": "Wortegem-Petegem"
+  },
+  {
+    "LOCODE": "WOR",
+    "NAME": "Wortel"
+  },
+  {
+    "LOCODE": "WLP",
+    "NAME": "Wulpen"
+  },
+  {
+    "LOCODE": "WUV",
+    "NAME": "Wulvergem"
+  },
+  {
+    "LOCODE": "WUU",
+    "NAME": "Wuustwezel"
+  },
+  {
+    "LOCODE": "XDE",
+    "NAME": "Xhendelesse"
+  },
+  {
+    "LOCODE": "XDA",
+    "NAME": "Xhendremael"
+  },
+  {
+    "LOCODE": "XHO",
+    "NAME": "Xhoris"
+  },
+  {
+    "LOCODE": "YVO",
+    "NAME": "Yvoir"
+  },
+  {
+    "LOCODE": "ZBR",
+    "NAME": "Zandbergen"
+  },
+  {
+    "LOCODE": "ZAN",
+    "NAME": "Zandhoven"
+  },
+  {
+    "LOCODE": "ZVT",
+    "NAME": "Zandvliet"
+  },
+  {
+    "LOCODE": "ZVD",
+    "NAME": "Zandvoorde"
+  },
+  {
+    "LOCODE": "ZRN",
+    "NAME": "Zarren"
+  },
+  {
+    "LOCODE": "ZAV",
+    "NAME": "Zaventem"
+  },
+  {
+    "LOCODE": "ZED",
+    "NAME": "Zedelgem"
+  },
+  {
+    "LOCODE": "ZEE",
+    "NAME": "Zeebrugge"
+  },
+  {
+    "LOCODE": "ZLE",
+    "NAME": "Zele"
+  },
+  {
+    "LOCODE": "ZEM",
+    "NAME": "Zelem"
+  },
+  {
+    "LOCODE": "ZLL",
+    "NAME": "Zellik"
+  },
+  {
+    "LOCODE": "ZEL",
+    "NAME": "Zelzate"
+  },
+  {
+    "LOCODE": "ZET",
+    "NAME": "Zemst"
+  },
+  {
+    "LOCODE": "ZVG",
+    "NAME": "Zevergem"
+  },
+  {
+    "LOCODE": "ZIC",
+    "NAME": "Zichem"
+  },
+  {
+    "LOCODE": "ZIB",
+    "NAME": "Zillebeke"
+  },
+  {
+    "LOCODE": "ZGM",
+    "NAME": "Zingem"
+  },
+  {
+    "LOCODE": "OBL",
+    "NAME": "Zoersel"
+  },
+  {
+    "LOCODE": "ZOD",
+    "NAME": "Zolder"
+  },
+  {
+    "LOCODE": "ZRM",
+    "NAME": "Zomergem"
+  },
+  {
+    "LOCODE": "ZHV",
+    "NAME": "Zonhoven"
+  },
+  {
+    "LOCODE": "ZOB",
+    "NAME": "Zonnebeke"
+  },
+  {
+    "LOCODE": "ZOT",
+    "NAME": "Zottegem"
+  },
+  {
+    "LOCODE": "AIE",
+    "NAME": "Zoutenaaie"
+  },
+  {
+    "LOCODE": "ZOU",
+    "NAME": "Zoutleeuw"
+  },
+  {
+    "LOCODE": "ZUN",
+    "NAME": "Zuen (Zuun)"
+  },
+  {
+    "LOCODE": "ZSO",
+    "NAME": "Zuidschote"
+  },
+  {
+    "LOCODE": "ZKE",
+    "NAME": "Zuienkerke"
+  },
+  {
+    "LOCODE": "ZUL",
+    "NAME": "Zulte"
+  },
+  {
+    "LOCODE": "ZTL",
+    "NAME": "Zutendaal"
+  },
+  {
+    "LOCODE": "ZUN",
+    "NAME": "Zuun (Zuen)"
+  },
+  {
+    "LOCODE": "ZWA",
+    "NAME": "Zwalm"
+  },
+  {
+    "LOCODE": "ZWE",
+    "NAME": "Zwevegem"
+  },
+  {
+    "LOCODE": "VGZ",
+    "NAME": "Zwevezele"
+  },
+  {
+    "LOCODE": "ZWN",
+    "NAME": "Zwijnaarde"
+  },
+  {
+    "LOCODE": "ZWL",
+    "NAME": "Zwijndrecht"
+  }
+]

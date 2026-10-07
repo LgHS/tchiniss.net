@@ -1,0 +1,168 @@
+[
+  {
+    "id": "be-lgg-tawes",
+    "nom": "BE-LGG-TAWES-tchs.be",
+    "type": "Répéteur",
+    "statut": "déploiement",
+    "proprietaire": "Liège Hackerspace",
+    "frequence_mhz": 868,
+    "position": {
+      "lat": 50.65786860913479,
+      "lon": 5.591619015876962,
+      "rayon_m": 700
+    },
+    "hardware": {
+      "modele": "RAK4631",
+      "alimentation": "solaire"
+    }
+  },
+  {
+    "id": "be-hrs-ep",
+    "nom": "BE-HRS-EP-Tchiniss.net",
+    "type": "Répéteur",
+    "statut": "actif",
+    "proprietaire": "Tilto",
+    "frequence_mhz": 868,
+    "position": {
+      "lat": 50.671327733257726,
+      "lon": 5.642608305211841,
+      "rayon_m": 700
+    },
+    "hardware": {
+      "modele": "RAK4631",
+      "alimentation": "solaire",
+      "batterie_mah": 11600
+    }
+  },
+  {
+    "id": "be-lgg-lghs",
+    "nom": "BE-LGG-LGHS-Tchiniss.net",
+    "type": "Répéteur",
+    "statut": "actif",
+    "proprietaire": "Liège Hackerspace",
+    "frequence_mhz": 868,
+    "position": {
+      "lat": 50.64275399403273,
+      "lon": 5.585161603220797,
+      "rayon_m": 700
+    },
+    "antenne": {
+      "type": "Custom"
+    },
+    "hardware": {
+      "modele": "Heltec V3",
+      "alimentation": "secteur"
+    }
+  },
+  {
+    "id": "be-lgg-tchinissnet-ser1",
+    "nom": "BE-LGG-TCHINISSNET-SER1",
+    "type": "Répéteur",
+    "statut": "actif",
+    "proprietaire": "Obso (ON1CV)",
+    "frequence_mhz": 868,
+    "position": {
+      "lat": 50.6001288,
+      "lon": 5.5196418,
+      "rayon_m": 700
+    },
+    "hardware": {
+      "modele": "LilyGo LoRa32 V2.1_1.6"
+    }
+  },
+  {
+    "id": "be-lgg-on5vl-lghs-ser1",
+    "nom": "BE-LGG-ON5VL-LGHS-SER1",
+    "type": "Répéteur",
+    "statut": "actif",
+    "proprietaire": "Tchiniss.net",
+    "frequence_mhz": 868,
+    "position": {
+      "lat": 50.57721743227467,
+      "lon": 5.507622653977849,
+      "rayon_m": 700
+    },
+    "hardware": {
+      "modele": "RAK4631",
+      "alimentation": "solaire"
+    }
+  },
+  {
+    "id": "be-lgg-lghs-433",
+    "nom": "BE-LGG-LGHS-tchs.be-433",
+    "type": "Répéteur",
+    "statut": "maintenance",
+    "frequence_mhz": 433,
+    "position": {
+      "lat": 50.64275399403273,
+      "lon": 5.585161603220797,
+      "rayon_m": 700
+    },
+    "antenne": {
+      "type": "Custom"
+    },
+    "hardware": {
+      "modele": "TTGO LoRa32 V3",
+      "alimentation": "secteur"
+    }
+  },
+  {
+    "id": "be-lix-433",
+    "nom": "BE-LIX-tchs.be-433",
+    "type": "Répéteur",
+    "statut": "maintenance",
+    "frequence_mhz": 433,
+    "position": {
+      "lat": 50.75342506512746,
+      "lon": 5.6804035896160245,
+      "rayon_m": 700
+    },
+    "antenne": {
+      "type": "Custom"
+    },
+    "hardware": {
+      "modele": "TTGO LoRa32 V3",
+      "alimentation": "secteur"
+    }
+  },
+  {
+    "id": "projet-1",
+    "nom": "Site en projet n°1",
+    "statut": "projet",
+    "position": {
+      "lat": 50.5319944,
+      "lon": 5.6420472,
+      "rayon_m": 700
+    }
+  },
+  {
+    "id": "projet-2",
+    "nom": "Site en projet n°2",
+    "statut": "projet",
+    "position": {
+      "lat": 50.5026667,
+      "lon": 5.8842,
+      "rayon_m": 700
+    }
+  },
+  {
+    "id": "projet-3",
+    "nom": "Site en projet n°3",
+    "statut": "projet",
+    "position": {
+      "lat": 50.6243361,
+      "lon": 5.6997667,
+      "rayon_m": 700
+    }
+  },
+  {
+    "id": "projet-4",
+    "nom": "Site en projet n°4",
+    "statut": "projet",
+    "position": {
+      "lat": 50.6178111,
+      "lon": 5.5704194,
+      "rayon_m": 700
+    }
+  }
+]

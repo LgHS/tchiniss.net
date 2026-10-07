@@ -1,0 +1,145 @@
+.nommage-main {
+  max-width: 900px;
+  text-align: left;
+}
+
+code {
+  background: var(--bg-box);
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+#form-nommage {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.3rem;
+}
+
+.champ {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.champ label {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.champ input[type="text"] {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  background: var(--bg-box);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.champ input[type="text"]:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.champ input[type="text"]:disabled {
+  opacity: 0.5;
+}
+
+.champ-case label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.champ-case input[type="text"] {
+  margin-top: 0.5rem;
+  max-width: 8rem;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-liste {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  max-height: 260px;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0.3rem 0;
+  list-style: none;
+  background: var(--bg-box);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.45);
+}
+
+.dropdown-liste[hidden] {
+  display: none;
+}
+
+.dropdown-item {
+  padding: 0.55rem 0.9rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.dropdown-item small {
+  margin-left: 0.4rem;
+  opacity: 0.6;
+}
+
+.dropdown-item:hover,
+.dropdown-item.actif {
+  background: rgba(33, 197, 93, 0.15);
+}
+
+.dropdown-item-vide {
+  padding: 0.55rem 0.9rem;
+  font-size: 0.9rem;
+  opacity: 0.6;
+}
+
+.aide {
+  font-size: 0.85rem;
+  opacity: 0.75;
+  margin: 0;
+}
+
+.aide-erreur {
+  color: #ef4444;
+  opacity: 1;
+}
+
+.resultat {
+  margin-top: 2rem;
+  padding: 1.2rem 1.5rem;
+  background: var(--bg-box);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.resultat-nom {
+  margin: 0;
+  font-family: ui-monospace, "SF Mono", Consolas, monospace;
+  font-size: 1.2rem;
+  color: var(--accent);
+  word-break: break-all;
+}
+
+.resultat-nom.resultat-erreur {
+  color: #ef4444;
+}
+
+.resultat-compteur {
+  margin: 0.6rem 0 0;
+  font-size: 0.9rem;
+  opacity: 0.8;
+}

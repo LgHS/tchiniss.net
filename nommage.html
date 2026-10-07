@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Générateur de nom – Tchiniss.net</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Génère un nom de module MeshCore conforme à la convention Tchiniss.net et à la limite de 31 octets de MeshCore.">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/nommage.css">
+  </head>
+  <body>
+    <main class="nommage-main">
+      <nav class="nav-principal" aria-label="Navigation principale">
+        <a href="index.html">Accueil</a>
+        <a href="carte.html">Carte des relais</a>
+        <a href="nommage.html" aria-current="page">Générer un nom</a>
+      </nav>
+
+      <h1>Générateur de nom de module</h1>
+      <p>Construit un nom au format <code>BE-{commune}-{libre}-tchs.be</code>, dans la limite des <strong>31 octets</strong> acceptés par MeshCore pour un nom annoncé (23 si la localisation est incluse dans l'annonce).</p>
+
+      <form id="form-nommage" autocomplete="off">
+        <div class="champ">
+          <label for="commune-recherche">Commune</label>
+          <div class="dropdown" id="commune-dropdown">
+            <input
+              type="text"
+              id="commune-recherche"
+              placeholder="Rechercher une commune (ex: Liège)..."
+              autocomplete="off"
+              role="combobox"
+              aria-expanded="false"
+              aria-autocomplete="list"
+              aria-controls="commune-liste"
+            >
+            <ul class="dropdown-liste" id="commune-liste" role="listbox" hidden></ul>
+          </div>
+          <p class="aide" id="commune-statut">Sélectionnez une commune dans la liste.</p>
+        </div>
+
+        <div class="champ">
+          <label for="libre">Partie libre</label>
+          <input type="text" id="libre" maxlength="40" placeholder="ex: LGHS">
+          <p class="aide" id="libre-compteur"></p>
+        </div>
+
+        <div class="champ champ-case">
+          <label>
+            <input type="checkbox" id="avec-frequence">
+            Ajouter une fréquence au nom (pour distinguer deux modules au même site, ex: <code>-433</code>)
+          </label>
+          <input type="text" id="frequence" placeholder="433" maxlength="4" disabled>
+        </div>
+
+        <div class="champ champ-case">
+          <label>
+            <input type="checkbox" id="pont-868-433">
+            Pont (bridge) 868 ↔ 433 MHz : ajoute <code>-BR</code> au nom
+          </label>
+        </div>
+      </form>
+
+      <div class="resultat" id="resultat">
+        <p class="resultat-nom" id="resultat-nom">BE-...-...-tchs.be</p>
+        <p class="resultat-compteur" id="resultat-compteur"></p>
+      </div>
+
+      <p>Contact : <a href="mailto:ping@lghs.be">ping@lghs.be</a></p>
+
+      <footer class="logos">
+        <a href="https://lghs.be" target="_blank" rel="noopener">
+          <img src="assets/lghs-logo.svg" alt="Liège Hackerspace">
+        </a>
+        <a href="https://on5vl.org/" target="_blank" rel="noopener">
+          <img src="assets/on5vl-logo.png" alt="ON5VL, Association des Radioamateurs de Liège">
+        </a>
+      </footer>
+    </main>
+
+    <script src="js/nommage.js"></script>
+  </body>
+</html>
