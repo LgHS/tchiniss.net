@@ -47,6 +47,21 @@ code {
   opacity: 0.5;
 }
 
+.champ select {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  background: var(--bg-box);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.champ select:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
 .champ-case label {
   display: flex;
   align-items: center;
@@ -126,16 +141,42 @@ code {
   border-radius: 8px;
 }
 
+.resultat-ligne {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
 .resultat-nom {
   margin: 0;
   font-family: ui-monospace, "SF Mono", Consolas, monospace;
   font-size: 1.2rem;
   color: var(--accent);
   word-break: break-all;
+  flex: 1 1 auto;
 }
 
 .resultat-nom.resultat-erreur {
   color: #ef4444;
+}
+
+.bouton-copier {
+  flex-shrink: 0;
+  padding: 0.5rem 1.1rem;
+  background: transparent;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.bouton-copier:hover,
+.bouton-copier:focus-visible {
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 .resultat-compteur {

@@ -55,7 +55,44 @@ La carte (`carte.html`) affiche les relais déclarés dans `data/relais.json`, u
 }
 ```
 
+**Champs obligatoires** (sans ça, le relais n'apparaît pas sur la carte) : `position.lat`, `position.lon`.
+
+**Fortement recommandés** (techniquement optionnels, mais le relais devient inexploitable sans) : `id` (clé interne unique, jamais affichée), `nom` (titre de la popup).
+
+**Optionnels** (affichés dans la popup seulement si présents) : `type`, `statut`, `proprietaire`, `frequence_mhz`, `position.rayon_m` (défaut 700 m si absent), `altitude_m`, `antenne.*`, `hardware.*`, `description`.
+
 **Important** : `position.lat`/`position.lon` doivent être volontairement approximatifs (pas l'adresse exacte de l'antenne). La carte affiche un cercle de rayon `rayon_m` (700 m par défaut) plutôt qu'un point précis, justement pour ne pas révéler d'emplacement exact.
+
+**Gabarit pour ajouter un relais** : copier ce bloc dans le tableau de `data/relais.json` (après la dernière entrée, précédée d'une virgule) et ajuster/retirer les champs selon le relais réel.
+
+```json
+{
+  "id": "identifiant-unique-slug",
+  "nom": "BE-XXX-NomDuRelais-tchs.be",
+  "type": "Répéteur",
+  "statut": "actif",
+  "proprietaire": "Nom du propriétaire",
+  "frequence_mhz": 868,
+  "position": {
+    "lat": 50.0000000,
+    "lon": 5.0000000,
+    "rayon_m": 700
+  },
+  "altitude_m": 90,
+  "antenne": {
+    "type": "Yagi directive",
+    "gain_dbi": 10,
+    "polarisation": "verticale"
+  },
+  "hardware": {
+    "modele": "RAK4631",
+    "firmware": "MeshCore",
+    "alimentation": "solaire",
+    "batterie_mah": 11600
+  },
+  "description": "Texte libre affiché dans la popup (optionnel)."
+}
+```
 
 **Sites multi-relais** : si plusieurs relais partagent la même position (même site, par ex. deux fréquences sur le même pylône), la carte les regroupe automatiquement en un seul cercle, avec le détail de chaque relais dans la popup, plutôt que d'afficher des cercles superposés illisibles.
 
@@ -69,7 +106,9 @@ La carte (`carte.html`) affiche les relais déclarés dans `data/relais.json`, u
 
 La page `nommage.html` construit un nom conforme à la convention `BE-{commune}-{libre}-tchs.be`, où `{commune}` est un code LOCODE à 3 lettres choisi dans `data/locode_be.json` (recherche par nom de commune).
 
-La limite est celle de MeshCore pour un nom annoncé : **31 octets** (23 si la localisation est incluse dans l'annonce). Le formulaire calcule en direct le nombre d'octets restants pour la partie libre, et **bloque la saisie** une fois le budget atteint. Une fréquence optionnelle peut être ajoutée en suffixe (ex: `-433`) pour distinguer deux modules sur un même site, ou une case « pont 868 ↔ 433 » qui ajoute `-BR` à la place (les deux options sont exclusives).
+La limite est celle de MeshCore pour un nom annoncé : **31 octets** (23 si la localisation est incluse dans l'annonce). Le formulaire calcule en direct le nombre d'octets restants pour la partie libre, et **bloque la saisie** une fois le budget atteint. Un bouton « Copier » copie le nom généré dans le presse-papiers.
+
+Une fréquence optionnelle peut être ajoutée en suffixe (ex: `-433`) pour distinguer deux modules sur un même site, ou un sélecteur « Bridge » qui ajoute `-B4` (bridge 433) ou `-B8` (bridge 868) à la place (ces deux options sont exclusives).
 
 ## Développement local
 

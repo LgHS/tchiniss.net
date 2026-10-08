@@ -52,16 +52,21 @@
           <input type="text" id="frequence" placeholder="433" maxlength="4" disabled>
         </div>
 
-        <div class="champ champ-case">
-          <label>
-            <input type="checkbox" id="pont-868-433">
-            Pont (bridge) 868 ↔ 433 MHz : ajoute <code>-BR</code> au nom
-          </label>
+        <div class="champ">
+          <label for="bridge">Bridge</label>
+          <select id="bridge">
+            <option value="">Aucun</option>
+            <option value="B4">Bridge 433 (ajoute -B4)</option>
+            <option value="B8">Bridge 868 (ajoute -B8)</option>
+          </select>
         </div>
       </form>
 
       <div class="resultat" id="resultat">
-        <p class="resultat-nom" id="resultat-nom">BE-...-...-tchs.be</p>
+        <div class="resultat-ligne">
+          <p class="resultat-nom" id="resultat-nom">BE-...-...-tchs.be</p>
+          <button type="button" id="bouton-copier" class="bouton-copier">Copier</button>
+        </div>
         <p class="resultat-compteur" id="resultat-compteur"></p>
       </div>
 

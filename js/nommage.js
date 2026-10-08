@@ -100,12 +100,12 @@ function miseAJour() {
     statutCommune.classList.toggle("aide-erreur", document.getElementById("commune-recherche").value.trim() !== "");
   }
 
-  const pont = document.getElementById("pont-868-433").checked;
-  const avecFrequence = !pont && document.getElementById("avec-frequence").checked;
+  const bridge = document.getElementById("bridge").value;
+  const avecFrequence = !bridge && document.getElementById("avec-frequence").checked;
   const frequence = document.getElementById("frequence").value.trim();
   const code = communeSelectionnee ? communeSelectionnee.LOCODE : "???";
 
-  const suffixeStatut = pont ? "-BR" : avecFrequence && frequence ? `-${frequence}` : "";
+  const suffixeStatut = bridge ? `-${bridge}` : avecFrequence && frequence ? `-${frequence}` : "";
   const fixeHorsLibre = octets(`${PREFIXE}${code}-${SUFFIXE}${suffixeStatut}`);
   const restant = Math.max(0, LIMITE_OCTETS - fixeHorsLibre);
 
@@ -176,10 +176,11 @@ document.getElementById("avec-frequence").addEventListener("change", (e) => {
   miseAJour();
 });
 
-document.getElementById("pont-868-433").addEventListener("change", (e) => {
+document.getElementById("bridge").addEventListener("change", (e) => {
   const caseFrequence = document.getElementById("avec-frequence");
-  caseFrequence.disabled = e.target.checked;
-  if (e.target.checked) {
+  const actif = e.target.value !== "";
+  caseFrequence.disabled = actif;
+  if (actif) {
     caseFrequence.checked = false;
     document.getElementById("frequence").disabled = true;
   }
@@ -188,6 +189,21 @@ document.getElementById("pont-868-433").addEventListener("change", (e) => {
 
 ["libre", "frequence"].forEach((id) => {
   document.getElementById(id).addEventListener("input", miseAJour);
+});
+
+document.getElementById("bouton-copier").addEventListener("click", async () => {
+  const bouton = document.getElementById("bouton-copier");
+  const nom = document.getElementById("resultat-nom").textContent;
+  try {
+    await navigator.clipboard.writeText(nom);
+    bouton.textContent = "Copié !";
+  } catch (erreur) {
+    console.error("Erreur de copie :", erreur);
+    bouton.textContent = "Erreur, copie manuelle";
+  }
+  setTimeout(() => {
+    bouton.textContent = "Copier";
+  }, 1500);
 });
 
 fetch("data/locode_be.json")

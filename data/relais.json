@@ -3,7 +3,7 @@
     "id": "be-lgg-tawes",
     "nom": "BE-LGG-TAWES-tchs.be",
     "type": "Répéteur",
-    "statut": "déploiement",
+    "statut": "actif",
     "proprietaire": "Liège Hackerspace",
     "frequence_mhz": 868,
     "position": {
@@ -162,6 +162,16 @@
     "position": {
       "lat": 50.6178111,
       "lon": 5.5704194,
+      "rayon_m": 700
+    }
+  },
+  {
+    "id": "projet-5",
+    "nom": "Site en projet n°5",
+    "statut": "projet",
+    "position": {
+      "lat": 50.63454704266085,
+      "lon": 5.549704658537765,
       "rayon_m": 700
     }
   }
