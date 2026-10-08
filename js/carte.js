@@ -39,6 +39,12 @@ function echapper(valeur) {
   return div.innerHTML;
 }
 
+function formaterDate(dateIso) {
+  const [annee, mois, jour] = dateIso.split("-");
+  if (!annee || !mois || !jour) return dateIso;
+  return `${jour}/${mois}/${annee}`;
+}
+
 function contenuRelais(relais) {
   const antenne = relais.antenne || {};
   const hardware = relais.hardware || {};
@@ -48,6 +54,7 @@ function contenuRelais(relais) {
     relais.statut ? `Statut : ${echapper(relais.statut)}` : null,
     relais.proprietaire ? `Propriétaire : ${echapper(relais.proprietaire)}` : null,
     relais.frequence_mhz != null ? `Fréquence : ${echapper(relais.frequence_mhz)} MHz` : null,
+    relais.date_deploiement ? `Déployé le : ${echapper(formaterDate(relais.date_deploiement))}` : null,
     relais.altitude_m != null ? `Altitude : ${echapper(relais.altitude_m)} m` : null,
     antenne.type
       ? `Antenne : ${echapper(antenne.type)}${antenne.gain_dbi ? ` (${echapper(antenne.gain_dbi)} dBi)` : ""}`

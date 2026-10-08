@@ -34,6 +34,7 @@ La carte (`carte.html`) affiche les relais déclarés dans `data/relais.json`, u
   "statut": "projet | déploiement | actif | test | maintenance | hors-service",
   "proprietaire": "Liège Hackerspace",
   "frequence_mhz": 868,
+  "date_deploiement": "2026-10-07",
   "position": {
     "lat": 50.6326,
     "lon": 5.5797,
@@ -59,7 +60,7 @@ La carte (`carte.html`) affiche les relais déclarés dans `data/relais.json`, u
 
 **Fortement recommandés** (techniquement optionnels, mais le relais devient inexploitable sans) : `id` (clé interne unique, jamais affichée), `nom` (titre de la popup).
 
-**Optionnels** (affichés dans la popup seulement si présents) : `type`, `statut`, `proprietaire`, `frequence_mhz`, `position.rayon_m` (défaut 700 m si absent), `altitude_m`, `antenne.*`, `hardware.*`, `description`.
+**Optionnels** (affichés dans la popup seulement si présents) : `type`, `statut`, `proprietaire`, `frequence_mhz`, `date_deploiement` (format `AAAA-MM-JJ`), `position.rayon_m` (défaut 700 m si absent), `altitude_m`, `antenne.*`, `hardware.*`, `description`.
 
 **Important** : `position.lat`/`position.lon` doivent être volontairement approximatifs (pas l'adresse exacte de l'antenne). La carte affiche un cercle de rayon `rayon_m` (700 m par défaut) plutôt qu'un point précis, justement pour ne pas révéler d'emplacement exact.
 
@@ -73,6 +74,7 @@ La carte (`carte.html`) affiche les relais déclarés dans `data/relais.json`, u
   "statut": "actif",
   "proprietaire": "Nom du propriétaire",
   "frequence_mhz": 868,
+  "date_deploiement": "2026-01-01",
   "position": {
     "lat": 50.0000000,
     "lon": 5.0000000,
