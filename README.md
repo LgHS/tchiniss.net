@@ -60,7 +60,11 @@ La carte (`carte.html`) affiche les relais déclarés dans `data/relais.json`, u
 
 **Fortement recommandés** (techniquement optionnels, mais le relais devient inexploitable sans) : `id` (clé interne unique, jamais affichée), `nom` (titre de la popup).
 
-**Optionnels** (affichés dans la popup seulement si présents) : `type`, `statut`, `proprietaire`, `frequence_mhz`, `date_deploiement` (format `AAAA-MM-JJ`), `position.rayon_m` (défaut 700 m si absent), `altitude_m`, `antenne.*`, `hardware.*`, `description`.
+**Optionnels** (affichés dans la popup seulement si présents) : `type`, `statut`, `proprietaire`, `frequence_mhz`, `date_deploiement` (format `AAAA-MM-JJ`), `bridge_avec` (voir ci-dessous), `position.rayon_m` (défaut 700 m si absent), `altitude_m`, `antenne.*`, `hardware.*`, `description`.
+
+**Bridge** (`bridge_avec`) : identifiant (`id`) d'un autre relais avec lequel celui-ci forme un pont fonctionnel (ex: un même appareil relayant entre 868 et 433 MHz). À renseigner sur les deux entrées, chacune pointant vers l'`id` de l'autre. **Attention** : le fait que deux relais partagent la même position ne signifie pas qu'ils sont bridgés — ce sont deux informations indépendantes. Affichage :
+- Positions différentes : une ligne mauve en pointillés relie les deux cercles sur la carte, avec « 🌉 NomA ↔ NomB » en infobulle au survol.
+- Même site (déjà regroupés dans un seul cercle) : la popup affiche le détail complet des deux relais **côte à côte, en deux colonnes**, séparées par une flèche ↔.
 
 **Important** : `position.lat`/`position.lon` doivent être volontairement approximatifs (pas l'adresse exacte de l'antenne). La carte affiche un cercle de rayon `rayon_m` (700 m par défaut) plutôt qu'un point précis, justement pour ne pas révéler d'emplacement exact.
 
@@ -98,10 +102,10 @@ La carte (`carte.html`) affiche les relais déclarés dans `data/relais.json`, u
 
 **Sites multi-relais** : si plusieurs relais partagent la même position (même site, par ex. deux fréquences sur le même pylône), la carte les regroupe automatiquement en un seul cercle, avec le détail de chaque relais dans la popup, plutôt que d'afficher des cercles superposés illisibles.
 
-**Couleur des cercles** (voir `js/carte.js`, fonction `couleurRelais`) :
+**Couleur des cercles** (voir `js/carte.js`, fonctions `couleurRelais` et `groupeEstPonte`) :
 
-1. Site multi-relais → **mauve** (`#a855f7`), toujours, peu importe le statut des relais qui le composent.
-2. Sinon, si le statut est `test`, `déploiement`, `maintenance`, `projet` ou `hors-service` → couleur dédiée à ce statut (`test` ambre, `déploiement` orange, `maintenance` rouge, `projet` cyan, `hors-service` gris).
+1. Site dont au moins un relais a un `bridge_avec` valide → **mauve** (`#a855f7`), peu importe le statut. La simple présence de plusieurs relais sur un site, sans `bridge_avec`, ne déclenche pas cette couleur.
+2. Sinon, si le statut du relais principal du site est `test`, `déploiement`, `maintenance`, `projet` ou `hors-service` → couleur dédiée à ce statut (`test` ambre, `déploiement` orange, `maintenance` rouge, `projet` cyan, `hors-service` gris).
 3. Sinon (statut `actif`, ou non renseigné) → couleur de la fréquence (`868` MHz vert, `433` MHz bleu, autre fréquence gris neutre par défaut).
 
 ## Générateur de nom de module

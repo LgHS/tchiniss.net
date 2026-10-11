@@ -45,11 +45,17 @@ function formaterDate(dateIso) {
   return `${jour}/${mois}/${annee}`;
 }
 
-function contenuRelais(relais) {
+function ligneBridge(relaisA, relaisB) {
+  return `<div class="popup-bridge">🌉 <strong>${echapper(relaisA.nom)}</strong> &harr; <strong>${echapper(relaisB.nom)}</strong></div>`;
+}
+
+function contenuRelais(relais, relaisParId, masquerLigneBridge) {
   const antenne = relais.antenne || {};
   const hardware = relais.hardware || {};
+  const pont = !masquerLigneBridge && relais.bridge_avec ? relaisParId.get(relais.bridge_avec) : null;
   const lignes = [
     `<strong>${echapper(relais.nom)}</strong>`,
+    pont ? ligneBridge(relais, pont) : null,
     relais.type ? `Type : ${echapper(relais.type)}` : null,
     relais.statut ? `Statut : ${echapper(relais.statut)}` : null,
     relais.proprietaire ? `Propriétaire : ${echapper(relais.proprietaire)}` : null,
@@ -72,12 +78,47 @@ function contenuRelais(relais) {
   return html;
 }
 
-function contenuPopupSite(membres) {
-  if (membres.length === 1) {
-    return contenuRelais(membres[0]);
+function trouverPaireBridgeeDansGroupe(membres, relaisParId) {
+  for (const relais of membres) {
+    if (!relais.bridge_avec) continue;
+    const partenaire = relaisParId.get(relais.bridge_avec);
+    if (partenaire && membres.includes(partenaire)) {
+      return [relais, partenaire];
+    }
   }
-  const intro = `<strong>${membres.length} relais sur ce site</strong>`;
-  return [intro, ...membres.map(contenuRelais)].join("<hr>");
+  return null;
+}
+
+function contenuBridgeDetaille(relaisA, relaisB, relaisParId) {
+  return `
+    <div class="popup-bridge-entete">🌉 Bridge</div>
+    <div class="popup-bridge-cote-a-cote">
+      <div class="popup-bridge-colonne">${contenuRelais(relaisA, relaisParId, true)}</div>
+      <div class="popup-bridge-fleche">&harr;</div>
+      <div class="popup-bridge-colonne">${contenuRelais(relaisB, relaisParId, true)}</div>
+    </div>
+  `;
+}
+
+function contenuPopupSite(membres, relaisParId) {
+  if (membres.length === 1) {
+    return contenuRelais(membres[0], relaisParId, false);
+  }
+
+  const paireBridgee = trouverPaireBridgeeDansGroupe(membres, relaisParId);
+  const idsPaireBridgee = new Set(paireBridgee ? paireBridgee.map((r) => r.id) : []);
+  const autres = membres.filter((r) => !idsPaireBridgee.has(r.id));
+
+  const blocs = [];
+  if (!paireBridgee || autres.length > 0) {
+    blocs.push(`<strong>${membres.length} relais sur ce site</strong>`);
+  }
+  if (paireBridgee) {
+    blocs.push(contenuBridgeDetaille(paireBridgee[0], paireBridgee[1], relaisParId));
+  }
+  blocs.push(...autres.map((r) => contenuRelais(r, relaisParId, false)));
+
+  return blocs.join("<hr>");
 }
 
 function afficherErreur(message) {
@@ -175,6 +216,50 @@ function regrouperParSite(listeRelais) {
   return [...groupes.values()];
 }
 
+function construireIndexParId(listeRelais) {
+  const index = new Map();
+  listeRelais.forEach((relais) => {
+    if (relais.id) index.set(relais.id, relais);
+  });
+  return index;
+}
+
+function groupeEstPonte(membres, relaisParId) {
+  return membres.some((r) => r.bridge_avec && relaisParId.has(r.bridge_avec));
+}
+
+function dessinerLiaisonsBridge(listeRelais, relaisParId) {
+  const dejaTracees = new Set();
+
+  listeRelais.forEach((relais) => {
+    if (!relais.bridge_avec) return;
+    const partenaire = relaisParId.get(relais.bridge_avec);
+    if (!partenaire || !relais.position || !partenaire.position) return;
+
+    const cle = [relais.id, partenaire.id].sort().join("|");
+    if (dejaTracees.has(cle)) return;
+    dejaTracees.add(cle);
+
+    const memePosition = cleSite(relais) === cleSite(partenaire);
+    if (memePosition) return; // déjà dans le même cercle, pas besoin de ligne
+
+    L.polyline(
+      [
+        [relais.position.lat, relais.position.lon],
+        [partenaire.position.lat, partenaire.position.lon],
+      ],
+      {
+        color: COULEUR_SITE_MULTIPLE,
+        weight: 2,
+        opacity: 0.8,
+        dashArray: "6 6",
+      }
+    )
+      .addTo(carteLeaflet)
+      .bindTooltip(ligneBridge(relais, partenaire), { sticky: true });
+  });
+}
+
 function initCarte(listeRelais) {
   carteLeaflet = L.map("map");
 
@@ -186,28 +271,31 @@ function initCarte(listeRelais) {
   const points = [];
   entrees = [];
 
+  const relaisParId = construireIndexParId(listeRelais);
   const sites = regrouperParSite(listeRelais);
 
   sites.forEach((membres) => {
     const { lat, lon } = membres[0].position;
     const rayon = Math.max(...membres.map((r) => r.position.rayon_m || RAYON_PAR_DEFAUT_M));
-    const multiSite = membres.length > 1;
-    const couleur = multiSite ? COULEUR_SITE_MULTIPLE : couleurRelais(membres[0]);
+    const ponte = groupeEstPonte(membres, relaisParId);
+    const couleur = ponte ? COULEUR_SITE_MULTIPLE : couleurRelais(membres[0]);
 
     const cercle = L.circle([lat, lon], {
       radius: rayon,
       color: "#ffffff",
-      weight: multiSite ? 2.5 : 1.5,
+      weight: membres.length > 1 ? 2.5 : 1.5,
       opacity: 0.9,
       fillColor: couleur,
       fillOpacity: 0.55,
     })
       .addTo(carteLeaflet)
-      .bindPopup(contenuPopupSite(membres));
+      .bindPopup(contenuPopupSite(membres, relaisParId), { maxWidth: 420, minWidth: 280 });
 
     entrees.push({ membres, cercle });
     points.push([lat, lon]);
   });
+
+  dessinerLiaisonsBridge(listeRelais, relaisParId);
 
   if (points.length > 0) {
     carteLeaflet.fitBounds(points, { padding: [40, 40], maxZoom: 13 });

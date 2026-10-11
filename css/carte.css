@@ -1,5 +1,6 @@
 .carte-main {
-  max-width: 900px;
+  max-width: none;
+  width: 100%;
   text-align: left;
 }
 
@@ -77,4 +78,49 @@
 .leaflet-popup-content {
   font-size: 0.9rem;
   line-height: 1.5;
+}
+
+.popup-bridge {
+  margin: 0.4rem 0 0.6rem;
+  padding: 0.4rem 0.6rem;
+  background: rgba(168, 85, 247, 0.15);
+  border: 1px solid #a855f7;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.leaflet-tooltip .popup-bridge {
+  margin: 0;
+  padding: 0;
+  background: none;
+  border: none;
+}
+
+.popup-bridge-entete {
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  color: #a855f7;
+  text-align: center;
+}
+
+.popup-bridge-cote-a-cote {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.7rem;
+}
+
+.popup-bridge-colonne {
+  flex: 1 1 0;
+  min-width: 0;
+  padding: 0.5rem 0.6rem;
+  background: rgba(168, 85, 247, 0.1);
+  border: 1px solid rgba(168, 85, 247, 0.4);
+  border-radius: 6px;
+}
+
+.popup-bridge-fleche {
+  flex-shrink: 0;
+  padding-top: 0.6rem;
+  font-size: 1.3rem;
+  color: #a855f7;
 }

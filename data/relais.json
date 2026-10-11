@@ -42,6 +42,7 @@
     "statut": "actif",
     "proprietaire": "Liège Hackerspace",
     "frequence_mhz": 868,
+    "bridge_avec": "be-lgg-lghs-433",
     "position": {
       "lat": 50.64275399403273,
       "lon": 5.585161603220797,
@@ -94,6 +95,7 @@
     "type": "Répéteur",
     "statut": "maintenance",
     "frequence_mhz": 433,
+    "bridge_avec": "be-lgg-lghs",
     "position": {
       "lat": 50.64275399403273,
       "lon": 5.585161603220797,
