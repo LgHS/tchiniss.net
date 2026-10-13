@@ -1,5 +1,18 @@
 [
   {
+    "id": "be-jem",
+    "nom": "BE-JEM-Tchiniss.net",
+    "type": "Répéteur",
+    "statut": "actif",
+    "proprietaire": "Tilto",
+    "frequence_mhz": 868,
+    "position": {
+      "lat": 50.61660713324906,
+      "lon": 5.504030318155139,
+      "rayon_m": 700
+    }
+  },
+  {
     "id": "be-lgg-tawes",
     "nom": "BE-LGG-TAWES-tchs.be",
     "type": "Répéteur",
@@ -175,6 +188,16 @@
     "position": {
       "lat": 50.63454704266085,
       "lon": 5.549704658537765,
+      "rayon_m": 700
+    }
+  },
+  {
+    "id": "projet-6",
+    "nom": "Site en projet n°6",
+    "statut": "projet",
+    "position": {
+      "lat": 50.678297981981785,
+      "lon": 5.465777811012171,
       "rayon_m": 700
     }
   }
