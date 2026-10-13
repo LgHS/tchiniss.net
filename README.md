@@ -17,9 +17,10 @@ css/carte.css         Styles de la carte
 css/nommage.css       Styles du générateur de nom
 js/carte.js          Logique de la carte (Leaflet)
 js/nommage.js        Logique du générateur de nom
-data/relais.json     Données des relais (voir ci-dessous)
-data/locode_be.json  Liste des communes belges (code LOCODE + nom)
-assets/              Images, favicon, etc.
+data/relais.json              Données des relais (voir ci-dessous)
+data/locode_be.json           Liste des communes belges (code LOCODE + nom)
+assets/                       Images, favicon, etc.
+.github/workflows/deploy.yml  Déploiement automatique FTP (voir ci-dessous)
 ```
 
 ## Carte des relais
@@ -115,6 +116,12 @@ La page `nommage.html` construit un nom conforme à la convention `BE-{commune}-
 La limite est celle de MeshCore pour un nom annoncé : **31 octets** (23 si la localisation est incluse dans l'annonce). Le formulaire calcule en direct le nombre d'octets restants pour la partie libre, et **bloque la saisie** une fois le budget atteint. Un bouton « Copier » copie le nom généré dans le presse-papiers.
 
 Une fréquence optionnelle peut être ajoutée en suffixe (ex: `-433`) pour distinguer deux modules sur un même site, ou un sélecteur « Bridge » qui ajoute `-B4` (bridge 433) ou `-B8` (bridge 868) à la place (ces deux options sont exclusives).
+
+## Déploiement
+
+`.github/workflows/deploy.yml` déploie automatiquement le site par FTPS vers l'hébergement o2switch à chaque push sur `main` (ou manuellement via l'onglet Actions de GitHub, "Run workflow"). Aucun build n'est nécessaire, le workflow fait juste un checkout puis copie les fichiers.
+
+À configurer une seule fois dans les secrets du dépôt GitHub (Settings → Secrets and variables → Actions) : `FTP_SERVER`, `FTP_USER`, `FTP_PASS`.
 
 ## Développement local
 
