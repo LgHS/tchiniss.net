@@ -20,6 +20,8 @@
     "proprietaire": "Liège Hackerspace",
     "frequence_mhz": 868,
     "date_deploiement": "2026-10-07",
+    "altitude_m": 112,
+    "hauteur_installation_m": 11,
     "position": {
       "lat": 50.65786860913479,
       "lon": 5.591619015876962,

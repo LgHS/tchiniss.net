@@ -62,7 +62,9 @@ function contenuRelais(relais, relaisParId, masquerLigneBridge) {
     relais.proprietaire ? `Propriétaire : ${echapper(relais.proprietaire)}` : null,
     relais.frequence_mhz != null ? `Fréquence : ${echapper(relais.frequence_mhz)} MHz` : null,
     relais.date_deploiement ? `Déployé le : ${echapper(formaterDate(relais.date_deploiement))}` : null,
-    relais.altitude_m != null ? `Altitude : ${echapper(relais.altitude_m)} m` : null,
+    relais.altitude_m != null
+      ? `Altitude : ${echapper(relais.altitude_m)} m${relais.hauteur_installation_m != null ? ` (+${echapper(relais.hauteur_installation_m)} m hauteur installation)` : ""}`
+      : null,
     antenne.type
       ? `Antenne : ${echapper(antenne.type)}${antenne.gain_dbi ? ` (${echapper(antenne.gain_dbi)} dBi)` : ""}`
       : null,

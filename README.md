@@ -61,7 +61,7 @@ La carte (`carte.html`) affiche les relais déclarés dans `data/relais.json`, u
 
 **Fortement recommandés** (techniquement optionnels, mais le relais devient inexploitable sans) : `id` (clé interne unique, jamais affichée), `nom` (titre de la popup).
 
-**Optionnels** (affichés dans la popup seulement si présents) : `type`, `statut`, `proprietaire`, `frequence_mhz`, `date_deploiement` (format `AAAA-MM-JJ`), `bridge_avec` (voir ci-dessous), `position.rayon_m` (défaut 700 m si absent), `altitude_m`, `antenne.*`, `hardware.*`, `description`.
+**Optionnels** (affichés dans la popup seulement si présents) : `type`, `statut`, `proprietaire`, `frequence_mhz`, `date_deploiement` (format `AAAA-MM-JJ`), `bridge_avec` (voir ci-dessous), `position.rayon_m` (défaut 700 m si absent), `altitude_m`, `hauteur_installation_m` (affiché en complément de `altitude_m`, ex: « Altitude : 112 m (+11 m hauteur installation) »), `antenne.*`, `hardware.*`, `description`.
 
 **Bridge** (`bridge_avec`) : identifiant (`id`) d'un autre relais avec lequel celui-ci forme un pont fonctionnel (ex: un même appareil relayant entre 868 et 433 MHz). À renseigner sur les deux entrées, chacune pointant vers l'`id` de l'autre. **Attention** : le fait que deux relais partagent la même position ne signifie pas qu'ils sont bridgés, ce sont deux informations indépendantes. Affichage :
 - Positions différentes : une ligne mauve en pointillés relie les deux cercles sur la carte, avec « 🌉 NomA ↔ NomB » en infobulle au survol.
