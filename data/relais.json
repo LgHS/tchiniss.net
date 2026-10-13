@@ -115,6 +115,8 @@
     "statut": "maintenance",
     "frequence_mhz": 433,
     "bridge_avec": "be-lgg-lghs",
+    "altitude_m": 66,
+    "hauteur_installation_m": 11,
     "position": {
       "lat": 50.64275399403273,
       "lon": 5.585161603220797,
