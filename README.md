@@ -63,11 +63,11 @@ La carte (`carte.html`) affiche les relais déclarés dans `data/relais.json`, u
 
 **Optionnels** (affichés dans la popup seulement si présents) : `type`, `statut`, `proprietaire`, `frequence_mhz`, `date_deploiement` (format `AAAA-MM-JJ`), `bridge_avec` (voir ci-dessous), `position.rayon_m` (défaut 700 m si absent), `altitude_m`, `antenne.*`, `hardware.*`, `description`.
 
-**Bridge** (`bridge_avec`) : identifiant (`id`) d'un autre relais avec lequel celui-ci forme un pont fonctionnel (ex: un même appareil relayant entre 868 et 433 MHz). À renseigner sur les deux entrées, chacune pointant vers l'`id` de l'autre. **Attention** : le fait que deux relais partagent la même position ne signifie pas qu'ils sont bridgés — ce sont deux informations indépendantes. Affichage :
+**Bridge** (`bridge_avec`) : identifiant (`id`) d'un autre relais avec lequel celui-ci forme un pont fonctionnel (ex: un même appareil relayant entre 868 et 433 MHz). À renseigner sur les deux entrées, chacune pointant vers l'`id` de l'autre. **Attention** : le fait que deux relais partagent la même position ne signifie pas qu'ils sont bridgés, ce sont deux informations indépendantes. Affichage :
 - Positions différentes : une ligne mauve en pointillés relie les deux cercles sur la carte, avec « 🌉 NomA ↔ NomB » en infobulle au survol.
 - Même site (déjà regroupés dans un seul cercle) : la popup affiche le détail complet des deux relais **côte à côte, en deux colonnes**, séparées par une flèche ↔.
 
-**Important** : `position.lat`/`position.lon` doivent être volontairement approximatifs (pas l'adresse exacte de l'antenne). La carte affiche un cercle de rayon `rayon_m` (700 m par défaut) plutôt qu'un point précis, justement pour ne pas révéler d'emplacement exact.
+**Important** : `position.lat`/`position.lon` doivent être volontairement approximatifs (pas l'adresse exacte de l'antenne). La carte affiche un cercle de rayon `rayon_m` (700 m par défaut) plutôt qu'un point précis, justement pour ne pas révéler d'emplacement exact. En dessous d'un certain niveau de zoom, le cercle agrandit temporairement son rayon affiché pour rester visible à l'écran (sans changer `rayon_m` dans les données), voir `ajusterRayonsVisibles` dans `js/carte.js`.
 
 **Gabarit pour ajouter un relais** : copier ce bloc dans le tableau de `data/relais.json` (après la dernière entrée, précédée d'une virgule) et ajuster/retirer les champs selon le relais réel.
 

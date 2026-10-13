@@ -17,6 +17,7 @@ const COULEUR_FREQUENCE_DEFAUT = "#9ca3af";
 
 const COULEUR_SITE_MULTIPLE = "#a855f7";
 const RAYON_PAR_DEFAUT_M = 700;
+const RAYON_MIN_PIXELS = 6;
 
 function couleurStatut(statut) {
   return STATUT_COULEURS[statut] || COULEUR_FREQUENCE_DEFAUT;
@@ -260,6 +261,19 @@ function dessinerLiaisonsBridge(listeRelais, relaisParId) {
   });
 }
 
+function metresParPixel(latitude, zoom) {
+  return (156543.03392 * Math.cos((latitude * Math.PI) / 180)) / Math.pow(2, zoom);
+}
+
+function ajusterRayonsVisibles() {
+  const zoom = carteLeaflet.getZoom();
+  entrees.forEach(({ cercle, rayonBase }) => {
+    const latlng = cercle.getLatLng();
+    const rayonMin = RAYON_MIN_PIXELS * metresParPixel(latlng.lat, zoom);
+    cercle.setRadius(Math.max(rayonBase, rayonMin));
+  });
+}
+
 function initCarte(listeRelais) {
   carteLeaflet = L.map("map");
 
@@ -291,17 +305,19 @@ function initCarte(listeRelais) {
       .addTo(carteLeaflet)
       .bindPopup(contenuPopupSite(membres, relaisParId), { maxWidth: 420, minWidth: 280 });
 
-    entrees.push({ membres, cercle });
+    entrees.push({ membres, cercle, rayonBase: rayon });
     points.push([lat, lon]);
   });
 
   dessinerLiaisonsBridge(listeRelais, relaisParId);
+  carteLeaflet.on("zoomend", ajusterRayonsVisibles);
 
   if (points.length > 0) {
     carteLeaflet.fitBounds(points, { padding: [40, 40], maxZoom: 13 });
   } else {
     carteLeaflet.setView([50.6326, 5.5797], 10);
   }
+  ajusterRayonsVisibles();
 
   construireFiltres(listeRelais);
 }
