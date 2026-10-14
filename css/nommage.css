@@ -10,11 +10,25 @@ code {
   font-size: 0.9em;
 }
 
-#form-nommage {
+.champ-choix-type {
   margin-top: 1.5rem;
+  flex-direction: row;
+  gap: 1.5rem;
+}
+
+.champ-choix-type label {
+  font-weight: 600;
+}
+
+.formulaire {
+  margin-top: 1.3rem;
   display: flex;
   flex-direction: column;
   gap: 1.3rem;
+}
+
+.formulaire[hidden] {
+  display: none;
 }
 
 .champ {

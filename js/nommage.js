@@ -6,6 +6,7 @@ let locodes = [];
 let communeSelectionnee = null;
 let resultatsCourants = [];
 let indexActif = -1;
+let pays = [];
 
 function octets(texte) {
   return new TextEncoder().encode(texte).length;
@@ -89,7 +90,60 @@ function selectionnerCommune(entree) {
   miseAJour();
 }
 
+function emojiDrapeau(code2) {
+  return [...code2.toUpperCase()].map((c) => String.fromCodePoint(0x1f1e6 + c.charCodeAt(0) - 65)).join("");
+}
+
+function peuplePays(liste) {
+  pays = liste;
+  const select = document.getElementById("pays");
+  liste.forEach((p) => {
+    const option = document.createElement("option");
+    option.value = p.code;
+    option.textContent = `${emojiDrapeau(p.code)} ${p.nom}`;
+    select.appendChild(option);
+  });
+  select.value = "BE";
+}
+
 function miseAJour() {
+  if (document.getElementById("type-companion").checked) {
+    miseAJourCompanion();
+  } else {
+    miseAJourRepeteur();
+  }
+}
+
+function miseAJourCompanion() {
+  const code = document.getElementById("pays").value || "BE";
+  const drapeau = emojiDrapeau(code);
+
+  const fixe = octets(`${drapeau}-${SUFFIXE}`);
+  const restant = Math.max(0, LIMITE_OCTETS - fixe);
+
+  const champPseudo = document.getElementById("pseudo");
+  const brut = champPseudo.value;
+  const tronque = tronquerParOctets(brut, restant);
+  if (tronque !== brut) {
+    champPseudo.value = tronque;
+  }
+
+  const nom = `${drapeau}-${tronque || "..."}${SUFFIXE}`;
+  const nbOctets = octets(nom);
+  const depasse = nbOctets > LIMITE_OCTETS;
+
+  document.getElementById("resultat-nom").textContent = nom;
+  document.getElementById("resultat-nom").classList.toggle("resultat-erreur", depasse);
+
+  const compteur = document.getElementById("resultat-compteur");
+  compteur.textContent = `${nbOctets} / ${LIMITE_OCTETS} octets${depasse ? ", trop long, raccourcis le pseudo" : ""}`;
+  compteur.classList.toggle("aide-erreur", depasse);
+
+  const compteurPseudo = document.getElementById("pseudo-compteur");
+  compteurPseudo.textContent = `${octets(tronque)} / ${restant} octet(s) utilisés pour le pseudo`;
+}
+
+function miseAJourRepeteur() {
   const statutCommune = document.getElementById("commune-statut");
 
   if (communeSelectionnee) {
@@ -100,12 +154,12 @@ function miseAJour() {
     statutCommune.classList.toggle("aide-erreur", document.getElementById("commune-recherche").value.trim() !== "");
   }
 
-  const bridge = document.getElementById("bridge").value;
+  const bridge = document.getElementById("bridge").checked;
   const avecFrequence = !bridge && document.getElementById("avec-frequence").checked;
   const frequence = document.getElementById("frequence").value.trim();
   const code = communeSelectionnee ? communeSelectionnee.LOCODE : "???";
 
-  const suffixeStatut = bridge ? `-${bridge}` : avecFrequence && frequence ? `-${frequence}` : "";
+  const suffixeStatut = bridge ? "-BR" : avecFrequence && frequence ? `-${frequence}` : "";
   const fixeHorsLibre = octets(`${PREFIXE}${code}-${SUFFIXE}${suffixeStatut}`);
   const restant = Math.max(0, LIMITE_OCTETS - fixeHorsLibre);
 
@@ -126,7 +180,7 @@ function miseAJour() {
   document.getElementById("resultat-nom").classList.toggle("resultat-erreur", depasse);
 
   const compteur = document.getElementById("resultat-compteur");
-  compteur.textContent = `${nbOctets} / ${LIMITE_OCTETS} octets${depasse ? " — trop long, raccourcis la partie libre" : ""}`;
+  compteur.textContent = `${nbOctets} / ${LIMITE_OCTETS} octets${depasse ? ", trop long, raccourcis la partie libre" : ""}`;
   compteur.classList.toggle("aide-erreur", depasse);
 
   const compteurLibre = document.getElementById("libre-compteur");
@@ -178,7 +232,7 @@ document.getElementById("avec-frequence").addEventListener("change", (e) => {
 
 document.getElementById("bridge").addEventListener("change", (e) => {
   const caseFrequence = document.getElementById("avec-frequence");
-  const actif = e.target.value !== "";
+  const actif = e.target.checked;
   caseFrequence.disabled = actif;
   if (actif) {
     caseFrequence.checked = false;
@@ -189,6 +243,19 @@ document.getElementById("bridge").addEventListener("change", (e) => {
 
 ["libre", "frequence"].forEach((id) => {
   document.getElementById(id).addEventListener("input", miseAJour);
+});
+
+["pays", "pseudo"].forEach((id) => {
+  document.getElementById(id).addEventListener("input", miseAJour);
+});
+
+["type-repeteur", "type-companion"].forEach((id) => {
+  document.getElementById(id).addEventListener("change", () => {
+    const companion = document.getElementById("type-companion").checked;
+    document.getElementById("form-repeteur").hidden = companion;
+    document.getElementById("form-companion").hidden = !companion;
+    miseAJour();
+  });
 });
 
 document.getElementById("bouton-copier").addEventListener("click", async () => {
@@ -219,4 +286,17 @@ fetch("data/locode_be.json")
     console.error("Erreur de chargement des communes :", erreur);
     document.getElementById("commune-statut").textContent = "Impossible de charger la liste des communes.";
     document.getElementById("commune-statut").classList.add("aide-erreur");
+  });
+
+fetch("data/pays.json")
+  .then((reponse) => {
+    if (!reponse.ok) throw new Error("Réponse HTTP " + reponse.status);
+    return reponse.json();
+  })
+  .then((liste) => {
+    peuplePays(liste);
+    miseAJour();
+  })
+  .catch((erreur) => {
+    console.error("Erreur de chargement des pays :", erreur);
   });

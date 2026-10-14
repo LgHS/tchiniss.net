@@ -17,9 +17,22 @@
       </nav>
 
       <h1>Générateur de nom de module</h1>
-      <p>Construit un nom au format <code>BE-{commune}-{libre}-tchs.be</code>, dans la limite des <strong>31 octets</strong> acceptés par MeshCore pour un nom annoncé (23 si la localisation est incluse dans l'annonce).</p>
+      <p>Dans la limite des <strong>31 octets</strong> acceptés par MeshCore pour un nom annoncé (23 si la localisation est incluse dans l'annonce).</p>
 
-      <form id="form-nommage" autocomplete="off">
+      <div class="champ champ-case champ-choix-type">
+        <label>
+          <input type="radio" name="type-nom" id="type-repeteur" checked>
+          Nom de répéteur
+        </label>
+        <label>
+          <input type="radio" name="type-nom" id="type-companion">
+          Nom de compagnon
+        </label>
+      </div>
+
+      <form id="form-repeteur" class="formulaire" autocomplete="off">
+        <p class="aide">Format : <code>BE-{commune}-{libre}-tchs.be</code></p>
+
         <div class="champ">
           <label for="commune-recherche">Commune</label>
           <div class="dropdown" id="commune-dropdown">
@@ -52,13 +65,26 @@
           <input type="text" id="frequence" placeholder="433" maxlength="4" disabled>
         </div>
 
+        <div class="champ champ-case">
+          <label>
+            <input type="checkbox" id="bridge">
+            Bridge : ajoute <code>-BR</code> au nom
+          </label>
+        </div>
+      </form>
+
+      <form id="form-companion" class="formulaire" autocomplete="off" hidden>
+        <p class="aide">Format : <code>{drapeau}-{pseudo}-tchs.be</code></p>
+
         <div class="champ">
-          <label for="bridge">Bridge</label>
-          <select id="bridge">
-            <option value="">Aucun</option>
-            <option value="B4">Bridge 433 (ajoute -B4)</option>
-            <option value="B8">Bridge 868 (ajoute -B8)</option>
-          </select>
+          <label for="pays">Pays</label>
+          <select id="pays"></select>
+        </div>
+
+        <div class="champ">
+          <label for="pseudo">Pseudo</label>
+          <input type="text" id="pseudo" maxlength="40" placeholder="ex: PICO1">
+          <p class="aide" id="pseudo-compteur"></p>
         </div>
       </form>
 
