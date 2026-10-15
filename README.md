@@ -116,7 +116,7 @@ La page `nommage.html` propose deux formulaires au choix (case à cocher en haut
 
 **Nom de répéteur** : format `BE-{commune}-{libre}-tchs.be`, où `{commune}` est un code LOCODE à 3 lettres choisi dans `data/locode_be.json` (recherche par nom de commune). Une fréquence optionnelle peut être ajoutée en suffixe (ex: `-433`) pour distinguer deux modules sur un même site, ou une case « Bridge » qui ajoute `-BR` à la place (ces deux options sont exclusives).
 
-**Nom de compagnon** : format `{drapeau}-{pseudo}-tchs.be`, où `{drapeau}` est l'emoji du pays choisi dans `data/pays.json` (Belgique par défaut), généré depuis son code ISO2 (pas d'image, uniquement les symboles indicateurs régionaux Unicode). Le drapeau coûte 8 octets, ce qui réduit d'autant le budget disponible pour le pseudo.
+**Nom de compagnon** : format `{drapeau}{pseudo}-tchs.be` (pas de séparateur entre le drapeau et le pseudo, pour économiser un octet sur un budget déjà serré), où `{drapeau}` est l'emoji du pays choisi dans `data/pays.json` (Belgique par défaut), généré depuis son code ISO2 (pas d'image, uniquement les symboles indicateurs régionaux Unicode). Le drapeau coûte 8 octets, ce qui réduit d'autant le budget disponible pour le pseudo.
 
 ## Déploiement
 

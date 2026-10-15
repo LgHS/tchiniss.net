@@ -118,7 +118,7 @@ function miseAJourCompanion() {
   const code = document.getElementById("pays").value || "BE";
   const drapeau = emojiDrapeau(code);
 
-  const fixe = octets(`${drapeau}-${SUFFIXE}`);
+  const fixe = octets(`${drapeau}${SUFFIXE}`);
   const restant = Math.max(0, LIMITE_OCTETS - fixe);
 
   const champPseudo = document.getElementById("pseudo");
@@ -128,7 +128,7 @@ function miseAJourCompanion() {
     champPseudo.value = tronque;
   }
 
-  const nom = `${drapeau}-${tronque || "..."}${SUFFIXE}`;
+  const nom = `${drapeau}${tronque || "..."}${SUFFIXE}`;
   const nbOctets = octets(nom);
   const depasse = nbOctets > LIMITE_OCTETS;
 
