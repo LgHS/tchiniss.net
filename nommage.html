@@ -31,7 +31,7 @@
       </div>
 
       <form id="form-repeteur" class="formulaire" autocomplete="off">
-        <p class="aide">Format : <code>BE-{commune}-{libre}-tchs.be</code></p>
+        <p class="aide">Format : <code>BE-{commune}-{libre}.tchs.be</code></p>
 
         <div class="champ">
           <label for="commune-recherche">Commune</label>
@@ -57,24 +57,18 @@
           <p class="aide" id="libre-compteur"></p>
         </div>
 
-        <div class="champ champ-case">
-          <label>
-            <input type="checkbox" id="avec-frequence">
-            Ajouter une fréquence au nom (pour distinguer deux modules au même site, ex: <code>-433</code>)
-          </label>
-          <input type="text" id="frequence" placeholder="433" maxlength="4" disabled>
-        </div>
-
-        <div class="champ champ-case">
-          <label>
-            <input type="checkbox" id="bridge">
-            Bridge : ajoute <code>-BR</code> au nom
-          </label>
+        <div class="champ">
+          <label for="bridge">Bridge</label>
+          <select id="bridge">
+            <option value="">Aucun</option>
+            <option value="B4">Bridge 433 (ajoute -B4)</option>
+            <option value="B8">Bridge 868 (ajoute -B8)</option>
+          </select>
         </div>
       </form>
 
       <form id="form-companion" class="formulaire" autocomplete="off" hidden>
-        <p class="aide">Format : <code>{drapeau}{pseudo}-tchs.be</code></p>
+        <p class="aide">Format : <code>{drapeau}{pseudo}.tchs.be</code></p>
 
         <div class="champ">
           <label for="pays">Pays</label>
@@ -90,7 +84,7 @@
 
       <div class="resultat" id="resultat">
         <div class="resultat-ligne">
-          <p class="resultat-nom" id="resultat-nom">BE-...-...-tchs.be</p>
+          <p class="resultat-nom" id="resultat-nom">BE-...-....tchs.be</p>
           <button type="button" id="bouton-copier" class="bouton-copier">Copier</button>
         </div>
         <p class="resultat-compteur" id="resultat-compteur"></p>

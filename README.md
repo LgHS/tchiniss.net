@@ -114,9 +114,9 @@ La carte (`carte.html`) affiche les relais déclarés dans `data/relais.json`, u
 
 La page `nommage.html` propose deux formulaires au choix (case à cocher en haut de page), tous deux limités aux **31 octets** acceptés par MeshCore pour un nom annoncé (23 si la localisation est incluse dans l'annonce). Le formulaire calcule en direct le nombre d'octets restants et **bloque la saisie** une fois le budget atteint. Un bouton « Copier » copie le nom généré dans le presse-papiers.
 
-**Nom de répéteur** : format `BE-{commune}-{libre}-tchs.be`, où `{commune}` est un code LOCODE à 3 lettres choisi dans `data/locode_be.json` (recherche par nom de commune). Une fréquence optionnelle peut être ajoutée en suffixe (ex: `-433`) pour distinguer deux modules sur un même site, ou une case « Bridge » qui ajoute `-BR` à la place (ces deux options sont exclusives).
+**Nom de répéteur** : format `BE-{commune}-{libre}.tchs.be`, où `{commune}` est un code LOCODE à 3 lettres choisi dans `data/locode_be.json` (recherche par nom de commune). Un sélecteur « Bridge » insère `-B4` (bridge 433) ou `-B8` (bridge 868) juste avant le suffixe, ex: `BE-LGG-LGHS-B4.tchs.be`.
 
-**Nom de compagnon** : format `{drapeau}{pseudo}-tchs.be` (pas de séparateur entre le drapeau et le pseudo, pour économiser un octet sur un budget déjà serré), où `{drapeau}` est l'emoji du pays choisi dans `data/pays.json` (Belgique par défaut), généré depuis son code ISO2 (pas d'image, uniquement les symboles indicateurs régionaux Unicode). Le drapeau coûte 8 octets, ce qui réduit d'autant le budget disponible pour le pseudo.
+**Nom de compagnon** : format `{drapeau}{pseudo}.tchs.be` (pas de séparateur entre le drapeau et le pseudo, pour économiser un octet sur un budget déjà serré), où `{drapeau}` est l'emoji du pays choisi dans `data/pays.json` (Belgique par défaut), généré depuis son code ISO2 (pas d'image, uniquement les symboles indicateurs régionaux Unicode). Le drapeau coûte 8 octets, ce qui réduit d'autant le budget disponible pour le pseudo.
 
 ## Déploiement
 

@@ -1,5 +1,5 @@
 const PREFIXE = "BE-";
-const SUFFIXE = "-tchs.be";
+const SUFFIXE = ".tchs.be";
 const LIMITE_OCTETS = 31;
 const LIMITE_OCTETS_AVEC_LOCALISATION = 23;
 let locodes = [];
@@ -154,13 +154,11 @@ function miseAJourRepeteur() {
     statutCommune.classList.toggle("aide-erreur", document.getElementById("commune-recherche").value.trim() !== "");
   }
 
-  const bridge = document.getElementById("bridge").checked;
-  const avecFrequence = !bridge && document.getElementById("avec-frequence").checked;
-  const frequence = document.getElementById("frequence").value.trim();
+  const bridge = document.getElementById("bridge").value;
   const code = communeSelectionnee ? communeSelectionnee.LOCODE : "???";
 
-  const suffixeStatut = bridge ? "-BR" : avecFrequence && frequence ? `-${frequence}` : "";
-  const fixeHorsLibre = octets(`${PREFIXE}${code}-${SUFFIXE}${suffixeStatut}`);
+  const suffixeBridge = bridge ? `-${bridge}` : "";
+  const fixeHorsLibre = octets(`${PREFIXE}${code}-${suffixeBridge}${SUFFIXE}`);
   const restant = Math.max(0, LIMITE_OCTETS - fixeHorsLibre);
 
   const champLibre = document.getElementById("libre");
@@ -171,7 +169,7 @@ function miseAJourRepeteur() {
   }
   const libre = libreTronque.trim();
 
-  const nom = `${PREFIXE}${code}-${libre || "..."}${SUFFIXE}${suffixeStatut}`;
+  const nom = `${PREFIXE}${code}-${libre || "..."}${suffixeBridge}${SUFFIXE}`;
 
   const nbOctets = octets(nom);
   const depasse = nbOctets > LIMITE_OCTETS;
@@ -225,25 +223,9 @@ champCommune.addEventListener("keydown", (e) => {
   }
 });
 
-document.getElementById("avec-frequence").addEventListener("change", (e) => {
-  document.getElementById("frequence").disabled = !e.target.checked;
-  miseAJour();
-});
+document.getElementById("bridge").addEventListener("change", miseAJour);
 
-document.getElementById("bridge").addEventListener("change", (e) => {
-  const caseFrequence = document.getElementById("avec-frequence");
-  const actif = e.target.checked;
-  caseFrequence.disabled = actif;
-  if (actif) {
-    caseFrequence.checked = false;
-    document.getElementById("frequence").disabled = true;
-  }
-  miseAJour();
-});
-
-["libre", "frequence"].forEach((id) => {
-  document.getElementById(id).addEventListener("input", miseAJour);
-});
+document.getElementById("libre").addEventListener("input", miseAJour);
 
 ["pays", "pseudo"].forEach((id) => {
   document.getElementById(id).addEventListener("input", miseAJour);
